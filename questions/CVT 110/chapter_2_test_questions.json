@@ -1,0 +1,761 @@
+[
+  {
+    "prompt": "Which type of person is described as a person who talks first and thinks later?",
+    "choices": [
+      "Introvert",
+      "Intuitive",
+      "Extrovert",
+      "Sensing"
+    ],
+    "answer": 2,
+    "explanation": "An extrovert is someone described as one who talks first and thinks later."
+  },
+  {
+    "prompt": "What type of person is described as a person who may be perceived as shy?",
+    "choices": [
+      "Introvert",
+      "Intuitive",
+      "Extrovert",
+      "Sensing"
+    ],
+    "answer": 0,
+    "explanation": "An introvert is a person who is described often as being shy."
+  },
+  {
+    "prompt": "Which type of person would be described as someone who would most likely feel “if it ain’t broke, don’t fix it”?",
+    "choices": [
+      "Introvert",
+      "Intuitive",
+      "Extrovert",
+      "Sensing"
+    ],
+    "answer": 3,
+    "explanation": "A sensing person would be described as someone who would most likely feel “if it ain’t broke, don’t fix it.”"
+  },
+  {
+    "prompt": "Which type of person would rather fantasize about how to spend his or her next paycheck rather than balancing his or her checkbook?",
+    "choices": [
+      "Introvert",
+      "Intuitive",
+      "Extrovert",
+      "Sensing"
+    ],
+    "answer": 1,
+    "explanation": "An intuitive person would rather fantasize about how to spend his or her next paycheck rather than balancing his or her checkbook."
+  },
+  {
+    "prompt": "What type of person would rather settle problems based on the facts, fairness, and truth?",
+    "choices": [
+      "Feeler",
+      "Judger",
+      "Thinker",
+      "Extrovert"
+    ],
+    "answer": 2,
+    "explanation": "A thinker would rather settle problems based on the facts, fairness, and truth."
+  },
+  {
+    "prompt": "What type of person would prefer harmony over clarity?",
+    "choices": [
+      "Feeler",
+      "Judger",
+      "Thinker",
+      "Perceiver"
+    ],
+    "answer": 0,
+    "explanation": "A feeling person would prefer harmony over clarity."
+  },
+  {
+    "prompt": "What type of person keeps lists and uses them?",
+    "choices": [
+      "Feeler",
+      "Judger",
+      "Thinker",
+      "Perceiver"
+    ],
+    "answer": 1,
+    "explanation": "A judging person keeps lists and uses them."
+  },
+  {
+    "prompt": "What type of person turns most work into play?",
+    "choices": [
+      "Feeler",
+      "Judger",
+      "Thinker",
+      "Perceiver"
+    ],
+    "answer": 3,
+    "explanation": "A perceiving person turns most work into play."
+  },
+  {
+    "prompt": "What percentage of the population are traditionalists, practical, very organized, trustworthy, and dependable?",
+    "choices": [
+      "Approximately 10%",
+      "Approximately 25%",
+      "Approximately 5%",
+      "Approximately 40%"
+    ],
+    "answer": 3,
+    "explanation": "Approximately 40% of the population are ESTJ, ISTJ, ESFJ, or ISFJ and are therefore considered to be traditionalists, practical, very organized, trustworthy, and dependable."
+  },
+  {
+    "prompt": "Which of the following would be a valid reason for appreciating your personality type?",
+    "choices": [
+      "So that you can align yourself professionally with those who are your type",
+      "So that you can avoid certain personality types",
+      "So that you can identify your weaknesses and repair them before entering sonography",
+      "So that you can identify your strengths and utilize them as a sonographer"
+    ],
+    "answer": 3,
+    "explanation": "You should appreciate your personality type so that you can identify your strengths and utilize them as a sonographer."
+  },
+  {
+    "prompt": "Which of the following best describes emotional intelligence?",
+    "choices": [
+      "Combining emotions and cognition facilitates intelligent decisions.",
+      "Combining affluence and emotions forces one to make better decision.",
+      "Combining assumptions and intuitions aids in decision-making.",
+      "Combining emotions and intuition encourages proper guessing."
+    ],
+    "answer": 0,
+    "explanation": "Combining emotions and cognition facilitates decisions, manages emotions, improves relationships, and ultimately results in more intelligent decisions."
+  },
+  {
+    "prompt": "What is the strongest predictor of success in the workplace?",
+    "choices": [
+      "Motivation",
+      "Cognition",
+      "Confidence",
+      "Emotional intelligence"
+    ],
+    "answer": 3,
+    "explanation": "Emotional intelligence, according to Daniel Goleman, is the strongest predictor of success in the workplace."
+  },
+  {
+    "prompt": "Which of the following is not a component of emotional intelligence?",
+    "choices": [
+      "Empathy",
+      "Social skills",
+      "Self-awareness",
+      "Self-confidence"
+    ],
+    "answer": 3,
+    "explanation": "Self-confidence is not a component of emotional intelligence."
+  },
+  {
+    "prompt": "The ability of a healthcare worker to manage his or her interpersonal and intrapersonal skills increases his or her:",
+    "choices": [
+      "Self-awareness and cognition",
+      "Cognition and enjoyment",
+      "Capacity to cope with stress and job satisfaction",
+      "Truthfulness and diligence"
+    ],
+    "answer": 2,
+    "explanation": "The ability of a healthcare worker to manage his or her interpersonal and intrapersonal skill increases his or her capacity to cope with stress and job satisfaction."
+  },
+  {
+    "prompt": "Which of the following is described as having a thorough understanding of one’s emotions, strengths, weaknesses, needs, and ambition?",
+    "choices": [
+      "Self-regulation",
+      "Motivation",
+      "Empathy",
+      "Self-awareness"
+    ],
+    "answer": 3,
+    "explanation": "Self-awareness is described as having a thorough understanding of one’s emotions, strengths, weaknesses, needs, and ambition."
+  },
+  {
+    "prompt": "Which of the following describes the ongoing conversation that we must have with ourselves that frees us from feelings?",
+    "choices": [
+      "Self-regulation",
+      "Motivation",
+      "Empathy",
+      "Self-awareness"
+    ],
+    "answer": 0,
+    "explanation": "Self-regulation describes the ongoing conversation that we must have with ourselves that frees us from feelings."
+  },
+  {
+    "prompt": "What is described as achieving beyond everyone’s expectations, including our own and to achieve for the sake of achieving?",
+    "choices": [
+      "Self-regulation",
+      "Motivation",
+      "Empathy",
+      "Self-awareness"
+    ],
+    "answer": 1,
+    "explanation": "Motivation is described as achieving beyond everyone’s expectations, including our own and to achieve for the sake of achieving."
+  },
+  {
+    "prompt": "What combines friendliness, cooperation, and effective communication to improve interactions?",
+    "choices": [
+      "Social skills",
+      "Empathetic feelings",
+      "Compassion fatigue",
+      "Self-regulation mechanisms"
+    ],
+    "answer": 0,
+    "explanation": "Social skills are described as combining friendliness, cooperation, and effective communication to improve interactions."
+  },
+  {
+    "prompt": "Which of the following is a true statement concerning personality types?",
+    "choices": [
+      "If you find anxiety over your personality type, you should try to change.",
+      "You don’t have to change yourself; you just have to change your self’s outlet.",
+      "If you are an introvert, you can change to an extrovert with practice.",
+      "Learning about your strengths and weaknesses is a onetime exercise."
+    ],
+    "answer": 1,
+    "explanation": "You don’t have to change yourself; you just have to change your self’s outlet."
+  },
+  {
+    "prompt": "Which of the following is not true about people who have a well-defined identity?",
+    "choices": [
+      "These people know what they like.",
+      "These people never change.",
+      "These people know what they believe.",
+      "These people know how to utilize their strengths."
+    ],
+    "answer": 1,
+    "explanation": "People can change the way their personality is expressed, but you must first want to change to make a change."
+  },
+  {
+    "prompt": "Ethics at work is:",
+    "choices": [
+      "Not demonstrated through your actions",
+      "Doing the right thing because you are told to",
+      "Bending the rules if needed in order to keep everyone happy",
+      "Having the capability of knowing the right thing to do and doing it"
+    ],
+    "answer": 3,
+    "explanation": "Ethics at work is having the capability of knowing the right thing to do and doing it."
+  },
+  {
+    "prompt": "According to a survey of over 1,500 employers, they are searching for all of the following except:",
+    "choices": [
+      "Employees who are highly educated",
+      "Employees who are honest",
+      "Employees who play by the rules",
+      "Employees who are friendly"
+    ],
+    "answer": 0,
+    "explanation": "You don’t have to always be scholarly to please employers."
+  },
+  {
+    "prompt": "Which of the following is a trait that both employers and patients expect from sonographers?",
+    "choices": [
+      "Intellectual",
+      "Affectionate",
+      "Respectful",
+      "Courageous"
+    ],
+    "answer": 2,
+    "explanation": "Both employers and patients expect the sonographer to be respectful."
+  },
+  {
+    "prompt": "Patients expect all of the following from sonographers except:",
+    "choices": [
+      "Clear communication",
+      "Compassion",
+      "Sincerity",
+      "Love"
+    ],
+    "answer": 3,
+    "explanation": "Patients expect sonographers to listen, provide clear communication, be courteous, be compassionate, be empathetic, understand them, be sincere, and respect them."
+  },
+  {
+    "prompt": "All hospitals are essentially:",
+    "choices": [
+      "Organizations that serve patients without responsibility",
+      "Organizations out to purely make money",
+      "Organizations that are primarily concerned with pleasing their customers",
+      "Organizations that refuse to care for patients who do not have insurance"
+    ],
+    "answer": 2,
+    "explanation": "Hospitals are organizations that are primarily concerned with pleasing their customers, patients."
+  },
+  {
+    "prompt": "Character includes all of the following except:",
+    "choices": [
+      "How a person acts",
+      "How a person looks",
+      "How a person feels",
+      "How a person thinks"
+    ],
+    "answer": 1,
+    "explanation": "Character does not include how a person looks."
+  },
+  {
+    "prompt": "Which of the following is true of your reputation as a sonography student?",
+    "choices": [
+      "Your reputation can easily be changed.",
+      "Your reputation impacts to your future.",
+      "Your reputation is based on your scanning ability.",
+      "Your reputation is based on your social life."
+    ],
+    "answer": 1,
+    "explanation": "Your reputation as a student is important to your future success as a sonographer."
+  },
+  {
+    "prompt": "Which of the following is true of social media?",
+    "choices": [
+      "Social media is examined by employers prior to employment.",
+      "Social media is a place where reality exists.",
+      "Social media is visible to your friends and not anyone else.",
+      "Social media should be monitored in the patient care setting."
+    ],
+    "answer": 0,
+    "explanation": "Social media is often investigated by an employer prior to employment."
+  },
+  {
+    "prompt": "Constructive criticism:",
+    "choices": [
+      "Should provide valid opinions about the work of others",
+      "Should be provided frankly in the scrutiny of others",
+      "Should ensure that the person recognizes his or her personality faults",
+      "Is always insincere"
+    ],
+    "answer": 0,
+    "explanation": "Constructive criticism should provide valid opinions about the work of others."
+  },
+  {
+    "prompt": "Which of the following is not a way to demonstrate respect to your patient?",
+    "choices": [
+      "Shaking his or her hand when you first meet him or her",
+      "Calling the patient by his or her first name",
+      "Paying attention when he or she needs talking",
+      "Saying “please” and “thank you”"
+    ],
+    "answer": 1,
+    "explanation": "You should use honorific terms like “Mr.” or “Ms.” when communicating with patients."
+  },
+  {
+    "prompt": "If there is a difference between compassion and empathy, what is it?",
+    "choices": [
+      "Compassion is feeling sorry for someone, while empathy demonstrates affection for someone.",
+      "Compassion demonstrates that we feel for our patients, while empathy demonstrates that you understand to the point of feeling how your patient feels.",
+      "Compassion demonstrates that you care for certain people, while empathy demonstrates that you care for all people.",
+      "Compassion and empathy are the same."
+    ],
+    "answer": 1,
+    "explanation": "Empathy is similar to compassion, but on a higher level. Empathy demonstrates that you understand to the point of feeling how another person feels."
+  },
+  {
+    "prompt": "To be empathetic, one must:",
+    "choices": [
+      "Learn to read the patient’s thoughts",
+      "Yearn to please everyone",
+      "Attempt to view the world through others’ eyes",
+      "Judge the patient’s only by his or her actions"
+    ],
+    "answer": 2,
+    "explanation": "To be empathetic, one must attempt to view the world through others’ eyes."
+  },
+  {
+    "prompt": "What has been identified as the single most important restraint against immoral or antisocial behavior?",
+    "choices": [
+      "Sympathy",
+      "Courtesy",
+      "Respect",
+      "Empathy"
+    ],
+    "answer": 3,
+    "explanation": "Empathy has been identified as the single most important restraint against immoral or antisocial behavior."
+  },
+  {
+    "prompt": "Which of the following is not true of an empathetic sonographer?",
+    "choices": [
+      "He or she listens to patients without judging.",
+      "He or she makes an honest attempt to understand the patient.",
+      "He or she reveals a willingness to help patients.",
+      "He or she is cynical about patient complaints."
+    ],
+    "answer": 3,
+    "explanation": "An empathetic sonographer does not become cynical about patient complaints."
+  },
+  {
+    "prompt": "What could result in sonographer burnout as a result of continually caring for our patients?",
+    "choices": [
+      "Antisocial behavior",
+      "Compassion fatigue",
+      "Compassion distraction",
+      "Compassion distress"
+    ],
+    "answer": 1,
+    "explanation": "Compassion fatigue can be mentioned as a complication often discovered in people who work in caring professions like sonography."
+  },
+  {
+    "prompt": "Compassion fatigue results from the combination of:",
+    "choices": [
+      "Distress and tiredness",
+      "Compassion and empathy",
+      "Emotional distress and emotional instability",
+      "Traumatic stress and burnout"
+    ],
+    "answer": 3,
+    "explanation": "Compassion fatigue results from the combination of traumatic stress and burnout."
+  },
+  {
+    "prompt": "Which of the following would not be a likely short-term result of compassion fatigue?",
+    "choices": [
+      "Cynicism",
+      "Pessimism",
+      "Job satisfaction",
+      "Nervousness"
+    ],
+    "answer": 2,
+    "explanation": "Compassion fatigue can lead to job dissatisfaction."
+  },
+  {
+    "prompt": "Which of the following would not be a likely long-term result of compassion fatigue?",
+    "choices": [
+      "Weight gain",
+      "Poor work performance",
+      "Personality changes",
+      "Desire to leave profession"
+    ],
+    "answer": 0,
+    "explanation": "Weight loss is a likely long-term result of compassion fatigue."
+  },
+  {
+    "prompt": "What individuals have better coping abilities with compassion fatigue?",
+    "choices": [
+      "People with respect, courtesy, and honesty",
+      "People with high emotional intelligence",
+      "People with intense empathy",
+      "People with a regular home life"
+    ],
+    "answer": 1,
+    "explanation": "People with high emotional intelligence have better coping abilities with compassion fatigue."
+  },
+  {
+    "prompt": "Which of the following is not one of the primary principles of the SDMS Code of Ethics sonographers should use to promote the well-being of patients?",
+    "choices": [
+      "High level of intellect",
+      "Competence",
+      "Honesty and integrity",
+      "Trust"
+    ],
+    "answer": 0,
+    "explanation": "A high level of intellect is not one of the primary principles of the SDMS Code of Ethics."
+  },
+  {
+    "prompt": "Which of the following is true of standards?",
+    "choices": [
+      "Everyone’s standards are the same.",
+      "Sonographer standards vary per specialty.",
+      "Second-rate standards never result in a first-rate person.",
+      "Standards are the same as goals."
+    ],
+    "answer": 2,
+    "explanation": "Second-rate standards never result in a first-rate person."
+  },
+  {
+    "prompt": "Which of the following has been referred to as the characteristic that influences a person’s behavior the most?",
+    "choices": [
+      "Enthusiasm",
+      "Self-motivation",
+      "Reliability",
+      "Self-esteem"
+    ],
+    "answer": 1,
+    "explanation": "Self-motivation has been referred to as the characteristic that influences a person’s behavior the most."
+  },
+  {
+    "prompt": "Which of the following is not true of self-motivation?",
+    "choices": [
+      "Self-motivation is demonstrated by your initiative and enthusiasm to learn.",
+      "Self-motivation is demonstrated by your willingness to learn.",
+      "Self-motivated individuals take it upon themselves to learn more about sonography.",
+      "Self-motivated individuals consistently demonstrate honesty and integrity."
+    ],
+    "answer": 3,
+    "explanation": "Self-motivated individuals may or may not demonstrate honesty and integrity."
+  },
+  {
+    "prompt": "Which of the following is not a required trait for sonographers according to the American Society of Echocardiography?",
+    "choices": [
+      "Enthusiasm",
+      "Maturity",
+      "Friendliness",
+      "Positive attitude"
+    ],
+    "answer": 1,
+    "explanation": "Enthusiasm, friendliness, and positive attitude were listed as required traits for sonographers according to the American Society of Echocardiography."
+  },
+  {
+    "prompt": "How do sonographers keep current with changes in healthcare in order to maintain certification after one is registered or certified?",
+    "choices": [
+      "Continuing medical education",
+      "Continual educational units",
+      "Continual medical units",
+      "Continuing medical learning"
+    ],
+    "answer": 0,
+    "explanation": "Sonographers keep current with changes in healthcare through continuing medical education (CME) in order to maintain certification after."
+  },
+  {
+    "prompt": "Which of the following is not a manner in which you can acquire the necessary continuing medical education requirements after you become a registered sonographer?",
+    "choices": [
+      "Reading articles and passing quizzes that provide continuing medical education tests for credits",
+      "Attending meetings that offer lectures that qualify for continuing medical education credits",
+      "Taking and passing national certification examinations",
+      "Attending basic education courses"
+    ],
+    "answer": 3,
+    "explanation": "Sonographers do not typically obtain continuing medical education by simply attending basic education courses."
+  },
+  {
+    "prompt": "Which of the following is not true of sonographers?",
+    "choices": [
+      "Sonographers should enjoy learning.",
+      "Sonographers should be self-satisfied and inflexible.",
+      "Sonographers should believe in themselves and their abilities.",
+      "Sonographers should never stop learning."
+    ],
+    "answer": 1,
+    "explanation": "Sonographers should not be self-satisfied and inflexible."
+  },
+  {
+    "prompt": "Which of the following is true of self-confidence?",
+    "choices": [
+      "Self-confidence is inherited.",
+      "Self-confidence is the same as self-centered.",
+      "Self confidence is gained through practice.",
+      "Self-confidence can be taught."
+    ],
+    "answer": 2,
+    "explanation": "Self-confidence, or believing in one’s own abilities, is gained through practice."
+  },
+  {
+    "prompt": "Which of the following is not a technical skill approved by the CAAHEP that sonographers must be capable of in order to perform an accurate sonographic examination?",
+    "choices": [
+      "Honesty and integrity in all that he or she attempts",
+      "Ability to obtain a thorough clinical history",
+      "Understanding of human anatomy and pathology",
+      "Skill to integrate data from sonographic findings with clinical findings"
+    ],
+    "answer": 0,
+    "explanation": "Honesty and integrity are not technical skills."
+  },
+  {
+    "prompt": "Which of the following is not true of the sonographic reasoning process?",
+    "choices": [
+      "Sonographic reasoning provides a way to circumvent critical thinking.",
+      "Sonographic reasoning establishes a clear way of thinking that sonographers can use.",
+      "Sonographic reasoning promotes the use of assumptions.",
+      "Sonographic reasoning uses inductive reasoning as a basis."
+    ],
+    "answer": 2,
+    "explanation": "Sonographic reasoning does not promote the use of assumptions."
+  },
+  {
+    "prompt": "According to the sonographic reasoning, which of the following occurs immediately after obtaining adequate clinical history?",
+    "choices": [
+      "Clinical hypotheses",
+      "Investigative imaging",
+      "Clinical correlation",
+      "Sonographic findings"
+    ],
+    "answer": 0,
+    "explanation": "The establishment of several working hypotheses can help guide the sonographer during investigative imaging."
+  },
+  {
+    "prompt": "What is the first step in sonographic reasoning?",
+    "choices": [
+      "Clinical history",
+      "Clinical correlation",
+      "Investigative imaging",
+      "Clinical hypothesis"
+    ],
+    "answer": 0,
+    "explanation": "The sonographer must first obtain adequate clinical history."
+  },
+  {
+    "prompt": "Which of the following would not be a clinical finding obtained during a sonographic study?",
+    "choices": [
+      "Laboratory tests",
+      "Past surgeries",
+      "Signs and symptoms",
+      "Gallbladder sludge"
+    ],
+    "answer": 3,
+    "explanation": "Gallbladder sludge would be a sonographic finding."
+  },
+  {
+    "prompt": "Which of the following would not be a routine question that could be asked of almost every patient to improve clinical history information gathering?",
+    "choices": [
+      "Are you pregnant?",
+      "Why did your doctor order this sonogram?",
+      "Have you had any surgeries?",
+      "How long have you had symptoms?"
+    ],
+    "answer": 0,
+    "explanation": "You would most likely not always need to ask your patient “are you pregnant?”"
+  },
+  {
+    "prompt": "Which of the following would be part of the first step in routine clinical history gathering?",
+    "choices": [
+      "Performing investigative imaging for information",
+      "Examining the patient’s requisition for information",
+      "Asking the patient clinical history questions",
+      "Performing clinical correlation"
+    ],
+    "answer": 1,
+    "explanation": "You should first examine the patient’s requisition for helpful information regarding clinical history."
+  },
+  {
+    "prompt": "Which of the following would not be a routine clinical investigation task to complete before the sonographic exam begins?",
+    "choices": [
+      "Examine the patient’s requisition.",
+      "Examine the patient’s laboratory findings.",
+      "Examine the patient’s family members for history.",
+      "Examine the patient’s prior imaging studies."
+    ],
+    "answer": 2,
+    "explanation": "Prior to the exam, you should examine the patient’s requisition, laboratory findings, and prior imaging studies to gather helpful clinical history information."
+  },
+  {
+    "prompt": "What is the fourth step in the SRM-IMAGE process?",
+    "choices": [
+      "Gather clinical history.",
+      "Gather findings.",
+      "Gather correlations.",
+      "Get it done."
+    ],
+    "answer": 1,
+    "explanation": "Gathering findings is the fourth step in the SRM-IMAGE process."
+  },
+  {
+    "prompt": "Which of the following is true of scanning?",
+    "choices": [
+      "Scanning is a form of kinesthetic training.",
+      "Scanning can improve for most people by simply reading textbooks.",
+      "Scanning should be performed only by registered sonographers.",
+      "Scanning patients who are not ill is not helpful for students."
+    ],
+    "answer": 0,
+    "explanation": "Scanning is a form of kinesthetic training."
+  },
+  {
+    "prompt": "Which of the following should not be included on a sonographer’s report?",
+    "choices": [
+      "Measurements of pathology",
+      "Measurements of normal structures",
+      "Sonographer’s diagnosis",
+      "Echogenicity of organs"
+    ],
+    "answer": 2,
+    "explanation": "Sonographers should avoid making a diagnosis but rather strive to describe structures using sonographic terminology."
+  },
+  {
+    "prompt": "Which of the following is an added perceived occupational stress by many sonographers?",
+    "choices": [
+      "Taking call",
+      "Scanning patients",
+      "Talking with patients",
+      "Transporting patients"
+    ],
+    "answer": 0,
+    "explanation": "Taking call is an added perceived occupational stressor for many sonographers."
+  },
+  {
+    "prompt": "Which of the following is an advantage of taking call?",
+    "choices": [
+      "Time away from family",
+      "Relaxing sleep",
+      "Long hours",
+      "Callback pay"
+    ],
+    "answer": 3,
+    "explanation": "Callback pay is a benefit of taking call."
+  },
+  {
+    "prompt": "If the liver appears to have the same echogenicity as the right kidney, it is said to be:",
+    "choices": [
+      "Anechoic",
+      "Hypoechoic",
+      "Echogenic",
+      "Isoechoic"
+    ],
+    "answer": 3,
+    "explanation": "If the liver appears to have the same echogenicity as the right kidney, it is said to be isoechoic."
+  },
+  {
+    "prompt": "Fluid is identified around the heart that appears to have solid and cystic components. That fluid is said to be:",
+    "choices": [
+      "Simple",
+      "Shadowing",
+      "Complex",
+      "Echogenic"
+    ],
+    "answer": 2,
+    "explanation": "Complex is described as having mixed echogenicities, such as a structure with both fluid-filled and solid components."
+  },
+  {
+    "prompt": "Normal urine within the bladder would appear:",
+    "choices": [
+      "Echogenic",
+      "Anechoic",
+      "Hyperechoic",
+      "Isoechoic"
+    ],
+    "answer": 1,
+    "explanation": "Urine should be anechoic."
+  },
+  {
+    "prompt": "A solid, dark mass is identified within the liver. The mass is darker than the surrounding tissue but not completely black. The mass is said to be:",
+    "choices": [
+      "Hypoechoic",
+      "Echogenic",
+      "Hyperechoic",
+      "Complex"
+    ],
+    "answer": 0,
+    "explanation": "A hypoechoic mass would be dark but not black on the image."
+  },
+  {
+    "prompt": "A solid, bright mass is identified within the liver. The mass is brighter than the surrounding tissue. The mass is said to be:",
+    "choices": [
+      "Hyperechoic",
+      "Hypoechoic",
+      "Anechoic",
+      "Complex"
+    ],
+    "answer": 0,
+    "explanation": "A hyperechoic mass is one with many echoes and would appear brighter than the surrounding liver tissue."
+  },
+  {
+    "prompt": "An organ with a spotted appearance would appear:",
+    "choices": [
+      "Normal",
+      "Heterogeneous",
+      "Homogeneous",
+      "Hyperechoic"
+    ],
+    "answer": 1,
+    "explanation": "Heterogeneous is of differing composition."
+  },
+  {
+    "prompt": "A simple cyst noted within the lung would demonstrate:",
+    "choices": [
+      "Acoustic enhancement",
+      "Shadowing",
+      "Complexity",
+      "Dirty shadowing"
+    ],
+    "answer": 0,
+    "explanation": "A simple cyst should demonstrate acoustic enhancement."
+  },
+  {
+    "prompt": "Which of the following is another name for acoustic enhancement?",
+    "choices": [
+      "Shadowing",
+      "Ring-down artifact",
+      "Through transmission",
+      "Excitation"
+    ],
+    "answer": 2,
+    "explanation": "Another name for acoustic enhancement is through transmission."
+  }
+]
