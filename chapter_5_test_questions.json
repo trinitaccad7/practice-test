@@ -1,0 +1,332 @@
+[
+  {
+    "prompt": "Which of the following is one of the main reasons for long-term absences among healthcare workers?",
+    "choices": [
+      "Body habitus",
+      "Callback pay",
+      "Occupational injuries",
+      "Overtime"
+    ],
+    "answer": 2,
+    "explanation": "Occupational injuries are one of the main reasons for long-term absences among healthcare workers."
+  },
+  {
+    "prompt": "How many years does a sonographer work before pain typically manifests?",
+    "choices": [
+      "13",
+      "5",
+      "23",
+      "1"
+    ],
+    "answer": 1,
+    "explanation": "There is only an average of 5 years before a sonographer starts to experience pain associated with his or her job duties."
+  },
+  {
+    "prompt": "Which of the following areas is not typically a source of pain for the sonographer?",
+    "choices": [
+      "Abdominal muscles",
+      "Tendons of the wrist",
+      "Ligaments of the shoulder",
+      "Tendons of the elbow"
+    ],
+    "answer": 0,
+    "explanation": "The abdominal muscles are typically not a source of pain for the sonographer."
+  },
+  {
+    "prompt": "WRMSDs can lead to all of the following except:",
+    "choices": [
+      "Spine enlargement",
+      "Inflammation",
+      "Swelling",
+      "Tendon degeneration"
+    ],
+    "answer": 0,
+    "explanation": "WRMSDs do not lead to spine enlargement but rather spine deterioration."
+  },
+  {
+    "prompt": "Which of the following is not another name for repetitive strain injuries?",
+    "choices": [
+      "Overuse syndrome",
+      "Repetitive motion injuries",
+      "Cumulative trauma disorder",
+      "Ergonomic interventions"
+    ],
+    "answer": 3,
+    "explanation": "Ergonomic interventions are processes used to improve a worker\u2019s comfort, safety, and productivity."
+  },
+  {
+    "prompt": "Which of the following statements is true of repetitive strain injury?",
+    "choices": [
+      "Repetitive strain injuries do not typically affect sonographers.",
+      "The damage to the joint or area from repetitive strain injuries is cumulative.",
+      "Repeating the same procedure decreases the chances of a repetitive strain injury.",
+      "Pain is always sharp in the area of damage."
+    ],
+    "answer": 1,
+    "explanation": "The damage to the joint or area from repetitive strain injuries is cumulative."
+  },
+  {
+    "prompt": "What is the second most common area affected by work-related injuries for the sonographer?",
+    "choices": [
+      "Shoulder",
+      "Neck",
+      "Wrist",
+      "Hand"
+    ],
+    "answer": 1,
+    "explanation": "The neck is the second most common area affected by work-related injuries for the sonographer."
+  },
+  {
+    "prompt": "Where is the center of gravity for a person when he or she is standing?",
+    "choices": [
+      "Chest level",
+      "Center of abdomen",
+      "Center of pelvis",
+      "Ankle level"
+    ],
+    "answer": 2,
+    "explanation": "The center of gravity is at the center of the pelvis."
+  },
+  {
+    "prompt": "Which of the following is not a risk factor that has been linked with the development of WRMSDs for the sonographer?",
+    "choices": [
+      "Equipment design",
+      "Job design",
+      "Force",
+      "Proper body mechanics"
+    ],
+    "answer": 3,
+    "explanation": "Proper body mechanics is not a risk factor that has been linked with the development of WRMSDs for the sonographer."
+  },
+  {
+    "prompt": "When standing, which of the following ensures correct posture?",
+    "choices": [
+      "Feet should be spread wide apart.",
+      "Knees should be locked.",
+      "Feet should be parallel.",
+      "Buttocks should be clinched."
+    ],
+    "answer": 2,
+    "explanation": "The feet should be parallel to ensure identical distribution of body weight."
+  },
+  {
+    "prompt": "Which of the following is true of lifting or moving a heavy object?",
+    "choices": [
+      "Pushing heavy objects is better than pulling them.",
+      "Bend ankles and use your back to lift.",
+      "Hold the object close to your body.",
+      "Bend at the waist."
+    ],
+    "answer": 2,
+    "explanation": "You should hold objects close to your body when lifting."
+  },
+  {
+    "prompt": "Maintaining which of the following would lead to the development of a WRMSD?",
+    "choices": [
+      "Extreme arm abduction",
+      "Extreme arm adduction",
+      "Good posture",
+      "Neutral arm position"
+    ],
+    "answer": 0,
+    "explanation": "Maintaining arm abduction can lead to WRMSDs."
+  },
+  {
+    "prompt": "The sonographer should position the patient:",
+    "choices": [
+      "As far away as possible",
+      "As low as the stretcher can go",
+      "Below the level of his or her chair",
+      "As close as possible"
+    ],
+    "answer": 3,
+    "explanation": "The patient should be positioned as close to the sonographer as possible to reduce arm abduction."
+  },
+  {
+    "prompt": "Which of the following could counteract the issues associated with poor room design?",
+    "choices": [
+      "Bright lights",
+      "Sunglasses",
+      "Ambidextrous scanning",
+      "Wear a mask"
+    ],
+    "answer": 2,
+    "explanation": "Ambidextrous scanning can counteract issues related to poor room design."
+  },
+  {
+    "prompt": "Which of the following is a helpful tip for physical aches during clinical observations?",
+    "choices": [
+      "Stretch between examination.",
+      "Stand for 1 day and sit for 1 day.",
+      "Wear open-toed shoes.",
+      "Sit for every examination."
+    ],
+    "answer": 0,
+    "explanation": "You should try to stretch between examinations."
+  },
+  {
+    "prompt": "Which of the following would not contribute to proper equipment design?",
+    "choices": [
+      "Keyboards and control panels that are adjustable",
+      "Modifiable stretchers",
+      "Stationary chairs",
+      "Touch key functions"
+    ],
+    "answer": 2,
+    "explanation": "Chairs should be height adjustable."
+  },
+  {
+    "prompt": "Tendons:",
+    "choices": [
+      "Attach bones to bones",
+      "Attach muscles to bones",
+      "Attach nerves to bones",
+      "Attach nerves to muscles"
+    ],
+    "answer": 1,
+    "explanation": "Tendons attach muscles to bones."
+  },
+  {
+    "prompt": "Which of the following is also referred to as lateral epicondylitis?",
+    "choices": [
+      "Carpal tunnel",
+      "Nerve entrapment",
+      "Tennis elbow",
+      "Thoracic outlet syndrome"
+    ],
+    "answer": 2,
+    "explanation": "Tennis elbow is also referred to as lateral epicondylitis."
+  },
+  {
+    "prompt": "Which of the following is an example of nerve entrapment?",
+    "choices": [
+      "Cubital tunnel syndrome",
+      "Tinel sign",
+      "Ganglion cyst",
+      "Trigger finger"
+    ],
+    "answer": 0,
+    "explanation": "Cubital tunnel syndrome is an example of nerve entrapment that affects the elbow."
+  },
+  {
+    "prompt": "Bursitis most often affects the sonographers\u2019:",
+    "choices": [
+      "Buttocks",
+      "Neck",
+      "Ankle",
+      "Shoulder"
+    ],
+    "answer": 3,
+    "explanation": "Bursitis most often affects the sonographers\u2019 shoulder."
+  },
+  {
+    "prompt": "Muscle fatigue increases once the shoulder is abducted great than:",
+    "choices": [
+      "2 degrees",
+      "10 degrees",
+      "20 degrees",
+      "30 degrees"
+    ],
+    "answer": 3,
+    "explanation": "Muscle fatigue increases once the shoulder is abducted greater than 30 degrees."
+  },
+  {
+    "prompt": "What is the Tinel sign used to diagnose?",
+    "choices": [
+      "Carpal tunnel syndrome",
+      "deQuervain disease",
+      "Cubital tunnel syndrome",
+      "Spondylopondritis"
+    ],
+    "answer": 2,
+    "explanation": "The cubital tunnel syndrome is diagnosed by using the Tinel sign."
+  },
+  {
+    "prompt": "What position should the nonscanning elbow be placed in while scanning?",
+    "choices": [
+      "45-degree angle",
+      "30-degree angle",
+      "90-degree angle",
+      "180-degree angle"
+    ],
+    "answer": 2,
+    "explanation": "The elbow of the nonscanning arm should be in a 90-degree angle while the other arm is scanning."
+  },
+  {
+    "prompt": "In what position is the wrist the strongest?",
+    "choices": [
+      "Routine handshake position",
+      "Extension position",
+      "Flexion position",
+      "Rearward position"
+    ],
+    "answer": 0,
+    "explanation": "The routine handshake position is the position in which the wrist is its strongest."
+  },
+  {
+    "prompt": "The finger gets locked in a position if one has:",
+    "choices": [
+      "Tarsal tunnel syndrome",
+      "Trigger finger",
+      "Ganglion cysts",
+      "deQuervain disease"
+    ],
+    "answer": 1,
+    "explanation": "Trigger finger causes the finger to get locked in a certain position."
+  },
+  {
+    "prompt": "Which of the following can present clinically similar to carpal tunnel syndrome?",
+    "choices": [
+      "Thoracic outlet syndrome",
+      "deQuervain disease",
+      "Trigger finger",
+      "Ganglion cyst"
+    ],
+    "answer": 0,
+    "explanation": "Thoracic outlet syndrome can present clinically similar to carpal tunnel syndrome."
+  },
+  {
+    "prompt": "The Norco wrist brace is used to treat:",
+    "choices": [
+      "Tarsal tunnel syndrome",
+      "Cubital tunnel syndrome",
+      "Carpal tunnel syndrome",
+      "deQuervain disease"
+    ],
+    "answer": 2,
+    "explanation": "The Norco wrist brace is used to treat carpal tunnel syndrome."
+  },
+  {
+    "prompt": "Which of the following often leads to heel pain or a stabbing pain in the foot?",
+    "choices": [
+      "Tarsal tunnel syndrome",
+      "Plantar fasciitis",
+      "Carpal tunnel syndrome",
+      "deQuervain disease"
+    ],
+    "answer": 1,
+    "explanation": "Plantar fasciitis often leads to heal pain or a stabbing pain in the foot."
+  },
+  {
+    "prompt": "Which of the following is not a nerve entrapment disorder?",
+    "choices": [
+      "Tarsal tunnel syndrome",
+      "Carpal tunnel syndrome",
+      "Cubital tunnel syndrome",
+      "Trigger tunnel syndrome"
+    ],
+    "answer": 3,
+    "explanation": "Trigger tunnel syndrome is not a nerve entrapment disorder."
+  },
+  {
+    "prompt": "Which of the following is the best way to manage the transducer cord?",
+    "choices": [
+      "Drape it around your neck.",
+      "Wrap it around your leg.",
+      "Use a cable support brace.",
+      "Hold it with your leg against the stretcher."
+    ],
+    "answer": 2,
+    "explanation": "The best way to manage the transducer cord is to use a cable brace."
+  }
+]
