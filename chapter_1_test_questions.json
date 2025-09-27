@@ -1,0 +1,695 @@
+[
+  {
+    "prompt": "Which of the following would be least helpful to cope with stress and anxiety?",
+    "choices": [
+      "Anticipate stress and be prepared.",
+      "Use pessimistic language.",
+      "Practice stress-reducing activities.",
+      "Recognize the symptoms."
+    ],
+    "answer": 1,
+    "explanation": "Using pessimistic or negative language would not help one cope with stress and anxiety, but perhaps increase the influence of stress."
+  },
+  {
+    "prompt": "Anxiety is fueled by all of the following mechanisms except:?",
+    "choices": [
+      "Cognitive component",
+      "Mental component",
+      "Physical component",
+      "Behavioral component"
+    ],
+    "answer": 1,
+    "explanation": "Anxiety is fueled by a cognitive, physical, and behavioral component."
+  },
+  {
+    "prompt": "Which of the following would be considered destructive behavior resulting from anxiety?",
+    "choices": [
+      "Confiding in a close friend for advice",
+      "Seeking professional help",
+      "Removing oneself from the situation to avoid negative outcomes",
+      "Getting work done ahead of time"
+    ],
+    "answer": 2,
+    "explanation": "Removing oneself from the situation to avoid negative outcomes is considered a destructive behavior that results from anxiety."
+  },
+  {
+    "prompt": "Which of the following is not true of stress?",
+    "choices": [
+      "Stress can be a motivator.",
+      "Stress may make you work harder and achieve more.",
+      "Stress increases anxiety.",
+      "Stress is abnormal."
+    ],
+    "answer": 3,
+    "explanation": "Stress is inevitable and normal. The key is to be prepared to deal with stress."
+  },
+  {
+    "prompt": "Which of the following would be least likely to serve as a money-saving tip for sonography students?",
+    "choices": [
+      "Finance a new car for school.",
+      "Bring your lunch to school.",
+      "Take online courses when available.",
+      "Seek employer reimbursement."
+    ],
+    "answer": 0,
+    "explanation": "Financing a new care is not considered a money-saving tip."
+  },
+  {
+    "prompt": "Which of the following would not serve as a relationship builder and a means of emotional stability and support while in sonography school?",
+    "choices": [
+      "Involving your family and friends in your studies",
+      "Studying in seclusion",
+      "Avoiding stress by avoiding those who cause stress in your life",
+      "Trying to obtain a job where you must work every weekend"
+    ],
+    "answer": 3,
+    "explanation": "Although you may have to do so, working every weekend can strain relationships. Sit down and discuss the situation with your significant other ahead of time and be prepared."
+  },
+  {
+    "prompt": "Which of the following could happen if you receive a positive drug screen?",
+    "choices": [
+      "You may be asked to not return to your clinical facility.",
+      "If you are a sonographer, you may be fired.",
+      "You may be released from your sonography program.",
+      "All of these could happen."
+    ],
+    "answer": 3,
+    "explanation": "If you are found to have a positive drug screen, you may be asked to never return to your clinical facility, your program may decide to dismiss you, or you may be fired if you are a sonographer."
+  },
+  {
+    "prompt": "Which of the following would not be considered a good way to manage your time while in sonography school?",
+    "choices": [
+      "Plan your day and week.",
+      "Create your own academic calendar.",
+      "Set your own deadlines for assignment due dates.",
+      "Keep up with social media throughout the day."
+    ],
+    "answer": 3,
+    "explanation": "Keeping up with social media throughout the day is not conducive to time management."
+  },
+  {
+    "prompt": "Which of the following would not be helpful for goal setting?",
+    "choices": [
+      "Make a list of priorities and rank them.",
+      "Make personal and social goals.",
+      "Set long-term goals that are immediately achievable.",
+      "Set short-term goals for classroom and clinical."
+    ],
+    "answer": 2,
+    "explanation": "You should set long-term goals, like striving for a realistic GPA at the end of the semester. This gives you something to strive for throughout the semester and something that is not immediately achievable."
+  },
+  {
+    "prompt": "Which of the following would not be true of successful students?",
+    "choices": [
+      "Successful students try to figure things out on their own when they do not understand.",
+      "Successful students have a snack before lecture time.",
+      "Successful students take effective notes.",
+      "Successful students sit near the front of the classroom."
+    ],
+    "answer": 0,
+    "explanation": "Successful students ask questions when clarity is needed."
+  },
+  {
+    "prompt": "Which of the following coursework would be likely to strengthen the clinical skills required of a sonography student?",
+    "choices": [
+      "Public speaking courses",
+      "Computer courses",
+      "Medical terminology courses",
+      "All of these"
+    ],
+    "answer": 3,
+    "explanation": "All of these courses would most likely strengthen the clinical skills required of a sonography student."
+  },
+  {
+    "prompt": "Which of the following would be least likely to help preparing for tests?",
+    "choices": [
+      "Form a study group.",
+      "Watch television while you study.",
+      "Create study cards.",
+      "Read your textbook."
+    ],
+    "answer": 1,
+    "explanation": "Watching television while studying could distract you from your studies and lead to poor test scores."
+  },
+  {
+    "prompt": "Which test-taking practice is strictly prohibited by the American Registry of Diagnostic Medical Sonography on national certification examinations?",
+    "choices": [
+      "Brain dumping",
+      "Study group preparation",
+      "Memorization",
+      "Brain cramping"
+    ],
+    "answer": 0,
+    "explanation": "Brain dumping is prohibited during national certification examinations."
+  },
+  {
+    "prompt": "The goal for the sonography student regarding the information that is presented to you during school should be __________ for future use.?",
+    "choices": [
+      "Memorized",
+      "Retained",
+      "Avoided",
+      "Discarded"
+    ],
+    "answer": 1,
+    "explanation": "Your goal should be retaining and comprehending the information."
+  },
+  {
+    "prompt": "Infrasound is considered to be:?",
+    "choices": [
+      "Less than 20 Hz",
+      "More than 1 kHz",
+      "Less than 2 Hz",
+      "Less than 10 MHz"
+    ],
+    "answer": 2,
+    "explanation": "Infrasound is considered to be less than 2 Hz."
+  },
+  {
+    "prompt": "Audible sound range is:?",
+    "choices": [
+      "More than 2 Hz",
+      "Greater than 20,000 kHz",
+      "Between 2 and 15 MHz",
+      "Between 2 and 20,000 Hz"
+    ],
+    "answer": 3,
+    "explanation": "Audible sound is between 2 and 20,000 Hz."
+  },
+  {
+    "prompt": "Diagnostic ultrasound is:?",
+    "choices": [
+      "More than 2 Hz",
+      "Greater than 20,000 Hz",
+      "Between 2 and 15 MHz",
+      "Between 2 and 20,000 Hz"
+    ],
+    "answer": 2,
+    "explanation": "Diagnostic ultrasound ranges between 2 and 15 MHz"
+  },
+  {
+    "prompt": "Megahertz denotes:?",
+    "choices": [
+      "Sound greater than 100 kHz",
+      "Sound less than 100 Hz",
+      "Sound greater than 1,000,000 Hz",
+      "Sound greater than 1,000 Hz"
+    ],
+    "answer": 2,
+    "explanation": "Megahertz denotes sound greater than 1,000,000 Hz."
+  },
+  {
+    "prompt": "Ultrasound is considered to be:?",
+    "choices": [
+      "Greater than 20,000 MHz",
+      "Less than 40,000 Hz",
+      "Greater than 2 Hz",
+      "Greater than 20,000 Hz"
+    ],
+    "answer": 3,
+    "explanation": "Ultrasound is considered to be greater than 20,000 Hz."
+  },
+  {
+    "prompt": "Which of the following is not an obligation of the sonographer?",
+    "choices": [
+      "To complete the sonographer report",
+      "To locate and describe pathology",
+      "To diagnose pathological conditions",
+      "To obtain a clinical history"
+    ],
+    "answer": 2,
+    "explanation": "Sonographers should not act as a diagnostician or one who produces a diagnosis."
+  },
+  {
+    "prompt": "Which of the following statements is true of scanning experience?",
+    "choices": [
+      "Learning how to scan is easy for most students.",
+      "Scanning experience is cumulative.",
+      "Scanning experience is obtained mostly in the classroom setting.",
+      "Scanning experience should only be obtained on small body habitus patients."
+    ],
+    "answer": 1,
+    "explanation": "Scanning experience is cumulative. This means, the more your scan, the better scanner you can become."
+  },
+  {
+    "prompt": "Which of the following statements is true regarding when a student should scan?",
+    "choices": [
+      "Students who have less experience prefer to scan before the sonographer scans.",
+      "Students who have more experience prefer to scan after the sonographer scans.",
+      "It is best to scan whenever you have the opportunity.",
+      "It is best to scan thin body habitus patients only."
+    ],
+    "answer": 2,
+    "explanation": "Don’t limit scanning! Whenever you are given the opportunity, scan!"
+  },
+  {
+    "prompt": "Which of the following is not a true statement about a professional?",
+    "choices": [
+      "A professional must adhere to a specific dress code as prescribed by a national organization.",
+      "A professional must achieve certain educational criteria.",
+      "A professional must meet minimum standards to practice within the profession.",
+      "A professional must adhere to an established code of ethics and competency standards."
+    ],
+    "answer": 0,
+    "explanation": "A professional does not typically have to adhere to a specific dress code."
+  },
+  {
+    "prompt": "Which of the following is not a key concept of the Hippocratic Oath?",
+    "choices": [
+      "Respect the patient’s rights.",
+      "Treat all patients equally.",
+      "Protect your patients from harm or injustice.",
+      "Place your interests before your patients’ interest."
+    ],
+    "answer": 3,
+    "explanation": "You should place the patient’s interests before your own."
+  },
+  {
+    "prompt": "Which of the following represents HIPAA?",
+    "choices": [
+      "Health Insurance Protection Agency of America",
+      "Health Insurance Portability and Accountability Act",
+      "Health Insurance Protection and Accountability Act",
+      "Health Insurance Portability and Acceptability Act"
+    ],
+    "answer": 1,
+    "explanation": "HIPAA—Health Insurance Portability and Accountability Act."
+  },
+  {
+    "prompt": "Maintaining patient confidentiality is vital. Which of the following locations would be the best place to discuss examination findings with a sonographer?",
+    "choices": [
+      "In the sonographer work area, away from the patient room",
+      "In the patient waiting room",
+      "In the lunchroom",
+      "In the sonography room, while the sonographer performs the examination"
+    ],
+    "answer": 0,
+    "explanation": "The best place to discuss case study information would be away from all patients, perhaps in the sonographer work area."
+  },
+  {
+    "prompt": "Which of the following is a true statement about clinical experience?",
+    "choices": [
+      "You should view every clinical experience and interaction with other professionals as a job interview.",
+      "You should do your best in clinical only when others are watching.",
+      "You strive to work as leisurely as possible to be more accurate in clinical.",
+      "Clinical experiences are the same for all students."
+    ],
+    "answer": 0,
+    "explanation": "Every clinical experience and interaction with other professionals should be viewed as a job interview, and therefore, you must always do your best."
+  },
+  {
+    "prompt": "Which of the following would not contribute to a strong work ethic?",
+    "choices": [
+      "Punctuality",
+      "Selfishness",
+      "Honesty",
+      "Empathy"
+    ],
+    "answer": 1,
+    "explanation": "Selfishness does not contribute to a strong work ethic."
+  },
+  {
+    "prompt": "What imaging modality directly resulted from Wilhelm Conrad Roentgen’s discovery on November 8, 1895?",
+    "choices": [
+      "Diagnostic medical sonography",
+      "Magnetic resonance imaging",
+      "Radiography",
+      "Nuclear medicine imaging"
+    ],
+    "answer": 2,
+    "explanation": "Radiography."
+  },
+  {
+    "prompt": "What modality uses fluoroscopy to analyze the gastrointestinal system?",
+    "choices": [
+      "Radiography",
+      "Computed topography",
+      "Magnetic resonance imaging",
+      "Nuclear medicine imaging"
+    ],
+    "answer": 0,
+    "explanation": "Radiography uses fluoroscopy."
+  },
+  {
+    "prompt": "Which imaging modality performs voiding cystourethrogram (VCUG) examinations in conjunction with sonography to assess the pediatric urinary tract for abnormalities?",
+    "choices": [
+      "Computed tomography",
+      "Diagnostic medical sonography",
+      "Radiography",
+      "Cardiovascular interventional technology"
+    ],
+    "answer": 2,
+    "explanation": "VCUGs are typically performed in radiography. However, they may also be performed in nuclear medicine as well."
+  },
+  {
+    "prompt": "Which of the following imaging modalities does not utilize ionizing radiation?",
+    "choices": [
+      "Computed tomography",
+      "Magnetic resonance imaging",
+      "Radiography",
+      "Mammography"
+    ],
+    "answer": 1,
+    "explanation": "MRI does not utilize ionizing radiation, but rather magnetic fields, to obtain images of the body."
+  },
+  {
+    "prompt": "Which imaging modality uses ionizing radiation to obtain sectional views of the body in multiple planes?",
+    "choices": [
+      "Mammography",
+      "Radiography",
+      "Computed tomography",
+      "Magnetic resonance imaging"
+    ],
+    "answer": 2,
+    "explanation": "Computed tomography (CT) uses ionizing radiation to obtain sectional views of the body in multiple planes."
+  },
+  {
+    "prompt": "Which imaging modality uses radio waves in the production of images of the body?",
+    "choices": [
+      "Magnetic resonance imaging",
+      "Mammography",
+      "Computed tomography",
+      "Nuclear medicine imaging"
+    ],
+    "answer": 0,
+    "explanation": "MRI utilizes radio waves to obtain images of the body."
+  },
+  {
+    "prompt": "Which of the following modalities requires that the patient ingest or be injected with a radiopharmaceutical?",
+    "choices": [
+      "Computed tomography",
+      "Nuclear medicine imaging",
+      "Mammography",
+      "Radiography"
+    ],
+    "answer": 1,
+    "explanation": "Nuclear medicine technology requires that the patient ingest or be injected with a radiopharmaceutical."
+  },
+  {
+    "prompt": "What imaging modality utilizes a gamma camera?",
+    "choices": [
+      "Nuclear medicine technology",
+      "Computed tomography",
+      "Diagnostic medical sonography",
+      "Radiography"
+    ],
+    "answer": 0,
+    "explanation": "Nuclear medicine technology utilizes a gamma camera."
+  },
+  {
+    "prompt": "What unique imaging technique incorporates computed tomography and nuclear medicine technology?",
+    "choices": [
+      "Magnetic resonance imaging",
+      "Cardiolite testing",
+      "Scintigraphy",
+      "Positron emission tomography"
+    ],
+    "answer": 3,
+    "explanation": "PET incorporates CT and nuclear medicine."
+  },
+  {
+    "prompt": "Which of the following is considered the gold standard in breast imaging?",
+    "choices": [
+      "Sonography",
+      "Mammography",
+      "Radiography",
+      "Computed tomography"
+    ],
+    "answer": 1,
+    "explanation": "Mammography is the gold standard for breast imaging."
+  },
+  {
+    "prompt": "What imaging modality utilizes gadolinium as a contrast agent?",
+    "choices": [
+      "Radiography",
+      "Computed tomography",
+      "Magnetic resonance imaging",
+      "Nuclear medicine"
+    ],
+    "answer": 2,
+    "explanation": "MRI uses gadolinium."
+  },
+  {
+    "prompt": "Which of the following is defined as resourceful actions, judgments, and decisions based on the combination of professional knowledge, experience, integrity, and ethical standards?",
+    "choices": [
+      "Professionalism",
+      "Constructive idealism",
+      "Critical thinking",
+      "Subjective inquiry"
+    ],
+    "answer": 2,
+    "explanation": "Critical thinking is the resourceful actions, judgments, and decisions based on the combination of professional knowledge, experience, integrity, and ethical standards."
+  },
+  {
+    "prompt": "Which of the following would not be an example of clinical findings?",
+    "choices": [
+      "Elevated white blood cell count",
+      "Abdominal pain",
+      "Nausea and vomiting",
+      "Enlarged common bile duct noted during the sonogram"
+    ],
+    "answer": 3,
+    "explanation": "An enlarged common bile duct noted during the sonogram would be a sonographic finding."
+  },
+  {
+    "prompt": "Which of the following statements would not be true of a critical thinker in sonography?",
+    "choices": [
+      "A critical thinker strives to learn all of the information.",
+      "A critical thinker strives to learn the correct information and the information that is most imperative to understand.",
+      "A critical thinker can distinguish between fact and opinion.",
+      "A critical thinker uses the best thinking of which he or she is capable of in every situation."
+    ],
+    "answer": 0,
+    "explanation": "A critical thinker does not try to learn everything, but rather he or she can take a large amount of information, decipher it, and use it to help make better decisions."
+  },
+  {
+    "prompt": "Which of the following is the fourth step in successful critical thinking?",
+    "choices": [
+      "Observation",
+      "Data analysis",
+      "Data collection",
+      "Conclusion"
+    ],
+    "answer": 1,
+    "explanation": "The five steps in successful critical thinking are observation, hypothesis, data collection, data analysis, and conclusion."
+  },
+  {
+    "prompt": "The optimal location on the body for placement of the ultrasound transducer to demonstrate both normal anatomy and pathology describes:?",
+    "choices": [
+      "Acoustic window",
+      "Acoustic gate",
+      "Acoustic augmentation",
+      "Shadow window"
+    ],
+    "answer": 0,
+    "explanation": "An acoustic window is the optimal location on the body for placement of the transducer to improve the visualization of structures. Some organs can provide an acoustic window."
+  },
+  {
+    "prompt": "The general state of feeling worried and fear before confronting something emotionally or physically challenging describes:?",
+    "choices": [
+      "Anguish",
+      "Anxiety",
+      "Stress",
+      "Fatigued"
+    ],
+    "answer": 1,
+    "explanation": "Anxiety is the general state of feeling worried and fear before confronting something emotionally or physically challenging."
+  },
+  {
+    "prompt": "Reasoning based on guesses or opinion describes:?",
+    "choices": [
+      "Fiction",
+      "Inferences",
+      "Assumptions",
+      "Truths"
+    ],
+    "answer": 2,
+    "explanation": "Assumption is reasoning based on guesses or opinion."
+  },
+  {
+    "prompt": "Unassisted sonographic examinations that are graded to determine proficiency describes:?",
+    "choices": [
+      "Clinical examinations",
+      "Cross-training exams",
+      "Investigative imaging",
+      "Clinical competencies"
+    ],
+    "answer": 3,
+    "explanation": "Clinical competencies are sonographic examinations that are graded to determine proficiency."
+  },
+  {
+    "prompt": "A substance that is either injected or ingested into the body to enhance the visualization of anatomy describes:?",
+    "choices": [
+      "Contrast agent",
+      "Coupling agent",
+      "Invasive mediator",
+      "Interventional moderator"
+    ],
+    "answer": 0,
+    "explanation": "A contrast agent is a substance that is either injected or ingested into the body to enhance the visualization of anatomy."
+  },
+  {
+    "prompt": "The basis for an examination or a valid reason to perform a certain test describes:?",
+    "choices": [
+      "Differential diagnosis",
+      "Indication",
+      "Sign",
+      "Symptom"
+    ],
+    "answer": 1,
+    "explanation": "An indication is a basis for an examination or a valid reason to perform a certain test."
+  },
+  {
+    "prompt": "Reasoning that is based on gained factual knowledge using critical thinking describes:?",
+    "choices": [
+      "Sonographic analysis",
+      "Hypothesis",
+      "Assumption",
+      "Inference"
+    ],
+    "answer": 3,
+    "explanation": "An inference is reasoning that is based on gained factual knowledge using critical thinking."
+  },
+  {
+    "prompt": "What is a technique used by sonographers whereby he or she obtains sonographic protocol images while simultaneously searching for and identifying abnormalities?",
+    "choices": [
+      "Sonographic searching",
+      "Investigative imaging",
+      "Invasive imaging",
+      "Inferential imaging"
+    ],
+    "answer": 1,
+    "explanation": "Investigative imaging is a technique used by sonographers whereby he or she obtains sonographic protocol images while simultaneously searching for and identifying abnormalities."
+  },
+  {
+    "prompt": "Which of the following healthcare practitioners would not be capable of ordering a sonogram?",
+    "choices": [
+      "Obstetrician",
+      "Physician assistant",
+      "Nurse",
+      "Cardiologist"
+    ],
+    "answer": 2,
+    "explanation": "A nurse is not a physician and cannot therefore order a sonogram. Sonograms are typically ordered by a licensed physician, a physician assistant, or a nurse practitioner under the supervision of a physician."
+  },
+  {
+    "prompt": "What does PACS stand for?",
+    "choices": [
+      "Picture Archiving and Communication System",
+      "Partial Assessment and Correlating System",
+      "Picture Assessment and Communication System",
+      "Picture Archiving and Correlating System"
+    ],
+    "answer": 0,
+    "explanation": "PACS—Picture Archiving and Communication System."
+  },
+  {
+    "prompt": "What is an inclusive order of necessary images acquired during a sonographic examination?",
+    "choices": [
+      "Requisition",
+      "Screening",
+      "Protocol",
+      "Procedure"
+    ],
+    "answer": 2,
+    "explanation": "A protocol is an inclusive order of necessary images acquired during a sonographic examination."
+  },
+  {
+    "prompt": "What is an objective evidence of disease?",
+    "choices": [
+      "Symptom",
+      "Sign",
+      "Indication",
+      "Condition"
+    ],
+    "answer": 1,
+    "explanation": "A sign is an objective evidence of disease."
+  },
+  {
+    "prompt": "Which of the following would not be a sign?",
+    "choices": [
+      "Nausea",
+      "Elevated bilirubin",
+      "Hematuria",
+      "Leg edema"
+    ],
+    "answer": 0,
+    "explanation": "Nausea would be considered a symptom. A sign is something that is objective, not subjective."
+  },
+  {
+    "prompt": "Something that is potentially influenced by personal feeling or opinion in regard to fact describes the term:?",
+    "choices": [
+      "Objective",
+      "Conjecture",
+      "Assumption",
+      "Subjective"
+    ],
+    "answer": 3,
+    "explanation": "Subjective information is something that is potentially influenced by personal feeling or opinion in regard to fact."
+  },
+  {
+    "prompt": "What is described as effort consisting of perseverance and diligence?",
+    "choices": [
+      "Work ethics",
+      "Meticulousness",
+      "Morality",
+      "Exertion morals"
+    ],
+    "answer": 0,
+    "explanation": "Work ethics is described as effort consisting of perseverance and diligence."
+  },
+  {
+    "prompt": "The body’s physiologic reaction to real or imagined threats that arise from situations caused by fear or anger describes:?",
+    "choices": [
+      "Stress",
+      "Anxiety",
+      "Fight-or-flight response",
+      "Nervousness"
+    ],
+    "answer": 2,
+    "explanation": "The fight-or-flight response is the body’s physiologic reaction to real or imagined threats that arise from situations caused by fear or anger."
+  },
+  {
+    "prompt": "What is the best option for ensuring accurate communication and providing optimal patient care when a language barrier exists between sonographer and patient?",
+    "choices": [
+      "Using an online interpretation Web site",
+      "Asking a sonographer who knows some of the language to try to interpret",
+      "Utilizing a trained medical interpreter",
+      "Using hand signals"
+    ],
+    "answer": 2,
+    "explanation": "It is always best to utilize a trained medical interpreter when a language barrier exists between the sonographer and the patient."
+  },
+  {
+    "prompt": "Which of the following is a learning method that we all use as we progress through educational programs?",
+    "choices": [
+      "Learning styles",
+      "Learning-testing styles",
+      "Mindfulness styles",
+      "Test-taking styles"
+    ],
+    "answer": 1,
+    "explanation": "A learning-testing style is method that we all use as we progress through education programs."
+  },
+  {
+    "prompt": "What is the act of intentionally focusing one’s complete attention to the present experience on a moment-to-moment basis by using meditation techniques?",
+    "choices": [
+      "Mindfulness",
+      "Studying",
+      "Focusing",
+      "Objectifying"
+    ],
+    "answer": 0,
+    "explanation": "Mindfulness is the act of intentionally focusing one’s complete attention to the present experience on a moment-to-moment basis by using meditation techniques."
+  },
+  {
+    "prompt": "Which of the following is not an aspect of mindfulness?",
+    "choices": [
+      "Paying attention to what the body is feeling",
+      "Sitting meditation",
+      "Simple movement exercises like walking, standing, or yoga",
+      "Formal focusing meditation exercises"
+    ],
+    "answer": 3,
+    "explanation": "Mindfulness-based training includes mindfulness-based stress reduction techniques that essentially consists of four main components: paying attention to what the body is feeling (recognizing stress); sitting meditation (including focus on breathing, thoughts, and emotions); simple movement exercises like walking, standing, or yoga; and informal meditation exercises (e.g., paying attention to daily activities and performing them well)."
+  }
+]
