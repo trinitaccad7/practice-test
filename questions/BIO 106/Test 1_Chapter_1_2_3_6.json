@@ -1,0 +1,911 @@
+[
+  {
+    "question": "Which of the following are signs of aging at the cellular level?",
+    "options": [
+      "Graying hair, waning strength, and wrinkles.",
+      "Unrepaired DNA and abnormal proteins.",
+      "Impaired cell division and the ability to break down and recycle worn cell parts.",
+      "A fatty liver and clogged blood vessels."
+    ],
+    "answer": "Unrepaired DNA and abnormal proteins. ; Impaired cell division and the ability to break down and recycle worn cell parts."
+  },
+  {
+    "question": "Why are the topics of anatomy and physiology difficult to separate?",
+    "options": [
+      "Physiological functions depend on the anatomy of structures.",
+      "Physiological functions in an organism are ongoing.",
+      "The body parts take up space.",
+      "Our understanding of physiology is changing more than our understanding of anatomy."
+    ],
+    "answer": "Physiological functions depend on the anatomy of structures."
+  },
+  {
+    "question": "The activities of an anatomist consist of__________, whereas those of a physiologist consist of__________.",
+    "options": [
+      "observing body parts; studying functions of body parts",
+      "conducting experiments; making microscopic examinations",
+      "studying molecules; observing forms of the body parts",
+      "sketching; dissecting"
+    ],
+    "answer": "observing body parts; studying functions of body parts"
+  },
+  {
+    "question": "What is the origin of the term \"anatomy\"?",
+    "options": [
+      "From the Greek word for \"function\".",
+      "Named after the first anatomist.",
+      "From the Greek word for \"cutting up\".",
+      "For the function of internal organs."
+    ],
+    "answer": "From the Greek word for \"cutting up\"."
+  },
+  {
+    "question": "What is the term \"physiology\" is related to?",
+    "options": [
+      "The Latin word for \"physical shape\".",
+      "The structure of internal organs.",
+      "The Greek word for \"cutting up\".",
+      "The Greek word for \"relationship to nature\"."
+    ],
+    "answer": "The Greek word for \"relationship to nature\"."
+  },
+  {
+    "question": "Which of the following is **not** true of organelles?",
+    "options": [
+      "They carry on specific activities.",
+      "They are only in cells of humans.",
+      "They are composed of aggregates of large molecules.",
+      "They are found in many types of cells."
+    ],
+    "answer": "They are only in cells of humans."
+  },
+  {
+    "question": "Which of the following lists best illustrates increasing levels of complexity?",
+    "options": [
+      "Cells, tissues, organelles, organs, organ systems.",
+      "Tissues, cells, organs, organelles, organ systems.",
+      "Organs, organelles, organ systems, cells, tissues.",
+      "Organelles, cells, tissues, organs, organ systems."
+    ],
+    "answer": "Organelles, cells, tissues, organs, organ systems."
+  },
+  {
+    "question": "In all organisms, what is the basic unit of structure and function?",
+    "options": [
+      "The atom",
+      "The organelle",
+      "The macromolecule",
+      "The cell"
+    ],
+    "answer": "The cell"
+  },
+  {
+    "question": "Specialized cell types organized in a way that provides a specific function form__________.",
+    "options": [
+      "tissues",
+      "organs",
+      "organ systems",
+      "organelles"
+    ],
+    "answer": "tissues"
+  },
+  {
+    "question": "The ability of an organism to sense and react to changes in its body is an example of__________.",
+    "options": [
+      "circulation",
+      "respiration",
+      "responsiveness",
+      "absorption"
+    ],
+    "answer": "responsiveness"
+  },
+  {
+    "question": "What process is defined as the removal of wastes?",
+    "options": [
+      "Metabolism",
+      "Absorption",
+      "Assimilation",
+      "Excretion"
+    ],
+    "answer": "Excretion"
+  },
+  {
+    "question": "Which of the following characteristics of life and their descriptions is correct?",
+    "options": [
+      "Responsiveness: obtaining and using oxygen to release energy from food.",
+      "Assimilation: sensing changes inside or outside the body and reacting to them.",
+      "Respiration: changing absorbed substances into forms that are chemically different from those that entered the body fluids.",
+      "Circulation: the movement of substances in body fluids."
+    ],
+    "answer": "Circulation: the movement of substances in body fluids."
+  },
+  {
+    "question": "What is the definition of metabolism?",
+    "options": [
+      "The removal of wastes produced by chemical reactions.",
+      "The breakdown of substances into simpler forms.",
+      "The taking in of nutrients.",
+      "The chemical reactions occurring in an organism that support life."
+    ],
+    "answer": "The chemical reactions occurring in an organism that support life."
+  },
+  {
+    "question": "Which of the following processes is most important to the continuation of the human species?",
+    "options": [
+      "Responsiveness",
+      "Movement",
+      "Reproduction",
+      "Respiration"
+    ],
+    "answer": "Reproduction"
+  },
+  {
+    "question": "What is the definition of homeostasis?",
+    "options": [
+      "The changing external conditions.",
+      "The maintenance of stable external conditions.",
+      "The changing internal conditions.",
+      "The maintenance of stable internal conditions."
+    ],
+    "answer": "The maintenance of stable internal conditions."
+  },
+  {
+    "question": "In negative feedback mechanisms, what occurs due to changes that move a variable away from the normal state?",
+    "options": [
+      "Stimulation to change the variable in the same direction.",
+      "Inhibition of all body reactions.",
+      "Stimulation to change the variable in the opposite direction.",
+      "Stimulation to reduce all requirements of the body."
+    ],
+    "answer": "Stimulation to change the variable in the opposite direction."
+  },
+  {
+    "question": "What is the effect of a positive feedback mechanism?",
+    "options": [
+      "It causes long-term changes.",
+      "It moves conditions away from the normal state.",
+      "It brings conditions back to the normal state.",
+      "It produces stable conditions."
+    ],
+    "answer": "It moves conditions away from the normal state."
+  },
+  {
+    "question": "Which of the following illustrates a positive feedback mechanism?",
+    "options": [
+      "Maintenance of blood pressure.",
+      "Uterine contractions during childbirth.",
+      "Body temperature control.",
+      "Control of blood sugar."
+    ],
+    "answer": "Uterine contractions during childbirth."
+  },
+  {
+    "question": "Which of the following is true regarding the effect of a positive feedback mechanisms?",
+    "options": [
+      "They are the primary means of maintaining homeostasis.",
+      "They stabilize conditions.",
+      "They cause unstable conditions, at least temporarily.",
+      "They maintain the internal environment.",
+      "They move conditions toward a setpoint."
+    ],
+    "answer": "They cause unstable conditions, at least temporarily."
+  },
+  {
+    "question": "The thoracic cavity is__________ to the abdominopelvic cavity.",
+    "options": [
+      "dorsal (posterior)",
+      "ventral (anterior)",
+      "superior",
+      "inferior"
+    ],
+    "answer": "superior"
+  },
+  {
+    "question": "The upper midportion of the abdomen is called the__________region.",
+    "options": [
+      "hypochondriac",
+      "iliac",
+      "hypogastric",
+      "epigastric"
+    ],
+    "answer": "epigastric"
+  },
+  {
+    "question": "When the body is placed in the anatomical position, which of the following is **not** true?",
+    "options": [
+      "The head is facing to the front.",
+      "The palms are facing backwards.",
+      "The body is erect.",
+      "The upper limbs are at the sides."
+    ],
+    "answer": "The palms are facing backwards."
+  },
+  {
+    "question": "Matter is composed of elements which, in turn, are composed of__________.",
+    "options": [
+      "atoms",
+      "inorganic molecules",
+      "organic molecules",
+      "chemicals"
+    ],
+    "answer": "atoms"
+  },
+  {
+    "question": "What occurs to form a covalent bond?",
+    "options": [
+      "One atom loses electrons and another atom gains electrons.",
+      "Atoms share one or more pairs of electrons.",
+      "Oppositely charged atoms are attracted to one another.",
+      "Like-charged atoms repel each other."
+    ],
+    "answer": "Atoms share one or more pairs of electrons."
+  },
+  {
+    "question": "Sodium ions and calcium ions are examples of what type of particle?",
+    "options": [
+      "Cations",
+      "Uncharged particles",
+      "Anions",
+      "Salts"
+    ],
+    "answer": "Cations"
+  },
+  {
+    "question": "How does a computerized tomography (CT) scan differ from a conventional X-ray image?",
+    "options": [
+      "The CT scan is two-dimensional.",
+      "The CT scan is three-dimensional.",
+      "The CT scan is four-dimensional.",
+      "The CT scan is safer."
+    ],
+    "answer": "The CT scan is three-dimensional."
+  },
+  {
+    "question": "Positron emission tomography (PET) imaging relies upon the emission of__________ from radioactive isotopes such as carbon-11.",
+    "options": [
+      "positively charged electrons",
+      "negatively charged electrons",
+      "positively charged neutrons",
+      "protons"
+    ],
+    "answer": "positively charged electrons"
+  },
+  {
+    "question": "What is the chemical formula H2O referring to?",
+    "options": [
+      "An atom with two hydrogen molecules and one oxygen molecule.",
+      "An atom with one hydrogen molecule and two oxygen molecules.",
+      "A molecule that contains two hydrogen atoms and one oxygen atom.",
+      "A molecule that contains one hydrogen atom and two oxygen atoms."
+    ],
+    "answer": "A molecule that contains two hydrogen atoms and one oxygen atom."
+  },
+  {
+    "question": "What are electrolytes?",
+    "options": [
+      "Compounds that form covalent bonds with water.",
+      "Compounds that ionize in water.",
+      "Compounds that alter pH of the solution they are in electrolytes.",
+      "Compounds that release radioactive radiation."
+    ],
+    "answer": "Compounds that ionize in water."
+  },
+  {
+    "question": "What is measured by the pH scale?",
+    "options": [
+      "Concentration of hydrogen ions in a solution.",
+      "Concentration of salts dissolved in a solution.",
+      "Concentration of hydroxide ions in a solution.",
+      "Strength of an electrical current that a solution can carry."
+    ],
+    "answer": "Concentration of hydrogen ions in a solution."
+  },
+  {
+    "question": "What is the most abundant inorganic substance in the body?",
+    "options": [
+      "Glucose",
+      "Water",
+      "Lipid",
+      "DNA"
+    ],
+    "answer": "Water"
+  },
+  {
+    "question": "A blood pH of__________ is called alkalemia.",
+    "options": [
+      "6.5 - 7.0",
+      "7.0- 7.2",
+      "7.2 - 7.5",
+      "7.5 - 7.8"
+    ],
+    "answer": "7.5 - 7.8"
+  },
+  {
+    "question": "What is the role of oxygen in the body?",
+    "options": [
+      "Reacts with water to form carbonic acid.",
+      "Used to release energy from nutrient molecules.",
+      "Functions as a major electrolyte.",
+      "Produced as a waste product of celluluar metabolism."
+    ],
+    "answer": "Used to release energy from nutrient molecules."
+  },
+  {
+    "question": "What are nucleic acids?",
+    "options": [
+      "Inorganic salts",
+      "Molecules that act as enzymes.",
+      "Molecules comprised of nucleotides.",
+      "Primary sources of cellular energy."
+    ],
+    "answer": "Molecules comprised of nucleotides."
+  },
+  {
+    "question": "Nucleic acids include__________.",
+    "options": [
+      "proteins and DNA",
+      "RNA and DNA",
+      "enzymes and RNA",
+      "steroids and triglycerides"
+    ],
+    "answer": "RNA and DNA"
+  },
+  {
+    "question": "Which of these is a monosaccharide?",
+    "options": [
+      "Glucose",
+      "Starch",
+      "Cellulose",
+      "Sucrose"
+    ],
+    "answer": "Glucose"
+  },
+  {
+    "question": "A patient’s blood test shows that their blood pH is 7.26. What is the term for this condition?",
+    "options": [
+      "Alkalosis",
+      "Acidosis"
+    ],
+    "answer": "Acidosis"
+  },
+  {
+    "question": "What are the three major parts of a cell?",
+    "options": [
+      "Endoplasmic reticulum, Golgi apparatus, and vesicles.",
+      "Nucleus, nucleolus, and nuclear envelope.",
+      "Microtubules, ribosomes, and centrosomes.",
+      "Nucleus, cytoplasm, and cell membrane."
+    ],
+    "answer": "Nucleus, cytoplasm, and cell membrane."
+  },
+  {
+    "question": "A cell is surrounded by an extremely thin, flexible membrane. Why is the membrane selectively permeable?",
+    "options": [
+      "It allows all substances to pass through, making it easier to absorb nutrients.",
+      "It allows all organic substances to pass through, but excludes all inorganic substances that could be harmful.",
+      "It allows some substances to pass through and excludes others based on size, polarity, and other factors.",
+      "It does not allow any substances to pass through as they could damage the cell."
+    ],
+    "answer": "It allows some substances to pass through and excludes others based on size, polarity, and other factors."
+  },
+  {
+    "question": "What are the major components of the cell membrane?",
+    "options": [
+      "Lipids and carbohydrates",
+      "Proteins and carbohydrates",
+      "Lipids and proteins",
+      "Carbohydrates and polysaccharides"
+    ],
+    "answer": "Lipids and proteins"
+  },
+  {
+    "question": "What best describes endoplasmic reticulum?",
+    "options": [
+      "A component of the cytoskeleton.",
+      "A cellular inclusion.",
+      "A nuclear pore.",
+      "A network of interconnected membranes."
+    ],
+    "answer": "A network of interconnected membranes."
+  },
+  {
+    "question": "Which of the following describes a lysosome?",
+    "options": [
+      "A double-membraned organelle that is the \"powerhouse\" of the cell.",
+      "A complex network of interconnected membranes that is a communication system within the cell.",
+      "A tiny, membranous sac that contains enzymes that degrade worn cell parts and debris.",
+      "A nonmembranous structure that is essential for mitosis."
+    ],
+    "answer": "A tiny, membranous sac that contains enzymes that degrade worn cell parts and debris."
+  },
+  {
+    "question": "For which of the following organelles are the structure and function correctly described?",
+    "options": [
+      "Endoplasmic reticulum: a network of interconnected membranes forming sacs and canals that package protein molecules for secretion.",
+      "Ribosome: membranous vesicle containing digestive enzymes.",
+      "Golgi apparatus: particles composed of protein and RNA that synthesize proteins.",
+      "Mitochondrion: a nonmembranous structure that synthesizes proteins."
+    ],
+    "answer": "Endoplasmic reticulum: a network of interconnected membranes forming sacs and canals that package protein molecules for secretion."
+  },
+  {
+    "question": "During cell division, it is likely that the chromosomes will not separate properly if the centrioles fail to attach to what structure?",
+    "options": [
+      "Centromeres",
+      "Cilia",
+      "Nucleus",
+      "Microtubules"
+    ],
+    "answer": "Centromeres"
+  },
+  {
+    "question": "What is found within the nucleolus?",
+    "options": [
+      "DNA only",
+      "RNA and protein",
+      "DNA and protein",
+      "RNA only"
+    ],
+    "answer": "RNA and protein"
+  },
+  {
+    "question": "What is the function of the nucleus?",
+    "options": [
+      "To direct the activities of the cell.",
+      "To form mitochondria.",
+      "To transfer energy.",
+      "To provide shape to the cell."
+    ],
+    "answer": "To direct the activities of the cell."
+  },
+  {
+    "question": "Which organelle contains the nucleolus?",
+    "options": [
+      "The mitochondrion",
+      "The endoplasmic reticulum",
+      "The Golgi apparatus",
+      "The nucleus"
+    ],
+    "answer": "The nucleus"
+  },
+  {
+    "question": "What would occur if the concentration of glucose in the extracellular fluid is higher than the concentration in the intracellular fluid?",
+    "options": [
+      "Water will enter the cell by osmosis.",
+      "Water will leave the cell by osmosis.",
+      "Glucose will enter the cell by osmosis.",
+      "Glucose will leave the cell by osmosis."
+    ],
+    "answer": "Water will leave the cell by osmosis."
+  },
+  {
+    "question": "What would happen if a red blood cell was placed in a hypotonic solution?",
+    "options": [
+      "The cell will shrink.",
+      "Only permeable substances will leave, but concentrations in the cell do not change.",
+      "The cell will remain the same size and shape.",
+      "The cell will swell and may eventually burst."
+    ],
+    "answer": "The cell will swell and may eventually burst."
+  },
+  {
+    "question": "Red blood cells are placed in a solution of 0.9% NaCl and no diffusion or osmosis is observed. This means that the solution is__________.",
+    "options": [
+      "isotonic",
+      "hypotonic",
+      "hypertonic",
+      "isertonic"
+    ],
+    "answer": "isotonic"
+  },
+  {
+    "question": "Cells are placed in a solution that causes them to absorb liquid until they burst. When water is removed from the solution, newly added cells do not burst. The original solution was__________, while the second was__________ to the cells.",
+    "options": [
+      "hypotonic; isotonic",
+      "hypertonic; isotonic",
+      "isotonic; hypotonic",
+      "isotonic; hypertonic"
+    ],
+    "answer": "hypotonic; isotonic"
+  },
+  {
+    "question": "What is osmosis?",
+    "options": [
+      "Movement of molecules from an area of high concentration to an area of low concentration.",
+      "Movement of water through a selectively permeable membrane to a solution containing a higher concentration of impermeant solute.",
+      "Movement of water through a selectively permeable membrane to a solution containing a lower concentration of impermeant solute.",
+      "Movement of ions from a low pressure region to a high pressure region through a selectively permeable membrane."
+    ],
+    "answer": "Movement of water through a selectively permeable membrane to a solution containing a higher concentration of impermeant solute."
+  },
+  {
+    "question": "A red blood cell that is placed in a solution shrivels up. The solution is__________.",
+    "options": [
+      "hypertonic",
+      "hypotonic",
+      "isotonic",
+      "isertonic"
+    ],
+    "answer": "hypertonic"
+  },
+  {
+    "question": "What is an isotonic solution?",
+    "options": [
+      "A solution that has a greater concentration of impermeant solute than a cell.",
+      "A solution that results in more water entering than leaving a cell.",
+      "A solution that has the same osmotic pressure as a cell.",
+      "A solution that will cause a cell to shrink."
+    ],
+    "answer": "A solution that has the same osmotic pressure as a cell."
+  },
+  {
+    "question": "What is phagocytosis?",
+    "options": [
+      "The process by which a cell membrane engulfs solid particles.",
+      "The process by which a particle enters a cell by moving down its concentration gradient.",
+      "The process by which a cell membrane engulfs droplets.",
+      "The process by which a carrier molecule moves a substance across a cell membrane using ATP."
+    ],
+    "answer": "The process by which a cell membrane engulfs solid particles."
+  },
+  {
+    "question": "Following the nomenclature for cells, what cell types take in solid particles like bacteria?",
+    "options": [
+      "Phagozyme",
+      "Phagase",
+      "Phagocyte",
+      "Phagosome"
+    ],
+    "answer": "Phagocyte"
+  },
+  {
+    "question": "During what phase of the cell cycle does DNA replicate?",
+    "options": [
+      "Prophase",
+      "Interphase",
+      "Metaphase",
+      "Telophase"
+    ],
+    "answer": "Interphase"
+  },
+  {
+    "question": "What is the correct order of the stages of the cell cycle?",
+    "options": [
+      "Differentiation, cytoplasmic division, mitosis, interphase.",
+      "Interphase, differentiation, cytoplasmic division, mitosis.",
+      "Interphase, mitosis, cytoplasmic division, differentiation.",
+      "Mitosis, interphase, cytoplasmic division, differentiation."
+    ],
+    "answer": "Interphase, mitosis, cytoplasmic division, differentiation."
+  },
+  {
+    "question": "During which phase of mitosis do centromeres of replicated chromosomes separate?",
+    "options": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "answer": "Anaphase"
+  },
+  {
+    "question": "Where is a mitochondrion found in the cell?",
+    "options": [
+      "In the intracellular fluid",
+      "In the extracellular fluid",
+      "In the cell membrane",
+      "In the fluid of the nucleus"
+    ],
+    "answer": "In the intracellular fluid"
+  },
+  {
+    "question": "The skin, as an organ, is also referred to as the__________.",
+    "options": [
+      "epidermis",
+      "cutaneous membrane",
+      "stratum corneum",
+      "epithelium"
+    ],
+    "answer": "cutaneous membrane"
+  },
+  {
+    "question": "The skin along with structures such as nails, hair, and sweat glands are part of the__________.",
+    "options": [
+      "integumentary system",
+      "dermis",
+      "subcutaneous tissue",
+      "exoskeleton"
+    ],
+    "answer": "integumentary system"
+  },
+  {
+    "question": "Injections that are administered into the tissues of the skin are called__________ injections.",
+    "options": [
+      "subcutaneous",
+      "intradermal",
+      "intramuscular",
+      "hypodermic"
+    ],
+    "answer": "intradermal"
+  },
+  {
+    "question": "Nerve fibers scattered throughout the dermis are associated with what structures?",
+    "options": [
+      "Hair, melanocytes, and keratinocytes",
+      "Bone, tendons, and muscles",
+      "Adipose and reticular tissue",
+      "Muscles, glands, and sensory receptors"
+    ],
+    "answer": "Muscles, glands, and sensory receptors"
+  },
+  {
+    "question": "What are dermal papillae?",
+    "options": [
+      "Bundles of dense connective tissue fibers.",
+      "Cluster of cells that produce hair.",
+      "Site where nails are anchored to fingers or toes.",
+      "Projections of dermal tissue between epidermal ridges."
+    ],
+    "answer": "Projections of dermal tissue between epidermal ridges."
+  },
+  {
+    "question": "The__________ is typically thicker than the__________.",
+    "options": [
+      "stratum basale; stratum corneum",
+      "papillary layer; reticular layer",
+      "dermis; epidermis",
+      "skin of the forearm; skin of the palm of the hand"
+    ],
+    "answer": "dermis; epidermis"
+  },
+  {
+    "question": "Normally, melanin is confined to what area of the skin?",
+    "options": [
+      "Epidermis",
+      "Basement membrane",
+      "Dermal papillae",
+      "Stratum corneum"
+    ],
+    "answer": "Epidermis"
+  },
+  {
+    "question": "Why does exposure to ultraviolet light darken the skin?",
+    "options": [
+      "It stimulates the synthesis of melanin.",
+      "It stimulates the production of keratinocytes.",
+      "It stimulates the synthesis of keratin.",
+      "It stimulates the proliferation of papillae."
+    ],
+    "answer": "It stimulates the synthesis of melanin."
+  },
+  {
+    "question": "What determines the color of skin?",
+    "options": [
+      "The number of melanocytes in the epidermis.",
+      "The thickness of the epidermis.",
+      "The amount of melanin that melanocytes produce.",
+      "The density of hair."
+    ],
+    "answer": "The amount of melanin that melanocytes produce."
+  },
+  {
+    "question": "The subcutaneous layer is comprised of what tissue type(s)?",
+    "options": [
+      "Epithelial tissue",
+      "Areolar and adipose tissue",
+      "Epithelial tissue and areolar tissue",
+      "Adipose tissue and skeletal muscle tissue"
+    ],
+    "answer": "Areolar and adipose tissue"
+  },
+  {
+    "question": "Skin cells play an important role in producing what vitamin?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "answer": "Vitamin D"
+  },
+  {
+    "question": "Epidermis is composed of__________, whereas dermis is composed of__________.",
+    "options": [
+      "areolar tissue; columnar epithelial tissue",
+      "dense irregular connective tissue; simple squamous epithelial tissue",
+      "pseudostratified epithelial tissue; areolar tissue",
+      "stratified squamous epithelial tissue; dense irregular connective tissue"
+    ],
+    "answer": "stratified squamous epithelial tissue; dense irregular connective tissue"
+  },
+  {
+    "question": "What is the cause of cyanosis?",
+    "options": [
+      "A buildup of cyanide in the skin",
+      "Low blood oxygen levels",
+      "Excess of carotene in the diet",
+      "Excessive exposure to ultraviolet (UV) radiation"
+    ],
+    "answer": "Low blood oxygen levels"
+  },
+  {
+    "question": "Name the tough fibrous protein that is responsible for the waterproof nature of skin.",
+    "options": [
+      "Keratin",
+      "Melanin",
+      "Vitamin D",
+      "Collagen"
+    ],
+    "answer": "Keratin"
+  },
+  {
+    "question": "What cell type produces the nail plates?",
+    "options": [
+      "Cartilage cells (chondrocytes)",
+      "Fibroblasts",
+      "Melanocytes",
+      "Specialized epithelial cells"
+    ],
+    "answer": "Specialized epithelial cells"
+  },
+  {
+    "question": "The nail__________ overlies the nail__________.",
+    "options": [
+      "plate; bed",
+      "plate; body",
+      "matrix; bed",
+      "bed; plate"
+    ],
+    "answer": "plate; bed"
+  },
+  {
+    "question": "What gives a nail its hardness?",
+    "options": [
+      "Melanin",
+      "Collagen",
+      "Calcium",
+      "Keratin"
+    ],
+    "answer": "Keratin"
+  },
+  {
+    "question": "What forms the shafts of hair?",
+    "options": [
+      "Live dermal cells",
+      "Dead epidermal cells",
+      "Live epidermal cells",
+      "Dead dermal cells"
+    ],
+    "answer": "Dead epidermal cells"
+  },
+  {
+    "question": "Arrector pili muscles are attached to what feature of the skin?",
+    "options": [
+      "Nail beds",
+      "Sebaceous glands",
+      "Stratum corneum",
+      "Hair follicles"
+    ],
+    "answer": "Hair follicles"
+  },
+  {
+    "question": "What is secreted by sebaceous glands?",
+    "options": [
+      "Fat globules mixed with cellular debris",
+      "Hormones",
+      "Watery solution containing organic material",
+      "Mucus"
+    ],
+    "answer": "Fat globules mixed with cellular debris"
+  },
+  {
+    "question": "What type of glands secrete breast milk and ear wax?",
+    "options": [
+      "Modified sebaceous glands",
+      "Modified apocrine sweat glands",
+      "Modified merocrine (eccrine) sweat glands",
+      "Modified endocrine glands"
+    ],
+    "answer": "Modified apocrine sweat glands"
+  },
+  {
+    "question": "What is the primary means of body heat loss?",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Evaporation",
+      "Radiation"
+    ],
+    "answer": "Radiation"
+  },
+  {
+    "question": "What is a normal response to excessive loss of body heat in a cold environment?",
+    "options": [
+      "Dermal blood vessels constrict.",
+      "Sweat glands become active.",
+      "Smooth muscles relax.",
+      "Dermal blood vessels dilate."
+    ],
+    "answer": "Dermal blood vessels constrict."
+  },
+  {
+    "question": "Sweating results in loss of body heat by what means?",
+    "options": [
+      "Convection",
+      "Conduction",
+      "Evaporation",
+      "Radiation"
+    ],
+    "answer": "Evaporation"
+  },
+  {
+    "question": "The body loses heat to the air molecules continuously circulating over it by the process of__________.",
+    "options": [
+      "Radiation",
+      "Evaporation",
+      "Conduction",
+      "Convection"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Inflammation results in__________ in the area of injury or infection, resulting in redness and swelling of the tissue.",
+    "options": [
+      "vasodilation",
+      "muscle contraction",
+      "blood clotting",
+      "loss of skin"
+    ],
+    "answer": "vasodilation"
+  },
+  {
+    "question": "When does inflammation occur?",
+    "options": [
+      "In response to extreme cold",
+      "In response to injury or infection",
+      "In response to fever",
+      "In response to aging"
+    ],
+    "answer": "In response to injury or infection"
+  },
+  {
+    "question": "In treating a burn patient, how is the \"rule of nines\" used?",
+    "options": [
+      "To estimate the depth of the burn.",
+      "To estimate the surface area of the burn.",
+      "To estimate time needed for healing.",
+      "To estimate the level of pain experienced by the patient."
+    ],
+    "answer": "To estimate the surface area of the burn."
+  },
+  {
+    "question": "As a person ages, what happens to their skin?",
+    "options": [
+      "The skin becomes thicker.",
+      "The skin becomes more opaque.",
+      "The skin becomes more elastic.",
+      "The skin becomes thinner."
+    ],
+    "answer": "The skin becomes thinner."
+  },
+  {
+    "question": "What feature of the skin is involved in acne?",
+    "options": [
+      "Sweat glands",
+      "Hair follicles",
+      "Sebaceous glands",
+      "Apocrine glands"
+    ],
+    "answer": "Sebaceous glands"
+  },
+  {
+    "question": "The condition called__________ results from a complete lack of melanin.",
+    "options": [
+      "albinism",
+      "jaundice",
+      "cyanosis",
+      "melanoma"
+    ],
+    "answer": "albinism"
+  }
+]
