@@ -23,24 +23,46 @@ def read_json(path: Path):
 
 def normalize_and_shuffle(qs, shuffle_choices: bool):
     """
-    Normalize answers to index for MCQs if answer is text;
-    optionally shuffle choices while keeping correct answer aligned.
+    Normalize answers to index for MCQs if answer is text or list of texts;
+    optionally shuffle choices while keeping correct answer(s) aligned.
     """
     for q in qs:
         if q.get("choices"):
-            # Normalize text answer to index when possible
-            if isinstance(q.get("answer"), str) and q["answer"] in q["choices"]:
-                q["answer"] = q["choices"].index(q["answer"])
+            ch = q.get("choices", [])
+            ans = q.get("answer")
+
+            # Normalize to indices
+            if isinstance(ans, list):
+                # Accept list of ints/strings; convert to unique, sorted indices
+                idxs = []
+                for a in ans:
+                    if isinstance(a, int) and 0 <= a < len(ch):
+                        idxs.append(a)
+                    elif isinstance(a, str) and a in ch:
+                        idxs.append(ch.index(a))
+                q["answer"] = sorted(set(idxs))
+            elif isinstance(ans, str) and ans in ch:
+                q["answer"] = ch.index(ans)
+            # else: assume int or malformed; leave as-is
+
             # Shuffle choices if requested
             if shuffle_choices:
                 correct_idx = q.get("answer")
-                ch = q.get("choices", [])[:]
                 order = list(range(len(ch)))
                 random.shuffle(order)
                 q["choices"] = [ch[i] for i in order]
+
+                # Remap answer(s) to new positions
                 if isinstance(correct_idx, int) and 0 <= correct_idx < len(order):
                     q["answer"] = order.index(correct_idx)
+                elif isinstance(correct_idx, list):
+                    remapped = []
+                    for ci in correct_idx:
+                        if isinstance(ci, int) and 0 <= ci < len(order):
+                            remapped.append(order.index(ci))
+                    q["answer"] = sorted(set(remapped))
     return qs
+
 
 def list_subjects_and_tests(root: Path):
     """
@@ -213,10 +235,33 @@ else:
     if not st.session_state.done and i < n:
         q = qs[i]
         st.subheader(q.get("prompt", ""))
-        answer_widget_value = None
 
-        if q.get("choices"):
-            answer_widget_value = st.radio("Choose one:", q["choices"], index=None, key=f"radio_{i}")
+        answer_widget_value = None
+        is_mcq = bool(q.get("choices"))
+        is_two_correct = False
+
+        # Determine if this MCQ has exactly two correct answers
+        if is_mcq:
+            ans = q.get("answer")
+            if isinstance(ans, list) and len(ans) == 2:
+                is_two_correct = True
+
+        # ----- Render input widget -----
+        if is_mcq:
+            if is_two_correct:
+                # Multi-select for exactly two correct answers
+                answer_widget_value = st.multiselect(
+                    "Choose two:",
+                    q["choices"],
+                    key=f"multi_{i}",
+                )
+            else:
+                answer_widget_value = st.radio(
+                    "Choose one:",
+                    q["choices"],
+                    index=None,
+                    key=f"radio_{i}"
+                )
         else:
             answer_widget_value = st.text_input("Your answer:", key=f"text_{i}")
 
@@ -228,15 +273,33 @@ else:
 
         if submitted:
             correct = False
-            if q.get("choices"):
-                if answer_widget_value is None:
-                    st.warning("Please select an option before submitting.")
+
+            if is_mcq:
+                # Build canonical correct indices list (supports int or list[int])
+                if isinstance(q.get("answer"), int):
+                    correct_indices = [q["answer"]]
+                elif isinstance(q.get("answer"), list):
+                    correct_indices = sorted(set(int(x) for x in q["answer"]))
                 else:
-                    # Ensure answer index exists
-                    correct_idx = q["answer"] if isinstance(q.get("answer"), int) else (
-                        q["choices"].index(q["answer"]) if q.get("answer") in q.get("choices", []) else -1
-                    )
-                    correct = (q["choices"].index(answer_widget_value) == correct_idx)
+                    # Fallback: try to resolve string to index
+                    if isinstance(q.get("answer"), str) and q["answer"] in q["choices"]:
+                        correct_indices = [q["choices"].index(q["answer"])]
+                    else:
+                        correct_indices = []
+
+                if is_two_correct:
+                    # Must choose exactly two
+                    if not answer_widget_value or len(answer_widget_value) != 2:
+                        st.warning("Please select exactly two options before submitting.")
+                        st.stop()
+                    user_indices = [q["choices"].index(v) for v in answer_widget_value]
+                    correct = set(user_indices) == set(correct_indices)
+                else:
+                    if answer_widget_value is None:
+                        st.warning("Please select an option before submitting.")
+                        st.stop()
+                    user_index = q["choices"].index(answer_widget_value)
+                    correct = (user_index == correct_indices[0] if correct_indices else False)
             else:
                 def norm(s): return (s or "").strip().lower()
                 acceptable = q["answer"] if isinstance(q.get("answer"), list) else [q.get("answer", "")]
@@ -254,14 +317,21 @@ else:
                 if correct:
                     st.success("✅ Correct!")
                 else:
-                    # Show correct answer text if MCQ
-                    if q.get("choices"):
-                        ans_txt = None
-                        if isinstance(q.get("answer"), int) and 0 <= q["answer"] < len(q["choices"]):
-                            ans_txt = q["choices"][q["answer"]]
+                    if is_mcq:
+                        # Build readable correct answer text(s)
+                        if isinstance(q.get("answer"), int):
+                            ans_txts = [q["choices"][q["answer"]]] if 0 <= q["answer"] < len(q["choices"]) else []
+                        elif isinstance(q.get("answer"), list):
+                            ans_txts = [q["choices"][idx] for idx in q["answer"] if 0 <= idx < len(q["choices"])]
                         elif isinstance(q.get("answer"), str):
-                            ans_txt = q["answer"]
-                        st.error(f"❌ Incorrect. Answer: {ans_txt if ans_txt is not None else 'N/A'}")
+                            ans_txts = [q["answer"]]
+                        else:
+                            ans_txts = []
+
+                        if is_two_correct:
+                            st.error("❌ Incorrect. Correct answers: " + ", ".join(map(str, ans_txts)) if ans_txts else "N/A")
+                        else:
+                            st.error(f"❌ Incorrect. Answer: {ans_txts[0] if ans_txts else 'N/A'}")
                     else:
                         ac = q["answer"] if isinstance(q.get("answer"), list) else [q.get("answer", "")]
                         st.error("❌ Incorrect.")
@@ -283,7 +353,7 @@ else:
             if st.session_state.i >= n:
                 end_quiz()
 
-    # End + Review
+        # End + Review
     if st.session_state.done:
         st.success("🎉 Quiz finished!")
         st.write(f"Score: **{st.session_state.score} / {len(st.session_state.qs)}**")
@@ -293,8 +363,19 @@ else:
                 q = st.session_state.qs[rec["q_index"]]
                 st.markdown(f"**Q{idx}. {q.get('prompt','')}**")
                 if q.get("choices"):
+                    # Determine correct indices set
+                    if isinstance(q.get("answer"), int):
+                        correct_set = {q["answer"]}
+                    elif isinstance(q.get("answer"), list):
+                        correct_set = set(q["answer"])
+                    else:
+                        if isinstance(q.get("answer"), str) and q["answer"] in q["choices"]:
+                            correct_set = {q["choices"].index(q["answer"])}
+                        else:
+                            correct_set = set()
+
                     for j, c in enumerate(q["choices"]):
-                        mark = "✅" if (isinstance(q.get("answer"), int) and j == q["answer"]) else ""
+                        mark = "✅" if j in correct_set else ""
                         st.write(f"{letters[j]}. {c} {mark}")
                 st.write(f"Your answer: {rec['user']}")
                 st.write(f"Correct: {'Yes' if rec['correct'] else 'No'}")
