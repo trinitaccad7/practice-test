@@ -1,6 +1,6 @@
 [
   {
-    "prompt": "Which of the following are signs of aging at the cellular level?",
+    "prompt": "Which of the following are signs of aging at the cellular level?(Select all that applies)",
     "choices": [
       "Graying hair, waning strength, and wrinkles.",
       "Unrepaired DNA and abnormal proteins.",
