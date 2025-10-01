@@ -7,14 +7,14 @@ import streamlit as st
 # ---------- Page setup ----------
 st.set_page_config(page_title="Practice Test", page_icon="📝", layout="centered")
 st.title("📝 Practice Test")
-st.caption("Pick a subject and test, or mix everything. You can also upload a custom JSON.")
+#st.caption("Pick a subject and test, or mix everything. You can also upload a custom JSON.")
 
 # ---------- Paths ----------
 BASE_DIR = Path(__file__).parent
 QUESTIONS_ROOT = BASE_DIR / "questions"  # expects questions/<subject>/*.json
 
 # Optional upload (overrides built-ins if provided)
-uploaded = st.file_uploader("Upload a questions JSON (optional)", type=["json"])
+# uploaded = st.file_uploader("Upload a questions JSON (optional)", type=["json"])
 
 # ---------- Helpers ----------
 def read_json(path: Path):
@@ -109,13 +109,14 @@ with st.sidebar:
 # ---------- Load questions ----------
 def load_questions():
     # 1) Uploaded JSON overrides everything
+    '''
     if uploaded is not None:
         try:
             return json.load(uploaded)
         except Exception as e:
             st.error(f"Could not read uploaded file: {e}")
             return []
-
+    '''
     # 2) Built-ins from questions/ structure
     if not subjects:
         st.warning("No built-in question banks found. Add files under questions/<subject>/*.json or upload a JSON.")
@@ -215,7 +216,7 @@ i = st.session_state.i
 n = len(qs)
 
 if n == 0:
-    st.info("Load questions (upload or built-ins), then press **Start / Restart quiz**.")
+    st.info("Pick Subject and Test, then press Start / Restart quiz. Press Submit to go to next question")
 else:
     # Header metrics
     cols = st.columns(3)
