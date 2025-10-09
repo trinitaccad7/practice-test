@@ -224,7 +224,7 @@
   {
     "prompt": "If a patient has breast implants, what modification may be necessary when you place the chest electrodes?",
     "choices": ["Place the electrodes directly on the breast.", "Place the electrodes on the patient's back.", "Place V1 and V2 a little higher on the chest.", "Place V3, V4, and V5 a little higher on the chest."],
-    "answer": 3,
+    "answer": 2,
     "explanation": ""
   },
   {
