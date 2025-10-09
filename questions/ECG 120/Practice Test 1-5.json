@@ -290,7 +290,7 @@
   {
     "prompt": "Using the 1500 method, calculate the heart rate.",
     "choices": ["40 bpm", "80 bpm", "60 bpm", "20 bpm"],
-    "answer": 2,
+    "answer": 0,
     "explanation": ""
   },
   {
