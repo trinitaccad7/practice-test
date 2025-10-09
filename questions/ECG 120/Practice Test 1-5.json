@@ -299,17 +299,25 @@
     "answer": 0,
     "explanation": ""
   },
-  {
+ {
     "prompt": "What type of artifact is shown in the figure?",
     "choices": ["Wandering baseline", "Somatic tremor", "Baseline shift", "Alternating current interference"],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+	"image": "ba2efa13-4c4a-4d44-8e6a-2bf83ba70835.png"
   },
   {
     "prompt": "What type of artifact is shown in the figure?",
     "choices": ["Wandering baseline", "Involuntary movement", "AC interference", "Somatic tremor"],
     "answer": 0,
-    "explanation":
+    "explanation": "",
+	"image": "7f8bc9f1-e971-4890-8429-93e2caf13990.png"
+  },
+  {
+    "prompt": "What type of artifact is shown in the figure?",
+    "choices": ["Involuntary movement", "Wandering baseline", "Somatic tremor", "AC interference"],
+    "answer": 3,
+    "explanation": "",
+	"image": "ed5b1be0-26fd-4e96-9b3c-f00fab03d479.png"
   }
-  
 ]
