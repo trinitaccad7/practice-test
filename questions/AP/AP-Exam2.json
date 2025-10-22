@@ -1,1 +1,992 @@
-
+[
+  {
+    "prompt": "Compact bone has __________, whereas spongy bone has __________.",
+    "choices": [
+      "spaces that reduce the weight of bone; tightly packed matrix that is solid",
+      "osteons; trabeculae",
+      "trabeculae; osteons",
+      "osteocytes; no osteocytes"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Where on a long bone is articular cartilage found?",
+    "choices": [
+      "On the outer surface of the epiphyses",
+      "Inside the medullary cavity",
+      "On the outer surface of the diaphysis",
+      "In the spaces of the spongy bone"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What type of tissue comprises articular cartilage?",
+    "choices": [
+      "Fibrocartilage",
+      "Spongy bone",
+      "Elastic cartilage",
+      "Hyaline cartilage"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Osteoblasts are__________, whereas osteocytes are__________.",
+    "choices": [
+      "bone-forming cells; bone-dissolving cells",
+      "mature bone cells; bone-forming cells",
+      "bone-forming cells; mature bone cells",
+      "bone-dissolving cells; mature bone cells"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What are osteoclasts?",
+    "choices": [
+      "Bone cells that secrete bone matrix",
+      "Mature bone cells that maintain the matrix",
+      "Immature bone cells that give rise to osteocytes",
+      "Bone cells that break down bone matrix"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "In a child, a vitamin D deficiency results in__________, whereas a vitamin A deficiency",
+    "choices": [
+      "pituitary dwarfism; rickets",
+      "rickets; retardation of bone development",
+      "excess calcium absorption; osteomalacia",
+      "soft bones; rickets"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the function of osteoblasts?",
+    "choices": [
+      "Osteoblasts are large, multinucleated cells that break down the calcified bone matrix.",
+      "Osteoblasts deposit bone matrix around themselves and become osteocytes when they",
+      "Osteoblasts secrete collagen fibers and then mature into osteoclasts.",
+      "Osteoblasts secrete an acid that breaks down the epiphyseal plate"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the effect of exercise on bones?",
+    "choices": [
+      "Results in thickening and elongating of bones",
+      "Results in weakening and elongating bones",
+      "Results in thickening and strengthening bones",
+      "Results in thinning and weakening bones"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Red bone marrow functions in the formation of__________.",
+    "choices": [
+      "red blood cells, white blood cells, and platelets",
+      "red blood cells only",
+      "white blood cells only",
+      "red and white blood cells only"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following does not describe the function(s) of the skeletal system?",
+    "choices": [
+      "It interacts with muscles, providing movement.",
+      "It stores inorganic salts.",
+      "It protects organs, especially in the head and thorax.",
+      "It generates the movements of the limbs"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not a function of bones?",
+    "choices": [
+      "Contraction",
+      "Attachment for muscles",
+      "Blood cell production",
+      "Storage of inorganic salts"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following bones are found within the axial skeleton?",
+    "choices": [
+      "The upper and lower limbs and pelvic and pectoral girdles",
+      "The skull, hyoid bone, thoracic cage, and vertebral column",
+      "The radius, ulna, carpals, and phalanges",
+      "The femur, tibia, and fibula"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Bacteria infecting the mucous membranes in the air cells of the mastoid process most likely",
+    "choices": [
+      "middle ear",
+      "meninges",
+      "frontal sinus",
+      "maxillary sinus"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "A cleft palate results from incomplete development of the__________.",
+    "choices": [
+      "ethmoid bone",
+      "maxillae",
+      "mandible",
+      "vomer bone"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What three bones fuse to form the hip bone?",
+    "choices": [
+      "The ilium, the femur, and the pubis.",
+      "The ilium, the sacrum, and the pubis.",
+      "The ischium, the coccyx, and the pubis.",
+      "The ilium, the ischium, and the pubis."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The atlas is one of the__________ vertebrae.",
+    "choices": [
+      "lumbar",
+      "thoracic",
+      "cervical",
+      "sacral"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Ribs that join the sternum directly by costal cartilages are called__________ ribs.",
+    "choices": [
+      "true",
+      "false",
+      "floating",
+      "vertebrochondral"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What are phalanges?",
+    "choices": [
+      "Skull bones",
+      "Forearm bones",
+      "Finger and toe bones",
+      "Wrist and ankle bones"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Having extra digits is termed__________.",
+    "choices": [
+      "polydactyly",
+      "polyuria",
+      "polyploidy",
+      "polydipsia"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is/are not a component(s) of the pelvic girdle?",
+    "choices": [
+      "Hip bones",
+      "Coxal bones",
+      "Femurs",
+      "Sacrum"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following describes a female's pelvis compared to a male's pelvis?",
+    "choices": [
+      "A cavity that is wider in all dimensions, with lighter bones.",
+      "A cavity that is narrower in all dimensions, with lighter bones.",
+      "A cavity that is wider in all dimensions, with heavier bones.",
+      "A cavity that is narrower in all dimensions, with heavier bones."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following describes the female pelvis compared to that of the male?",
+    "choices": [
+      "The angle of the female pubic arch is smaller.",
+      "The distance between the female ischial spines is greater.",
+      "The obturator foramen is more oval in a female.",
+      "The female iliac bones are less flared"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Where is the femur located?",
+    "choices": [
+      "In the thigh",
+      "In the pelvic girdle",
+      "In the arm",
+      "In the shin"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is a compound fracture?",
+    "choices": [
+      "An incomplete break of the bone in more than one place",
+      "A longitudinal break in the bone",
+      "A broken bone exposed to the outside",
+      "A complete break in the bone in more than one place"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "A landscaper accidentally had their leg crushed by a tree. Their femur was impacted with",
+    "choices": [
+      "A comminuted fracture",
+      "A fissured fracture",
+      "An oblique fracture",
+      "A greenstick fracture"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following isnot a component of the skeletal system?",
+    "choices": [
+      "Skeletal muscle",
+      "Ligaments",
+      "Cartilage",
+      "Bone"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Joints are also called__________.",
+    "choices": [
+      "annotations",
+      "articulations",
+      "affectations",
+      "affiliations"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Joints can be classified as synarthrotic, amphiarthrotic, or diarthrotic. What characteristic was used to classify the joints?",
+    "choices": [
+      "Location of the joint in the body",
+      "Composition of the joint",
+      "Number of bones within the joint",
+      "Degree of movement possible at the join"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Suppose all synarthrotic joints were fused in an individual. Which of the following would be",
+    "choices": [
+      "The person would not be able to flex their fingers and grasp objects.",
+      "Braces would not work to straighten the person’s teeth because their teeth would not",
+      "The person would not be able to bend forward because their vertebral column would",
+      "Head-turning would be impossible because the atlas and axis would be fused"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A patient has a condition in which collagen fibers are incorrectly manufactured and are non-",
+    "choices": [
+      "Synarthrotic, amphiarthrotic, and diarthrotic joints",
+      "Syndesmosis, suture, and gomphosis joints",
+      "Synchondrosis, symphysis, and synovial joints",
+      "Pivot, condylar, and ellipsoidal joints"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Suppose the pubic symphysis did not exist in the pelvic girdle and the two pubic bones were",
+    "choices": [
+      "The vertebral column would not be able to extend because of the rigidity of the",
+      "The femurs would grind inside the acetabulum and cause pain because of a lack of",
+      "The pelvic girdle would be highly unstable because the pubic symphysis adds",
+      "Childbirth would have a high mortality risk because the pelvic girdle would be rigid"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "A suture is an example of a__________ joint.",
+    "choices": [
+      "fibrous",
+      "cartilaginous",
+      "synovial",
+      "plane"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What type of joint is between adjacent vertebral bodies?",
+    "choices": [
+      "Symphysis that is amphiarthrotic.",
+      "Symphysis that is synarthrotic.",
+      "Symphysis that is diarthrotic.",
+      "Synovial joint that is synarthrotic"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What connects bones together in a cartilaginous joint?",
+    "choices": [
+      "Synovial fluid",
+      "Fibrous connective tissue",
+      "Hyaline cartilage or fibrocartilage",
+      "A joint capsule"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What does the synovial membrane secrete?",
+    "choices": [
+      "Sweat",
+      "Serous fluid",
+      "Mucus",
+      "Synovial fluid"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "What would happen if the synovial membrane could not secrete synovial fluid?",
+    "choices": [
+      "The onset of arthritis would be slowed because synovial fluid generates friction",
+      "Blood would not directly flow into the joint capsule to nourish cartilage.",
+      "The cartilage contained within the capsule would not receive nutrients from synovial",
+      "New cartilage would not be generated because synovial fluid is a stimulant for"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Bones of a synovial joint are held together by__________.",
+    "choices": [
+      "a synovial membrane",
+      "a joint capsule",
+      "a meniscus",
+      "articular cartilage"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Greg trips over a toy and experiences a sharp pain. His physician diagnoses a torn meniscus.",
+    "choices": [
+      "Knee joint",
+      "Elbow joint",
+      "Shoulder joint",
+      "Hip joint"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the source of oxygen and nutrients for articular cartilage?",
+    "choices": [
+      "A direct blood supply",
+      "Blood vessels in underlying spongy bone",
+      "Surrounding synovial fluid",
+      "Chondrocytes"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What reinforces a joint capsule?",
+    "choices": [
+      "Adipose tissue within the surrounding spaces",
+      "Articular cartilage cushioning ends of bones",
+      "Ligaments binding articular ends of bones together",
+      "Hyaline cartilage providing strength to the capsule wall"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Fluid-filled sacs containing synovial fluid are called__________.",
+    "choices": [
+      "bursae",
+      "menisci",
+      "ligaments",
+      "tendons"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not a synovial joint?",
+    "choices": [
+      "Condylar",
+      "Ball-and-socket",
+      "Hinge",
+      "Symphysis"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "In which of the following is rotational movement possible?",
+    "choices": [
+      "Ball-and-socket joint",
+      "Condylar joint",
+      "Hinge joint",
+      "Suture joint"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "A muscle end attached to a less movable or relatively fixed part is called the__________.",
+    "choices": [
+      "symphysis",
+      "articulation",
+      "origin",
+      "insertion"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following correctly pairs a term with its definition?",
+    "choices": [
+      "Extension—bending the leg at the knee to bring the heel closer to the buttocks",
+      "Abduction—lifting the arm out to the side of the body so that it is parallel to the",
+      "Flexion—bringing the arm from overhead back down to the side of the body",
+      "Adduction—moving the arm forward so its is in front of the body"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "You turn your head to look at something over your shoulder. This is an example",
+    "choices": [
+      "retraction",
+      "abduction",
+      "circumduction",
+      "rotation"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The largest and most complex synovial joint is the___________.",
+    "choices": [
+      "hip",
+      "knee",
+      "elbow",
+      "shoulder"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Displacement of a joint is called__________.",
+    "choices": [
+      "bursitis",
+      "sprain",
+      "dislocation",
+      "arthritis"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the effect of activity and exercise on joints?",
+    "choices": [
+      "It makes joints more vulnerable to injury.",
+      "It hastens osteoarthritis.",
+      "It keeps joints functioning longer.",
+      "It increases joint stiffness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Disuse of the joints__________, which hastens stiffening.",
+    "choices": [
+      "causes arthritis",
+      "causes injuries",
+      "hampers blood flow",
+      "degenerates cartilage"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is an infection?",
+    "choices": [
+      "Osteoarthritis",
+      "A sprain",
+      "Bursitis",
+      "Lyme disease"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is rheumatoid arthritis?",
+    "choices": [
+      "A condition in which the synovial membrane becomes inflamed and thickened.",
+      "An inflammation of synchondrosis joints.",
+      "A condition in which ligaments break down, resulting in joints that become extremely",
+      "A natural degeneration of joints due to old age"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is a sprain?",
+    "choices": [
+      "Inflammation of a bursa",
+      "Overstretched or torn ligaments in a joint",
+      "Dislocation of bones in a joint",
+      "Overuse of a joint"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What type of joint is immovable?",
+    "choices": [
+      "Suture",
+      "Hinge joint",
+      "Ball-and-socket joint",
+      "Saddle joint"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is a function of muscles?",
+    "choices": [
+      "Pumping blood",
+      "Generating electrical impulses",
+      "Storage of minerals",
+      "Cushioning tissues from blunt force"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the name of the outermost layer of connective tissue surrounding a skeletal muscle?",
+    "choices": [
+      "Epimysium",
+      "Perimysium",
+      "Endomysium",
+      "Sarcolemma"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Myofibrils are composed primarily of__________.",
+    "choices": [
+      "actin and myosin",
+      "perimysium and endomysium",
+      "troponin and tropomyosin",
+      "fascia and tendons"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the functional unit of muscle contraction?",
+    "choices": [
+      "Muscle",
+      "Muscle fiber",
+      "Myosin cross-bridge",
+      "Sarcomere"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the function of creatine phosphate?",
+    "choices": [
+      "It catalyzes the decomposition of ATP.",
+      "It catalyzes the decomposition of ADP.",
+      "It supplies energy for the synthesis of ATP.",
+      "It supplies energy for the breakdown of ATP to ADP"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "After finishing a sprint, Tawanda experiences painful cramps in her calf muscles. A deficit",
+    "choices": [
+      "actin",
+      "acetylcholine",
+      "ATP",
+      "ADP"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which statement describes the mechanism of muscle contraction?",
+    "choices": [
+      "Tropomyosin molecules move and expose specific binding sites on thick filaments.",
+      "Actin filaments slide along myosin filaments.",
+      "Cross-bridges form between actin and the sarcolemma.",
+      "Filaments of troponin and tropomyosin slide past one another"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A__________ is the functional connection between a neuron and a skeletal muscle fiber.",
+    "choices": [
+      "synapse",
+      "sarcolemma",
+      "neuroma",
+      "dendrite"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is a motor unit?",
+    "choices": [
+      "Many myofibrils contained within a sarcolemma",
+      "The multiple folds of the motor end plate at a neuromuscular junction",
+      "A motor neuron and the muscle fibers it innervates",
+      "All muscles and other structures encased within a fascia"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "During a muscle contraction, why is ATP required?",
+    "choices": [
+      "To synthesize creatine phosphate",
+      "To breakdown glycogen into glucose for fuel",
+      "To allow myofilament movement",
+      "To stimulate enzyme activity"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is a myogram?",
+    "choices": [
+      "A chart that shows the number of muscle fibers in a motor unit",
+      "A recording of the events of a muscle twitch",
+      "A measurement of muscle tone",
+      "A recording of the amount of movement resulting from a skeletal muscle contraction"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What happens in a muscle as it undergoes atrophy in response to disuse?",
+    "choices": [
+      "Motor neurons grow and invade the muscle abnormally.",
+      "The size of actin and myosin filaments decreases.",
+      "Capillaries within the muscle rupture.",
+      "The muscle swells."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "How does smooth muscle compare to skeletal muscle?",
+    "choices": [
+      "Smooth muscle contracts more slowly and relaxes more slowly.",
+      "Smooth muscle contracts more slowly and relaxes more rapidly.",
+      "Smooth muscle contracts more rapidly and relaxes more slowly.",
+      "Smooth muscle contracts more rapidly and relaxes more rapidly."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which statement describes cardiac muscle?",
+    "choices": [
+      "The cells are multinucleated.",
+      "It does not require stimulation by motor neurons.",
+      "The cells contains very few mitochondria.",
+      "It lacks the straitions formed by regularly arranged sarcomeres"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Bones and muscles function together as mechanical devices called__________.",
+    "choices": [
+      "lifts",
+      "levers",
+      "leads",
+      "loads"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What term describes the more movable end of a muscle?",
+    "choices": [
+      "Origin",
+      "Fulcrum",
+      "Insertion",
+      "Source"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "In producing a movement, the muscle that causes an action is acting as the__________.",
+    "choices": [
+      "synergis",
+      "antagonist",
+      "agonist",
+      "mediator"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "In many movements, the agonist is assisted by other muscles. A muscle that assists the",
+    "choices": [
+      "antagonist",
+      "prime mover",
+      "mediator",
+      "synergist"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the main component of thin filaments?",
+    "choices": [
+      "Myofibrils",
+      "Acetylcholine",
+      "Actin",
+      "Myosin"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What are fascicles?",
+    "choices": [
+      "Bundles of muscle fibers",
+      "Bundles of myofibrils",
+      "Bundles of thick and thin filaments",
+      "Bundles of smooth muscle cells"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What cytoplasmic extensions, together with the cell body, provide the main receptive",
+    "choices": [
+      "Neurofibrils",
+      "Chromatophilic substance (Nissl bodies)",
+      "Axons",
+      "Dendrites"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is a function of the nervous system?",
+    "choices": [
+      "Provides a support system for the body",
+      "Controls the movement of muscles",
+      "Contracts and generates a force to cause bodily motion",
+      "Provides nutrients and nourishment for surrounding cell"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the function of sensory receptors?",
+    "choices": [
+      "To send signals from the brain to muscles",
+      "To work with muscles to generate motion",
+      "To detect changes in and outside the body",
+      "To act as a pathway between the ascending and descending tracts within the spinal"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What are the three general functions of the nervous system?",
+    "choices": [
+      "Sensory, motor, and predictive",
+      "Integrative, motor, and sensory",
+      "Predictive, manipulative, and integrative",
+      "Reflexive, sensory, and predictive"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Masses of myelinated nerve fibers appear__________.",
+    "choices": [
+      "white",
+      "gray",
+      "brown",
+      "transparent"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "How many axons and/or dendrites can a neuron have?",
+    "choices": [
+      "One axon and many dendrites",
+      "One dendrite and many axons",
+      "No dendrites and many axons",
+      "No axons and many dendrites"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What cytoplasmic structure supports the axon?",
+    "choices": [
+      "Dendrites",
+      "Nodes of Ranvier",
+      "Neurofibrils",
+      "Collaterals"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Every neuron has which of the following components?",
+    "choices": [
+      "Many axons",
+      "A cell body",
+      "Myelin",
+      "A neurilemma"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is myelin?",
+    "choices": [
+      "A substance released from a neuron that travels to another neuron.",
+      "Layers of lipids and proteins that wrap around an axon.",
+      "A substance produced in response to bacterial infection.",
+      "A form of chromatophilic substance that fills Schwann cells"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A myelinated nerve fiber is_________, whereas an unmyelinated nerve fiber is_________.",
+    "choices": [
+      "gray; white",
+      "white; black",
+      "white; gray",
+      "gray; black"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Myelin is rich in_________.",
+    "choices": [
+      "nucleic acids",
+      "carbohydrates",
+      "lipids",
+      "salts"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Synaptic knobs are at the ends of__________.",
+    "choices": [
+      "axons",
+      "dendrites",
+      "cell bodies",
+      "neuroglia"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Saltatory conduction__________.",
+    "choices": [
+      "occurs only if the myelin sheath is continuous",
+      "occurs only if nodes of Ranvier are lacking",
+      "is faster than conduction on an unmyelinated fiber",
+      "is slower than conduction on an unmyelinated fiber"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The most rapid conduction of an impulse along an axon occurs on a fiber that is__________.",
+    "choices": [
+      "thick and myelinated",
+      "thick and unmyelinated",
+      "thin and myelinated",
+      "thin and unmyelinated"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The resting cell membrane is more permeable to which ion?",
+    "choices": [
+      "Potassium",
+      "Sodium",
+      "Calcium",
+      "Magnesium"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "If a resting potential becomes more negative, the membrane is said to be__________.",
+    "choices": [
+      "depolarized",
+      "hyperpolarized",
+      "repolarized",
+      "summated"
+    ],
+    "answer": 1,
+    "explanation": ""
+  }
+]
