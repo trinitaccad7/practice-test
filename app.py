@@ -14,7 +14,7 @@ BASE_DIR = Path(__file__).parent
 QUESTIONS_ROOT = BASE_DIR / "questions"  # expects questions/<subject>/*.json
 
 # Optional upload (overrides built-ins if provided)
-uploaded = st.file_uploader("Upload your JSON question file", type=["json"])
+#uploaded = st.file_uploader("Upload your JSON question file", type=["json"])
 
 # ---------- Helpers ----------
 def read_json(path: Path):
