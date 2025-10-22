@@ -69,7 +69,7 @@
     "prompt": "What is the function of osteoblasts?",
     "choices": [
       "Osteoblasts are large, multinucleated cells that break down the calcified bone matrix.",
-      "Osteoblasts deposit bone matrix around themselves and become osteocytes when they",
+      "Osteoblasts deposit bone matrix around themselves and become osteocytes when they are isolated in lacunae",
       "Osteoblasts secrete collagen fibers and then mature into osteoclasts.",
       "Osteoblasts secrete an acid that breaks down the epiphyseal plate"
     ],
@@ -132,7 +132,7 @@
     "explanation": ""
   },
   {
-    "prompt": "Bacteria infecting the mucous membranes in the air cells of the mastoid process most likely",
+    "prompt": "Bacteria infecting the mucous membranes in the air cells of the mastoid process most likely spread from the _________",
     "choices": [
       "middle ear",
       "meninges",
@@ -264,7 +264,7 @@
     "explanation": ""
   },
   {
-    "prompt": "A landscaper accidentally had their leg crushed by a tree. Their femur was impacted with",
+    "prompt": "A landscaper accidentally had their leg crushed by a tree. Their femur was impacted with such force that a section of the bone completely shattered into fragments. What type of break is this?",
     "choices": [
       "A comminuted fracture",
       "A fissured fracture",
@@ -308,18 +308,18 @@
     "explanation": ""
   },
   {
-    "prompt": "Suppose all synarthrotic joints were fused in an individual. Which of the following would be",
+    "prompt": "Suppose all synarthrotic joints were fused in an individual. Which of the following would be true of this individual?",
     "choices": [
       "The person would not be able to flex their fingers and grasp objects.",
-      "Braces would not work to straighten the person’s teeth because their teeth would not",
-      "The person would not be able to bend forward because their vertebral column would",
+      "Braces would not work to straighten the person’s teeth because their teeth would not move.",
+      "The person would not be able to bend forward because their vertebral column would be fused.",
       "Head-turning would be impossible because the atlas and axis would be fused"
     ],
     "answer": 1,
     "explanation": ""
   },
   {
-    "prompt": "A patient has a condition in which collagen fibers are incorrectly manufactured and are non-",
+    "prompt": "A patient has a condition in which collagen fibers are incorrectly manufactured and are non-functional. Which types of joints will be most heavily affected?",
     "choices": [
       "Synarthrotic, amphiarthrotic, and diarthrotic joints",
       "Syndesmosis, suture, and gomphosis joints",
@@ -330,12 +330,12 @@
     "explanation": ""
   },
   {
-    "prompt": "Suppose the pubic symphysis did not exist in the pelvic girdle and the two pubic bones were",
+    "prompt": "Suppose the pubic symphysis did not exist in the pelvic girdle and the two pubic bones were fused in the middle. Which of the following best describes the way the region would be affected if this joint was removed?",
     "choices": [
-      "The vertebral column would not be able to extend because of the rigidity of the",
-      "The femurs would grind inside the acetabulum and cause pain because of a lack of",
-      "The pelvic girdle would be highly unstable because the pubic symphysis adds",
-      "Childbirth would have a high mortality risk because the pelvic girdle would be rigid"
+      "The vertebral column would not be able to extend because of the rigidity of the pelvis.",
+      "The femurs would grind inside the acetabulum and cause pain because of a lack of cartilage.",
+      "The pelvic girdle would be highly unstable because the pubic symphysis adds stability and rigidity.",
+      "Childbirth would have a high mortality risk because the pelvic girdle would be rigid and unmoving."
     ],
     "answer": 3,
     "explanation": ""
@@ -387,10 +387,10 @@
   {
     "prompt": "What would happen if the synovial membrane could not secrete synovial fluid?",
     "choices": [
-      "The onset of arthritis would be slowed because synovial fluid generates friction",
+      "The onset of arthritis would be slowed because synovial fluid generates friction within the join capsule.",
       "Blood would not directly flow into the joint capsule to nourish cartilage.",
-      "The cartilage contained within the capsule would not receive nutrients from synovial",
-      "New cartilage would not be generated because synovial fluid is a stimulant for"
+      "The cartilage contained within the capsule would not receive nutrients from synovial membrane blood vessels.",
+      "New cartilage would not be generated because synovial fluid is a stimulant for cartilage production."
     ],
     "answer": 2,
     "explanation": ""
@@ -407,7 +407,7 @@
     "explanation": ""
   },
   {
-    "prompt": "Greg trips over a toy and experiences a sharp pain. His physician diagnoses a torn meniscus.",
+    "prompt": "Greg trips over a toy and experiences a sharp pain. His physician diagnoses a torn meniscus. What joint has Greg injured?",
     "choices": [
       "Knee joint",
       "Elbow joint",
@@ -486,8 +486,8 @@
   {
     "prompt": "Which of the following correctly pairs a term with its definition?",
     "choices": [
-      "Extension—bending the leg at the knee to bring the heel closer to the buttocks",
-      "Abduction—lifting the arm out to the side of the body so that it is parallel to the",
+      "Extension—bending the leg at the knee to bring the heel closer to the buttocks.",
+      "Abduction—lifting the arm out to the side of the body so that it is parallel to the ground.",
       "Flexion—bringing the arm from overhead back down to the side of the body",
       "Adduction—moving the arm forward so its is in front of the body"
     ],
@@ -495,7 +495,7 @@
     "explanation": ""
   },
   {
-    "prompt": "You turn your head to look at something over your shoulder. This is an example",
+    "prompt": "You turn your head to look at something over your shoulder. This is an example of ______ of the head.",
     "choices": [
       "retraction",
       "abduction",
@@ -565,7 +565,7 @@
     "choices": [
       "A condition in which the synovial membrane becomes inflamed and thickened.",
       "An inflammation of synchondrosis joints.",
-      "A condition in which ligaments break down, resulting in joints that become extremely",
+      "A condition in which ligaments break down, resulting in joints that become extremely loose.",
       "A natural degeneration of joints due to old age"
     ],
     "answer": 0,
@@ -649,7 +649,7 @@
     "explanation": ""
   },
   {
-    "prompt": "After finishing a sprint, Tawanda experiences painful cramps in her calf muscles. A deficit",
+    "prompt": "After finishing a sprint, Tawanda experiences painful cramps in her calf muscles. A deficit in ______ would explain her cramping.",
     "choices": [
       "actin",
       "acetylcholine",
@@ -781,7 +781,7 @@
     "explanation": ""
   },
   {
-    "prompt": "In many movements, the agonist is assisted by other muscles. A muscle that assists the",
+    "prompt": "In many movements, the agonist is assisted by other muscles. A muscle that assists the agonist is called a(n) _______",
     "choices": [
       "antagonist",
       "prime mover",
@@ -814,7 +814,7 @@
     "explanation": ""
   },
   {
-    "prompt": "What cytoplasmic extensions, together with the cell body, provide the main receptive",
+    "prompt": "What cytoplasmic extensions, together with the cell body, provide the main receptive surfaces for neurons",
     "choices": [
       "Neurofibrils",
       "Chromatophilic substance (Nissl bodies)",
@@ -841,7 +841,7 @@
       "To send signals from the brain to muscles",
       "To work with muscles to generate motion",
       "To detect changes in and outside the body",
-      "To act as a pathway between the ascending and descending tracts within the spinal"
+      "To act as a pathway between the ascending and descending tracts within the spinal cord"
     ],
     "answer": 2,
     "explanation": ""
