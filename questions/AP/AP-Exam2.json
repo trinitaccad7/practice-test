@@ -55,7 +55,7 @@
     "explanation": ""
   },
   {
-    "prompt": "In a child, a vitamin D deficiency results in__________, whereas a vitamin A deficiency",
+    "prompt": "In a child, a vitamin D deficiency results in__________, whereas a vitamin A deficiency results in ________",
     "choices": [
       "pituitary dwarfism; rickets",
       "rickets; retardation of bone development",
