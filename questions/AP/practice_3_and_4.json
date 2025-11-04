@@ -1,0 +1,842 @@
+[
+  {
+    "prompt": "The suffix -osis means:",
+    "choices": [
+      "inflammation",
+      "tumor",
+      "pain",
+      "abnormal condition",
+      "visual examination"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Blood infection is called:",
+    "choices": [
+      "anemia",
+      "septicemia",
+      "meningitis",
+      "hematoma",
+      "hemorrhage"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Ear pain is called:",
+    "choices": [
+      "otitis",
+      "rhinalgia",
+      "myalgia",
+      "arthritis",
+      "otalgia"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A condition in which blood is held back from an organ is:",
+    "choices": [
+      "ischemia",
+      "uremia",
+      "hematuria",
+      "leukemia",
+      "menorrhea"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "A benign tumor of muscle is a(n):",
+    "choices": [
+      "adenoma",
+      "adenocarcinoma",
+      "myoma",
+      "myosarcoma",
+      "myocardial infarction"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Renal failure leads to an abnormal blood condition called:",
+    "choices": [
+      "vasculitis",
+      "leukemia",
+      "menorrhagia",
+      "thrombosis",
+      "uremia"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Enlargement of the liver is called:",
+    "choices": [
+      "hepatomegaly",
+      "nephritis",
+      "hepatitis",
+      "cardiomegaly",
+      "splenomegaly"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Inflammation of the membranes around the brain and spinal cord is called:",
+    "choices": [
+      "neuritis",
+      "encephalitis",
+      "pleuritis",
+      "meningitis",
+      "peritonitis"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The windpipe is called the:",
+    "choices": [
+      "larynx",
+      "pharynx",
+      "esophagus",
+      "trachea",
+      "colon"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Disease of heart muscle is called:",
+    "choices": [
+      "myopathy",
+      "arthropathy",
+      "cardiomyopathy",
+      "nephropathy",
+      "encephalopathy"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "A cancerous tumor of glandular (epithelial) cells is called a(n):",
+    "choices": [
+      "leukemia",
+      "adenopathy",
+      "adenoma",
+      "adenocarcinoma",
+      "sarcoma"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Normal discharge of blood during the menstrual period is called:",
+    "choices": [
+      "hemorrhage",
+      "menorrhea",
+      "rhinorrhea",
+      "anemia",
+      "hematuria"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A word part meaning a hardening is:",
+    "choices": [
+      "-centesis",
+      "-lysis",
+      "-pathy",
+      "-plasty",
+      "-sclerosis"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A term meaning pertaining to the groin is:",
+    "choices": [
+      "inguinal",
+      "renal",
+      "pelvic",
+      "peritoneal",
+      "cervical"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Abnormal condition of blood in the urine is called:",
+    "choices": [
+      "uremia",
+      "menorrhagia",
+      "hematuria",
+      "hematology",
+      "ischemia"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "A myocardial infarction is a(n):",
+    "choices": [
+      "stroke",
+      "heart attack",
+      "disease of the brain",
+      "enlargement of the liver",
+      "inflammation of a joint"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A condition that lasts for a long time is called:",
+    "choices": [
+      "acute",
+      "septic",
+      "lateral",
+      "coccygeal",
+      "chronic"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A suffix meaning removal or resection is:",
+    "choices": [
+      "-tomy",
+      "-plasty",
+      "-ectomy",
+      "-stomy",
+      "-therapy"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Puncture to remove fluid from the sac surrounding the developing fetus is called:",
+    "choices": [
+      "arthrocentesis",
+      "arteriosclerosis",
+      "hysterectomy",
+      "laparotomy",
+      "amniocentesis"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Removal of a fallopian tube is called:",
+    "choices": [
+      "hysterotomy",
+      "prostatectomy",
+      "thoracocentesis",
+      "salpingectomy",
+      "oophorectomy"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "An x-ray record of the spinal cord is called a(n):",
+    "choices": [
+      "mammogram",
+      "myelogram",
+      "mammography",
+      "electromyogram",
+      "arthrogram"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Removal of lymph tissue in the pharynx (throat) is called:",
+    "choices": [
+      "tonsillectomy",
+      "mastectomy",
+      "nephrectomy",
+      "neurotomy",
+      "tracheotomy"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Surgical repair (reconstruction) of breast tissue is called:",
+    "choices": [
+      "hysterosalpingectomy",
+      "mastitis",
+      "mammography",
+      "mammoplasty",
+      "rhinoplasty"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Separation of nitrogenous wastes (urea) from the body by filtration through a machine is called:",
+    "choices": [
+      "electroencephalography",
+      "arthrocentesis",
+      "peritoneal dialysis",
+      "abdominocentesis",
+      "hemodialysis"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A combining form meaning blood vessel is:",
+    "choices": [
+      "angi/o",
+      "erythr/o",
+      "hem/o",
+      "leuk/o",
+      "arthr/o"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Creation of a new opening from the windpipe to the outside of the body is called:",
+    "choices": [
+      "laryngotomy",
+      "pharyngotomy",
+      "laparoscopy",
+      "tracheostomy",
+      "colostomy"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Treatment using drugs is called:",
+    "choices": [
+      "chemotherapy",
+      "radiotherapy",
+      "hemodialysis",
+      "angioplasty",
+      "myelography"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Resection of the gallbladder is called:",
+    "choices": [
+      "gastrectomy",
+      "cystectomy",
+      "laparoscopy",
+      "cholecystectomy",
+      "craniotomy"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The suffix -megaly means:",
+    "choices": [
+      "hardening",
+      "new opening",
+      "enlargement",
+      "surgical procedure to remove fluid",
+      "bursting forth"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The suffix -sclerosis means:",
+    "choices": [
+      "hardening",
+      "new opening",
+      "enlargement",
+      "surgical procedure to remove fluid",
+      "bursting forth"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The suffix -centesis means:",
+    "choices": [
+      "hardening",
+      "new opening",
+      "enlargement",
+      "puncture to remove fluid",
+      "bursting forth (of blood)"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The suffix -stomy means:",
+    "choices": [
+      "hardening",
+      "opening",
+      "enlargement",
+      "surgical procedure to remove fluid",
+      "bursting forth (of blood)"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The suffix -uria means:",
+    "choices": [
+      "disease",
+      "breakdown, destruction, separation",
+      "surgical repair",
+      "condition of urine",
+      "blood"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The suffix -rrhagia means:",
+    "choices": [
+      "hardening",
+      "new opening",
+      "enlargement",
+      "surgical procedure to remove fluid",
+      "excessive discharge of blood"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "The suffix -pathy means:",
+    "choices": [
+      "disease",
+      "breakdown, destruction, separation",
+      "surgical repair",
+      "urination",
+      "treatment"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The suffix -lysis means:",
+    "choices": [
+      "disease",
+      "separation, breakdown, destruction",
+      "surgical repair",
+      "urination",
+      "treatment"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The suffix -therapy means:",
+    "choices": [
+      "disease",
+      "breakdown, destruction, separation",
+      "surgical repair",
+      "urination",
+      "treatment"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "The suffix -plasty means:",
+    "choices": [
+      "disease",
+      "breakdown, destruction, separation",
+      "surgical repair",
+      "urination",
+      "treatment"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The suffix -gram means:",
+    "choices": [
+      "pertaining to",
+      "process of cutting",
+      "abnormal condition",
+      "blood vessel",
+      "record"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "The suffix -tomy means:",
+    "choices": [
+      "pertaining to",
+      "incision, cutting into",
+      "abnormal condition",
+      "blood vessel",
+      "record"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The condition of not being to breathe is called:",
+    "choices": [
+      "atrophy",
+      "tachypnea",
+      "dysplasia",
+      "dyspnea",
+      "apnea"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A term meaning before birth is:",
+    "choices": [
+      "antigen",
+      "antepartum",
+      "postpartum",
+      "postnatal",
+      "neonatal"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Deficiency in red blood cells or of the hemoglobin within the red cells is called:",
+    "choices": [
+      "aphasia",
+      "amenorrhea",
+      "anemia",
+      "apnea",
+      "dysplasia"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Excessive (more than normal) development, enlargement or overgrowth is called:",
+    "choices": [
+      "hypoplasia",
+      "dysplasia",
+      "atrophy",
+      "hypertrophy",
+      "neoplastic"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "A return of signs and symptoms of illness is called:",
+    "choices": [
+      "remission",
+      "resection",
+      "prolapse",
+      "prosthesis",
+      "relapse"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Difficult, painful urination is called:",
+    "choices": [
+      "urinalysis",
+      "dysuria",
+      "polyuria",
+      "hematuria",
+      "uremia"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A substance that works against germs made by white blood cells a(n):",
+    "choices": [
+      "antibody",
+      "antibiotic",
+      "antigen",
+      "hemoglobin",
+      "leukocyte"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "An irregularity that is present at birth is called:",
+    "choices": [
+      "intrauterine",
+      "neonatal",
+      "benign",
+      "congenital anomaly",
+      "ectopic pregnancy"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Slow heartbeat is called:",
+    "choices": [
+      "bradycardia",
+      "tachypnea",
+      "cardiomegaly",
+      "myocardial infarction",
+      "tachycardia"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Artificial substitute for a missing part of the body is called a(n):",
+    "choices": [
+      "metacarpal",
+      "epidermis",
+      "prosthesis",
+      "anomaly",
+      "intervertebral disc"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Term meaning pertaining to under the shoulder bone is:",
+    "choices": [
+      "subcostal",
+      "hypodermic",
+      "subdural",
+      "epidural",
+      "subscapular"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Term meaning pertaining to two (both) sides is:",
+    "choices": [
+      "unilateral",
+      "tricuspid",
+      "intravenous",
+      "sagittal",
+      "bilateral"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "The process of recording sound waves to make an image of organs in the body is called:",
+    "choices": [
+      "CT scan",
+      "ultrasonography",
+      "MRI",
+      "endoscopy",
+      "dialysis"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Endocrine glands that are near (above) each kidney are called _____ glands.",
+    "choices": [
+      "adrenal",
+      "prostate",
+      "subcostal",
+      "parathyroid",
+      "transurethral"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The spread of a cancerous tumor to another organ away from the original location is termed:",
+    "choices": [
+      "subcutaneous",
+      "carcinoma",
+      "neoplastic",
+      "metastasis",
+      "benign"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Two prefixes that mean beyond are:",
+    "choices": [
+      "tachy- and brady-",
+      "pro- and pre-",
+      "dys- and mal-",
+      "re- and retro-",
+      "ultra- and meta-"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A word that means complete separation and refers to the process of separating wastes from the blood is:",
+    "choices": [
+      "dialysis",
+      "diarrhea",
+      "urinalysis",
+      "syndrome",
+      "subcutaneous"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "A membrane that surrounds bone is:",
+    "choices": [
+      "pericardium",
+      "peritoneum",
+      "diaphragm",
+      "mediastinum",
+      "periosteum"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Prefixes with similar meanings are poly- and:",
+    "choices": [
+      "re-",
+      "dys-",
+      "syn-",
+      "hyper-",
+      "hypo-"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "A set of signs and symptoms that occur together to indicate a disease condition is called a(n):",
+    "choices": [
+      "analysis",
+      "syndrome",
+      "dialysis",
+      "prognosis",
+      "remission"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A prefix that means beside, near, or along the side of is:",
+    "choices": [
+      "neo-",
+      "pro-",
+      "peri-",
+      "para-",
+      "dia-"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "An abnormal collection of blood above the membrane covering the brain is a(n):",
+    "choices": [
+      "subdural hematoma",
+      "cerebral hemorrhage",
+      "thrombosis",
+      "epidural hematoma",
+      "subdural hemorrhage"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Two prefixes that mean within are:",
+    "choices": [
+      "ante- and pro-",
+      "endo- and intra-",
+      "hypo- and sub-",
+      "syn- and con-",
+      "extra- and ec-"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "If an organ slides or falls forward, the resulting condition is called:",
+    "choices": [
+      "neoplasm",
+      "relapse",
+      "remission",
+      "prolapse",
+      "dysmenorrhea"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "An increase in the number of cells in an organ is called:",
+    "choices": [
+      "hypertrophy",
+      "hyperplasia",
+      "hypoplasia",
+      "atrophy",
+      "aplasia"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The prefix ante- means:",
+    "choices": [
+      "against",
+      "toward, near",
+      "before, forward",
+      "up, apart",
+      "away from"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The prefix anti- means:",
+    "choices": [
+      "against",
+      "toward, near",
+      "before, forward",
+      "up, apart",
+      "away from"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The prefix epi- means:",
+    "choices": [
+      "in, within, inner",
+      "together",
+      "out",
+      "above, upon",
+      "outside of"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The prefix ab- means:",
+    "choices": [
+      "against",
+      "toward, near",
+      "before, forward",
+      "up, apart",
+      "away from"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "The prefix ad- means:",
+    "choices": [
+      "against",
+      "toward, near",
+      "before, forward",
+      "up, apart",
+      "away from"
+    ],
+    "answer": 1,
+    "explanation": ""
+  }
+]
