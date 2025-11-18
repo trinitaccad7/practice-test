@@ -1,0 +1,662 @@
+[
+  {
+    "prompt": "What medical conditions place pressure on the atria, causing atrial dysrhythmias to occur?",
+    "choices": [
+      "Renal conditions, hypertension, thrombus",
+      "Myocardial infarction, valvular problems, neurological influences",
+      "Cerebrovascular accident, pulmonary embolism, neurological influences",
+      "Valvular problems, palpitations, angina"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What kind of impulse causes atrial dysrhythmias?",
+    "choices": [
+      "Extrinsic",
+      "Augmented",
+      "Ectopic",
+      "Inferior"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "In a premature atrial complex (PAC), the P wave may be biphasic. This means that:",
+    "choices": [
+      "the waveform has both positive and negative deflections on the ECG tracing.",
+      "the P wave is hidden within the T wave.",
+      "every third complex is a premature beat.",
+      "a changing P wave configuration with at least three variations in one lead."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "A pattern in which every third complex is a premature beat is referred to as:",
+    "choices": [
+      "bigeminy.",
+      "quadgeminy.",
+      "trigeminy.",
+      "triphasic."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which atrial dysrhythmia has a cardiac complex that occurs too soon and may have abnormal P waves, but other than being ''early,'' has no other abnormal features?",
+    "choices": [
+      "Atrial flutter",
+      "Atrial fibrillation",
+      "Wandering atrial pacemaker (WAP)",
+      "Premature atrial complexes (PAC)"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "A cardiac cell or group of cells that produces an ectopic beat is known as a:",
+    "choices": [
+      "focus.",
+      "fusion.",
+      "flutter.",
+      "fascicle."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "How many different P wave configurations in the same lead indicate a wandering atrial pacemaker (WAP)?",
+    "choices": [
+      "Two",
+      "Three",
+      "Four",
+      "none of the choices are correct"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "WAP is a normal finding in children, older adults, and well-conditioned athletes. It may also be found in patients with:",
+    "choices": [
+      "congestive heart failure and hypertension.",
+      "cardiovascular disease and metabolic disorder.",
+      "neurological disorders and renal insufficiency.",
+      "organic heart disease and drug toxicity."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Identify the following rhythm: (See Question 9 Image) https://semmedia.mhhe.com/connect/1260064778/boo64778_un06_02b.jpg",
+    "choices": [
+      "Premature atrial complexes",
+      "Wandering atrial pacemaker",
+      "Multifocal atrial tachycardia",
+      "Atrial flutter"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Multifocal atrial tachycardia (MAT) is sometimes confused with which of the following dysrhythmias?",
+    "choices": [
+      "Atrial fibrillation",
+      "Atrial flutter",
+      "Wandering atrial pacemaker (WAP)",
+      "Premature atrial complexes"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the rate of wandering atrial pacemaker rhythm (WAP)?",
+    "choices": [
+      "60 to 100 beats per minute",
+      "100 to 150 beats per minute",
+      "40 to 60 beats per minute",
+      "Greater than 150 beats per minute"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which statement correctly describes the P wave in multifocal atrial tachycardia?",
+    "choices": [
+      "It always has the same configuration and shape.",
+      "It has different configurations in the same lead.",
+      "It is positively deflected.",
+      "It changes from beat to beat."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the rate of multifocal atrial tachycardia (MAT)?",
+    "choices": [
+      "60 to 100 beats per minute",
+      "101 to 150 beats per minute",
+      "150 to 300 beats per minute",
+      "Greater than 300 beats per minute"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Multifocal atrial tachycardia (MAT) is usually triggered by congestive heart failure (CHF), acute mitral valve regurgitation, or an acute attack of:",
+    "choices": [
+      "indigestion.",
+      "coughing.",
+      "emphysema.",
+      "gout."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Identify the following rhythm: (See Question 15 Image) https://semmedia.mhhe.com/connect/1260064778/boo64778_06_03.jpg",
+    "choices": [
+      "Wandering atrial pacemaker (WAP)",
+      "Atrial flutter",
+      "Atrial fibrillation",
+      "Multifocal atrial tachycardia (MAT)"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which atrial dysrhythmia has capital F waves and a classic sawtooth or picket fence appearance?",
+    "choices": [
+      "Multifocal atrial tachycardia",
+      "Wandering atrial pacemaker",
+      "Atrial flutter",
+      "Atrial fibrillation"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the atrial rate in atrial flutter?",
+    "choices": [
+      "100 to 150 beats per minute",
+      "250 to 350 beats per minute",
+      "150 to 250 beats per minute",
+      "60 to 100 beats per minute"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Identify the following rhythm: (See Question 18 Image)",
+    "choices": [
+      "Atrial fibrillation",
+      "Atrial flutter",
+      "Multifocal atrial tachycardia",
+      "Wandering atrial pacemaker"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What treatment is usually attempted for patients with atrial fibrillation?",
+    "choices": [
+      "Exercise stress test",
+      "Angiogram",
+      "Medication and/or electrical cardioversion",
+      "Echocardiogram"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "A traveling blood clot in the lungs is known as:",
+    "choices": [
+      "apnea.",
+      "cerebrovascular accident.",
+      "ischemia.",
+      "pulmonary embolism."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the normal, inherent rate of the AV node?",
+    "choices": [
+      "20 to 40 bpm",
+      "40 to 60 bpm",
+      "80 to 100 bpm",
+      "100 to 150 bpm"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "In junctional rhythms, where does the electrical current initiate?",
+    "choices": [
+      "AV junction",
+      "Purkinje fibers",
+      "Atria",
+      "Ventricles"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What causes the inverted P wave morphology found with junctional rhythms?",
+    "choices": [
+      "Electrical impulses are coming from the SA node, causing repolarization.",
+      "Electrical impulses are coming from areas of multiple ectopic foci.",
+      "Electrical impulses are coming from the AV node, causing atrial depolarization to flow retrogradely.",
+      "Rapid impulses originate in the atrial tissue"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What are the distinguishing characteristics of junctional escape rhythm?",
+    "choices": [
+      "The rhythm is regular; the P wave may occur before, during, or after the QRS; and the P wave is inverted.",
+      "The rhythm is irregular, the P wave is inverted, and the P wave may immediately precede or follow the QRS complex.",
+      "The P wave may occur simultaneously with the T wave or may occur before, during, or after the QRS complex.",
+      "The P waves cannot be identified, there is chaotic electrical activity, and f waves may be seen."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the difference between accelerated junctional rhythm and junctional tachycardia?",
+    "choices": [
+      "P wave",
+      "QRS duration",
+      "PR interval",
+      "Heart rate"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Identify the following rhythm: (See Question 26 Image) https://semmedia.mhhe.com/connect/1260064778/ch7_q24_tb.jpg",
+    "choices": [
+      "Atrial fibrillation",
+      "Atrial flutter",
+      "Junctional tachycardia",
+      "SVT"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Wolff-Parkinson-White syndrome is an example of which type of dysrhythmia?",
+    "choices": [
+      "Reentry dysrhythmia",
+      "Ventricular dysrhythmia",
+      "Reciprocating dysrhythmia",
+      "Sinus dysrhythmia"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "You have performed an ECG on a hospital patient. A portion of the ECG tracing is shown here. What signs and symptoms would you expect this patient to have? (See Image question 28)",
+    "choices": [
+      "Hypotension and confusion",
+      "Pressure and pain in the chest",
+      "Difficulty breathing",
+      "No obvious symptoms"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "What causes a heart block dysrhythmia?",
+    "choices": [
+      "The ectopic focus originates above the ventricles.",
+      "The electrical current has difficulty traveling down the normal conduction pathway.",
+      "The rhythm originates at the AV junctional tissue, producing retrograde depolarization.",
+      "An ectopic beat originates in the right or left atrium, resulting in abnormal conduction."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which heart block rhythm has a constant PR interval that measures greater than 0.20 seconds?",
+    "choices": [
+      "First-degree AV block",
+      "Second-degree AV block, Mobitz type I",
+      "Second-degree AV block, Mobitz type II",
+      "Third-degree AV block"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Identify the following rhythm: (See Question 31 Image) https://semmedia.mhhe.com/connect/1260064778/boo64778_08_04.jpg",
+    "choices": [
+      "First-degree heart block",
+      "Second-degree AV block, Mobitz type I",
+      "Second-degree AV block, Mobitz type II",
+      "Third-degree AV block"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following rhythms has a constant PR interval for all conducted beats?",
+    "choices": [
+      "Second-degree AV block, Mobitz type I",
+      "Second-degree AV block, Mobitz type II",
+      "Third-degree AV block",
+      "All of the answers are correct"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "How do you distinguish between second-degree AV blocks, Mobitz type I or Mobitz type II?",
+    "choices": [
+      "In Mobitz type II, the PR intervals are constant.",
+      "The ventricular rate is greater than 60 bpm with Mobitz type II.",
+      "In Mobitz type II, the P waves appear to march right through the QRS complexes.",
+      "In Mobitz type II, there appears to be a pattern to the irregularity."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which heart block dysrhythmia is known as complete heart block (CHB)?",
+    "choices": [
+      "First-degree heart block",
+      "Second-degree AV block, Mobitz type I",
+      "Second-degree AV block, Mobitz type II",
+      "Third-degree AV block"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the term for the condition in which the atria and ventricles are electrically separated from one another?",
+    "choices": [
+      "Atrial kick",
+      "AV dissociation",
+      "Automaticity",
+      "Asystole"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Identify the following rhythm: (See Question 36 Image) https://semmedia.mhhe.com/connect/1260064778/ch8_boo20670_0704_lg32.jpg",
+    "choices": [
+      "First-degree heart block",
+      "Second-degree AV block, Mobitz type I",
+      "Second-degree AV block, Mobitz type II",
+      "Third-degree AV block"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "In third-degree AV block, if the impulse causing ventricular depolarization is coming from the AV junction, what will the heart rate be?",
+    "choices": [
+      "20 to 40 bpm",
+      "40 to 60 bpm",
+      "60 to 100 bpm",
+      "100 to 150 bpm"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which two types of heart block result in a variable PR interval?",
+    "choices": [
+      "First-degree and second-degree Mobitz type I",
+      "Second-degree Mobitz type I and second-degree Mobitz type II",
+      "Second-degree Mobitz type I and third degree",
+      "Second-degree Mobitz type II and third degree"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Where are the ventricular pacemaker cells found?",
+    "choices": [
+      "At the bundle of His",
+      "At the AV node",
+      "At the Purkinje fibers",
+      "At the SA node"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the inherent rate of the Purkinje network?",
+    "choices": [
+      "20 to 40 bpm",
+      "40 to 60 bpm",
+      "60 to 100 bpm",
+      "100 to 150 bpm"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "In all ventricular dysrhythmias, which of the following qualities describes P-P intervals?",
+    "choices": [
+      "Biphasic",
+      "Missing",
+      "Regular",
+      "Irregular"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "QRS complexes that measure 0.12 seconds or greater and a heart rate between 20 and 40 bpm indicate that the impulses causing ventricular depolarization are coming from which location?",
+    "choices": [
+      "AV node",
+      "SA node",
+      "Interatrial pathways",
+      "Purkinje fibers"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the term for ventricular rhythms that originate in the Purkinje network?",
+    "choices": [
+      "Junctional escape rhythms",
+      "Ventricular escape rhythms",
+      "Asystole rhythms",
+      "Agonal rhythms"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Why do ventricular rhythms occur?",
+    "choices": [
+      "Because higher pacemaker sites within the heart have failed",
+      "Because the rate impulses from the SA node are too fast for ventricular response",
+      "Because a first-degree AV block prevents atrial impulses from reaching the ventricles",
+      "Because the ventricular impulses are stronger than the atrial impulses"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following statements about PVCs is true?",
+    "choices": [
+      "PVCs will not lead to ventricular tachycardia.",
+      "PVCs may be unifocal or multifocal in origin.",
+      "PVCs can only originate from one site in the ventricles.",
+      "PVCs never have an effect on the conduction of normal impulses."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is an ectopic impulse that occurs early in the cycle and originates from the ventricles?",
+    "choices": [
+      "PAC",
+      "SVT",
+      "PVC",
+      "PJC"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "PVCs can occur because of hypoxic states. What must be done to determine whether hypoxia is causing a patient's PVCs?",
+    "choices": [
+      "Draw blood samples to evaluate oxygen saturation.",
+      "Carefully monitor the heart rate and rhythm.",
+      "Provide the patient with oxygen.",
+      "Draw blood samples to evaluate electrolyte levels."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the cause of agonal rhythms?",
+    "choices": [
+      "Failure of the SA node",
+      "Failure of all pacemakers of the heart",
+      "Blocked conduction at the AV node",
+      "Loose electrode wires"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Identify the following rhythm: (See Question 49 Image) https://semmedia.mhhe.com/connect/1260064778/boo64778_un09_15.jpg",
+    "choices": [
+      "Accelerated Idioventricular rhythm",
+      "Sinus bradycardia",
+      "Agonal rhythm",
+      "Asystole"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which ventricular dysrhythmia has a heart rate between 20 and 40 bpm?",
+    "choices": [
+      "Agonal rhythm",
+      "Accelerated idioventricular rhythm",
+      "Idioventricular rhythm",
+      "Asystole"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the primary difference between idioventricular rhythm and accelerated idioventricular rhythm?",
+    "choices": [
+      "Heart rate",
+      "QRS complex",
+      "P wave",
+      "R-R interval"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the typical heart rate with accelerated idioventricular rhythm?",
+    "choices": [
+      "Less than 20 bpm",
+      "20 to 40 bpm",
+      "40 to 100 bpm",
+      "100 to 150 bpm"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Identify the following rhythm: (See Question 53 Image) https://semmedia.mhhe.com/connect/1260064778/boo64778_09_04.jpg",
+    "choices": [
+      "Idioventricular rhythm",
+      "Agonal rhythm",
+      "Accelerated idioventricular rhythm",
+      "Ventricular fibrillation"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Identify the following rhythm: (See Question 54 Image) https://semmedia.mhhe.com/connect/1260064778/boo64778_09_05.jpg",
+    "choices": [
+      "SVT",
+      "Ventricular tachycardia",
+      "Ventricular fibrillation",
+      "Accelerated idioventricular rhythm"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Identify the following rhythm: (See Question 55 Image) https://semmedia.mhhe.com/connect/1260064778/ch9_boo20670_lg30.jpg",
+    "choices": [
+      "Ventricular tachycardia",
+      "Ventricular fibrillation",
+      "Asystole",
+      "SVT"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Identify the following rhythm: (See Question 56 Image) https://semmedia.mhhe.com/connect/1260064778/boo64778_09_08.jpg",
+    "choices": [
+      "Asystole",
+      "Agonal",
+      "Ventricular fibrillation",
+      "Sinus bradycardia"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "To rule out fine ventricular fibrillation, asystole must be confirmed in at least how many leads?",
+    "choices": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Why can't the atrial rate be determined in ventricular rhythms?",
+    "choices": [
+      "The P waves are buried in the QRS complexes.",
+      "The wide and bizarre QRS complex masks the P waves.",
+      "Atrial depolarization is absent.",
+      "The atrial rate is too irregular to be determined."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is a characteristic of sinus arrest?",
+    "choices": [
+      "The cardiac complexes before and after the sinus pause are usually regular.",
+      "The PR interval is affected by the pause during a sinus arrest episode.",
+      "The atrial and ventricular rates are different.",
+      "The QRS morphology varies during periods of sinus arrest."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the atrial rate in atrial flutter?",
+    "choices": [
+      "100 to 150 beats per minute",
+      "250 to 350 beats per minute",
+      "150 to 250 beats per minute",
+      "60 to 100 beats per minute"
+    ],
+    "answer": 1,
+    "explanation": ""
+  }
+]
