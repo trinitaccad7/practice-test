@@ -1,0 +1,1388 @@
+[
+  {
+    "prompt": "A \"stat\" ECG is done:",
+    "choices": [
+      "yearly, as part of a routine physical.",
+      "immediately.",
+      "in the early morning.",
+      "before surgery."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of these tests is least likely done in a doctor's office?",
+    "choices": [
+      "Treadmill stress testing",
+      "Holter monitor connection",
+      "12-lead ECG",
+      "Cardiac catheterization"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Ethics are:",
+    "choices": [
+      "rules of conduct that are enforced by an authority.",
+      "statements of cultural values",
+      "standards of behaviour and concepts of right and wrong.",
+      "determined by government regulations."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not implied consent?",
+    "choices": [
+      "Patient agreeing to be treated by the physician",
+      "Patient signing a consent form for a treadmill stress test",
+      "Patient agreeing to have an ECG",
+      "Patient coming to the doctor's office for care"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "You have a patient that can only sign an \"X\" on the consent form. You need to:",
+    "choices": [
+      "leave the consent form blank.",
+      "explain the procedure to the patient with a witness present, have the patient place an X on the form, and have the witness sign the form also.",
+      "explain the reason the patient only signed an \"X\" on the consent form.",
+      "have the physician sign the consent form."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Slander is an illegal and unethical act and is defined as:",
+    "choices": [
+      "writing defamatory words.",
+      "violating patient confidentiality.",
+      "making derogatory remarks about someone.",
+      "failing to obtain informed consent."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "means writing defamatory words. It is illegal and unethical and could result in the loss of your job.",
+    "choices": [
+      "HIPAA",
+      "Libel",
+      "Consent",
+      "Liability"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The problem-solving process includes which of the following steps?",
+    "choices": [
+      "Identify and define the problem.",
+      "Inform the patient of the problem.",
+      "Report the problem to a supervisor.",
+      "Obtain informed consent from the patient."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "When caring for patients and recording an ECG, you may encounter many situations that require you to:",
+    "choices": [
+      "think critically about the situation.",
+      "perform the ECG before getting the patient's informed consent.",
+      "not worry about what the patient may tell you.",
+      "ask a supervisor to perform the ECG."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "You have just finished performing an ECG on a hospital patient who is known to have a Clostridium difficile infection when you are called to perform a stat ECG in the emergency department. Which of the following is your best course of action?",
+    "choices": [
+      "Proceed to the emergency department immediately to perform the ECG.",
+      "Quickly apply an alcohol-based hand rub while you are on your way to the emergency department.",
+      "Remove all PPE and wash your hands thoroughly before proceeding to the emergency department.",
+      "Wash your hands but leave the PPE in place to save time because you may need it for the emergency patient as well."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The normal range for respirations in adults is:",
+    "choices": [
+      "12 to 20 respirations per minute.",
+      "22 to 30 respirations per minute.",
+      "40 to 50 respirations per minute.",
+      "60 to 100 respirations per minute."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The force at which blood is pumped against the walls of the arteries is a person's:",
+    "choices": [
+      "cardiac output.",
+      "blood pressure.",
+      "stroke volume.",
+      "pulse."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The outermost layer of the heart is the:",
+    "choices": [
+      "endocardium.",
+      "myocardium.",
+      "epicardium.",
+      "pericardium."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The middle layer of the heart is the:",
+    "choices": [
+      "endocardium.",
+      "myocardium.",
+      "epicardium.",
+      "pericardium."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The innermost layer of the heart is the:",
+    "choices": [
+      "endocardium.",
+      "myocardium.",
+      "epicardium.",
+      "pericardium."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The sac of tissue that encloses the entire heart is the:",
+    "choices": [
+      "atrium.",
+      "ventricle.",
+      "myocardium.",
+      "pericardium."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The purpose of the pericardium is to:",
+    "choices": [
+      "protect the heart from infection and trauma.",
+      "contract the heart.",
+      "circulate blood through the coronary arteries.",
+      "keep blood flow headed in the right direction."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The heart is divided into four chambers. The top chambers are the:",
+    "choices": [
+      "right atrium and right ventricle.",
+      "left atrium and left ventricle.",
+      "right atrium and left atrium.",
+      "right ventricle and left ventricle."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The heart is divided into four chambers. The bottom chambers are the:",
+    "choices": [
+      "right atrium and right ventricle.",
+      "left atrium and left ventricle.",
+      "right atrium and left atrium.",
+      "right ventricle and left ventricle."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The valve located between the right atrium and right ventricle is the:",
+    "choices": [
+      "mitral (bicuspid) valve.",
+      "tricuspid valve.",
+      "aortic valve.",
+      "pulmonary valve."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The valve located between the left atrium and left ventricle is the:",
+    "choices": [
+      "mitral (bicuspid) valve.",
+      "tricuspid valve.",
+      "aortic valve..",
+      "pulmonary valve."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The tricuspid and mitral (bicuspid) valves are known as because they separate the atria from the ventricles.",
+    "choices": [
+      "semilunar valves",
+      "pulmonary valves",
+      "atrioventricular (AV) valves",
+      "aortic valves"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The valves separate the ventricles from the arteries leading to the lungs and body.",
+    "choices": [
+      "tricuspid",
+      "semilunar",
+      "mitral (bicuspid)",
+      "atrioventricular (AV)"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The two semilunar valves are the:",
+    "choices": [
+      "pulmonary and mitral valves.",
+      "aortic and tricuspid valves.",
+      "tricuspid and mitral valves.",
+      "aortic and pulmonary valves."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Blood returns to the heart via the veins. The largest vein is the:",
+    "choices": [
+      "vena cava.",
+      "cava vena.",
+      "jugular vein.",
+      "subclavian vein."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which blood vessels provide oxygen and nutrients directly to the heart muscle?",
+    "choices": [
+      "Pulmonary arteries.",
+      "Peripheral venous system.",
+      "Coronary arteries.",
+      "Pulmonary veins."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The valves located in the heart are important because they:",
+    "choices": [
+      "regulate the speed of blood flow.",
+      "prevent blood from flowing backwards.",
+      "form electrical conduction through the heart.",
+      "allow for good blood flow to the body."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Blood that leaves the right ventricle is considered:",
+    "choices": [
+      "deoxygenated.",
+      "systemic.",
+      "peripheral venous return.",
+      "visceral."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What are the first vessels to branch off the aorta?",
+    "choices": [
+      "Coronary arteries",
+      "Capillaries",
+      "Venae cavae",
+      "Pulmonary arteries"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The volume of blood pumped each minute is referred to as the:",
+    "choices": [
+      "cardiac cycle.",
+      "cardiac output.",
+      "stroke volume.",
+      "systole."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The volume of blood ejected with each contraction is referred to as the:",
+    "choices": [
+      "cardiac cycle.",
+      "cardiac output.",
+      "stroke volume.",
+      "systole."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Together, the contraction and relaxation of the heart make up:",
+    "choices": [
+      "systole.",
+      "diastole.",
+      "the cardiac cycle.",
+      "coronary circulation."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The ability of the heart cells to receive and transmit an electrical impulse is known as:",
+    "choices": [
+      "contractility.",
+      "excitability.",
+      "conductivity.",
+      "automaticity."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The ability of the heart muscle cells to shorten in response to an electrical impulse is known as:",
+    "choices": [
+      "contractility.",
+      "excitability.",
+      "conductivity.",
+      "automaticity."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The ability of the heart muscle cells to respond to an impulse or stimulus is known as:",
+    "choices": [
+      "contractility.",
+      "excitability.",
+      "conductivity.",
+      "automaticity."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "When the sympathetic branch of the ANS (automatic nervous system) is stimulated, the heart responds by:",
+    "choices": [
+      "speeding up.",
+      "slowing down.",
+      "beating more regularly.",
+      "contracting with greater force."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the heart's response to stimulation of the vagus nerve?",
+    "choices": [
+      "It beats more regularly.",
+      "It contracts with greater force.",
+      "It speeds up.",
+      "It slows down."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The function of the bundle branches is to:",
+    "choices": [
+      "delay the electrical impulse to allow for the atrial kick to occur.",
+      "conduct electrical impulses from the atria to the ventricles.",
+      "conduct electrical impulses from the AV bundle to the left and right ventricles.",
+      "distribute the electrical impulse through the myocardium."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The SA node sends electrical impulses at a rate of:",
+    "choices": [
+      "72 to 100 bpm.",
+      "40 to 60 bpm.",
+      "20 to 40 bpm.",
+      "60 to 100 bpm."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The AV node has several important functions that help the heart work effectively. Which of the following is not a function of the AV node?",
+    "choices": [
+      "It causes the delay of electrical impulses, which limits the number of impulses traveling to the ventricles.",
+      "It allows for a delay to provide time for the blood to travel from the atria to the ventricles before they contract.",
+      "It causes a loss of atrial kick.",
+      "It serves as a backup pacemaker if the SA node fails."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "In pulmonary circulation, blood is transported from the right ventricle to the:",
+    "choices": [
+      "body tissues.",
+      "lungs.",
+      "left atrium.",
+      "coronary arteries."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The Einthoven triangle is formed by the following three limb leads:",
+    "choices": [
+      "right arm, left arm, right leg.",
+      "right leg, left arm, left leg.",
+      "right arm, left arm, left leg.",
+      "right leg, left leg, right arm."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not a type of lead used in a 12-lead ECG?",
+    "choices": [
+      "Bipolar",
+      "Unipolar (precordial)",
+      "Chest",
+      "Abdomen"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not considered a bipolar lead?",
+    "choices": [
+      "Lead11",
+      "Lead II",
+      "aVR",
+      "Lead III"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The V1 lead should be placed at the:",
+    "choices": [
+      "fourth intercostal space, left sternal border.",
+      "fifth intercostal space at the midclavicular line.",
+      "fifth intercostal space, midaxillary line.",
+      "fourth intercostal space, right sternal border."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "For the proper placement of V3, you must have placed which other two leads on the patient's chest?",
+    "choices": [
+      "V2 and V4",
+      "V2 and V5",
+      "V5 and V4",
+      "V4 and V6"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Unipolar leads include all the lead types except:",
+    "choices": [
+      "standard leads.",
+      "augmented leads.",
+      "chest leads.",
+      "precordial leads."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The most commonly used paper speed on the ECG machine is:",
+    "choices": [
+      "40 mm/sec.",
+      "25 mm/sec.",
+      "10 mm/sec.",
+      "50mm/sec."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The gain control is normally set at:",
+    "choices": [
+      "10 mm/mV",
+      "20 mm/mV.",
+      "5 mm/mV.",
+      "25 mm/mV."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The usual setting for the artifact filter is:",
+    "choices": [
+      "10 to 20 Hz.",
+      "20 to 40 Hz.",
+      "40 to 150 Hz.",
+      "100 to 250 Hz."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which type of electrode is preferred for use in a hospital or acute care setting?",
+    "choices": [
+      "Disposable electrodes",
+      "Plastic electrodes",
+      "Silver electrodes",
+      "Copper electrodes"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Each little box on the ECG paper horizontally represents:",
+    "choices": [
+      "0.04 second.",
+      "0.20 second.",
+      "1 mV.",
+      "1 second."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following substances can accidentally erase an ECG tracing?",
+    "choices": [
+      "Standard copier paper",
+      "Pencil lead",
+      "Plastic",
+      "Cardboard"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "When the paper speed is 25 mm/sec, how many boxes are present in a 1-minute recording?",
+    "choices": [
+      "150 boxes per minute",
+      "600 boxes per minute",
+      "300 boxes per minute",
+      "450 boxes per minute"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which one of these is not a commonly used method to calculate heart rates?",
+    "choices": [
+      "R-R method",
+      "1500 method",
+      "1-minute method",
+      "6-second method"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which method is the only one to be used for irregular rhythms?",
+    "choices": [
+      "R-R method",
+      "6-second method",
+      "1500 method",
+      "1-minute method"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "When estimating the heart rate with the 6-second method, you locate 6 seconds on a rhythm strip, count the number of complexes, and multiply by:",
+    "choices": [
+      "10.",
+      "60.",
+      "5.",
+      "15."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which method of calculating the heart rate is shown below?",
+    "choices": [
+      "1500 method",
+      "R-R method",
+      "6-second method",
+      "1-minute method"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Using the 1500 method, calculate the heart rate.",
+    "choices": [
+      "40 bpm",
+      "60 bpm",
+      "80 bpm",
+      "20 bpm"
+    ],
+    "answer": 1,
+    "explanation": "1500 divided by 25 (small boxes) equals 60."
+  },
+  {
+    "prompt": "Which heart rate method is the most accurate with regular rhythms?",
+    "choices": [
+      "R-R method",
+      "6-second method",
+      "1500 method",
+      "300 method"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which rib is located next to the angle of Louis?",
+    "choices": [
+      "First rib",
+      "Second rib",
+      "Third rib",
+      "Fourth rib"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which anatomical landmark starts in the middle of the axilla and runs down the side of the chest?",
+    "choices": [
+      "Midclavicular line",
+      "Anterior axillary line",
+      "Suprasternal notch",
+      "Midaxillary line"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The patient has a cast on his lower left leg. The limb electrode placement should be:",
+    "choices": [
+      "right leg electrode at the lower leg and left leg electrode at the inner thigh.",
+      "right leg electrode at the lower leg and left leg electrode on the top of the cast.",
+      "at equal levels on the thighs.",
+      "the same as if the patient did not have a cast."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "You are placing the electrodes for an ECG on a patient who weighs 342 pounds, and you cannot find the midclavicular line. What should you do to place lead V4?",
+    "choices": [
+      "Place the lead where you think it should go.",
+      "Place lead V3 and V5 first, then place lead V4 in the middle.",
+      "Use the clavicle as the landmark.",
+      "Use the nipple line as the guide."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following problems can cause wandering baseline on the ECG tracing?",
+    "choices": [
+      "Improperly applied electrodes or poor skin preparation",
+      "Patient talking while the ECG is being recorded",
+      "Improper grounding",
+      "Electrical interference"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What type of artifact is shown in the figure?",
+    "choices": [
+      "Wandering baseline",
+      "Somatic tremor",
+      "Alternating current interference",
+      "Baseline shift"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following causes AC interference artifact?",
+    "choices": [
+      "Voluntary movement, such as talking or chewing gum",
+      "Lead wires crossed and not pointed toward the hands and feet",
+      "Oil, lotion, dirt, or hair under the electrodes",
+      "Involuntary movement due to Parkinson's disease"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What type of artifact is shown in the figure?",
+    "choices": [
+      "Somatic tremor",
+      "AC interference",
+      "Wandering baseline",
+      "Involuntary movement"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What type of artifact is shown in the figure below?",
+    "choices": [
+      "Somatic tremor",
+      "AC interference",
+      "Wandering baseline",
+      "Involuntary movement"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "For infants and small children, where may you have to place lead V3 to prevent crowding of the chest electrodes?",
+    "choices": [
+      "On the patient's back",
+      "On the right side of the chest",
+      "In the same location by overlapping the electrodes",
+      "Parallel with V2"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the difference between continuous cardiac monitoring and a routine ECG?",
+    "choices": [
+      "Nondisposable electrodes are used.",
+      "Only three electrodes are used.",
+      "Placement of the electrodes is different.",
+      "The recording speed is different."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "How should you position a pregnant woman for an ECG?",
+    "choices": [
+      "Rolled slightly to her right side",
+      "Sitting upright",
+      "Lying flat on her back",
+      "Rolled slightly to her left side"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "For which of the following patients might a physician order a right-side 12-lead ECG?",
+    "choices": [
+      "A geriatric patient",
+      "A pregnant patient",
+      "A patient with dextrocardia",
+      "A patient in a permanent fetal position"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Where should you place V7 when you are performing a posterior 12-lead ECG?",
+    "choices": [
+      "In a straight line from V6 on the left posterior axillary line",
+      "In a straight line from V8 at the left midscapular line",
+      "In a straight line from V6 at the left paraspinous line",
+      "In a straight line from V9 at the right paraspinous line"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "If a patient has a seizure while you are performing an ECG, you should:",
+    "choices": [
+      "restrain the patient to prevent harm.",
+      "protect the patient from injury.",
+      "go out to the main desk and call for emergency help.",
+      "continue to record the ECG and note on the tracing that the patient had a seizure."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "QRS duration measurement is essential to determine the time it takes for:",
+    "choices": [
+      "atrial depolarization.",
+      "ventricular depolarization.",
+      "ventricular relaxation.",
+      "atrial relaxation."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The normal PR interval measurement is:",
+    "choices": [
+      "0.06 to 0.12 second.",
+      "0.20 to 0.24 second.",
+      "0.12 to 0.20 second.",
+      "0.10 to 0.16 second."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The normal range for the QRS complex duration is:",
+    "choices": [
+      "0.12 to 0.20 second.",
+      "greater than 0.12 second.",
+      "0.06 to 0.10 second.",
+      "less than 0.06 second."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The QRS complex represents the time it takes for:",
+    "choices": [
+      "the ventricles to depolarize.",
+      "repolarization to take place.",
+      "the electrical current to be initiated at the SA node.",
+      "the current to move through the atria."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Measuring the PR interval requires the ECG technician to measure from the:",
+    "choices": [
+      "beginning of the Q wave to the J point.",
+      "beginning of the Q wave to the beginning to the T wave.",
+      "beginning of the P wave to the end of the R wave.",
+      "beginning of the P wave to the beginning of the QRS complex."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The T wave represents:",
+    "choices": [
+      "atrial depolarization.",
+      "atrial repolarization.",
+      "ventricular depolarization.",
+      "ventricular repolarization."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The ST segment represents",
+    "choices": [
+      "the time between atrial depolarization and atrial repolarization.",
+      "the time it takes the Purkinje fibers to repolarize.",
+      "the time from the beginning of atrial depolarization to the beginning of ventricular depolarization.",
+      "the time between ventricular depolarization and the beginning of ventricular repolarization."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The J point is the",
+    "choices": [
+      "junction of the QRS interval and the ST interval.",
+      "highest peak of the R wave.",
+      "point at which the bundle of His divides into branches.",
+      "attachment point for the papillary muscles."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The U wave, which follows the T wave in an ECG tracing, represents:",
+    "choices": [
+      "repolarization of the ventricles.",
+      "the time required for ventricular depolarization and repolarization.",
+      "the end of ventricular depolarization and the beginning of ventricular repolarization.",
+      "repolarization of the Purkinje fibers and the bundle of His."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the rate of multifocal atrial tachycardia (MAT)?",
+    "choices": [
+      "60 to 100 beats per minute",
+      "101 to 150 beats per minute",
+      "150 to 300 beats per minute",
+      "Greater than 300 beats per minute"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the major health risk for patients with atrial fibrillation?",
+    "choices": [
+      "Hypertension",
+      "Bundle branch block",
+      "Congestive heart failure",
+      "Thrombus formation or embolism"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "A traveling blood clot in the lungs is known as:",
+    "choices": [
+      "apnea.",
+      "cerebrovascular accident.",
+      "ischemia.",
+      "pulmonary embolism."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the ventricular heart rate for junctional escape rhythm?",
+    "choices": [
+      "20 to 40 bpm",
+      "40 to 60 bpm",
+      "60 to 100 bpm",
+      "100 to 150 bpm"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Identify the following rhythm: https://semmedia.mhhe.com/connect/1260064778/boo64778_08_04.jpg ",
+    "choices": [
+      "First-degree heart block",
+      "Second-degree AV block, Mobitz type I",
+      "Second-degree AV block, Mobitz type II",
+      "Third-degree AV block"
+    ],
+    "answer": 1,
+    "explanation": "The image likely depicts a rhythm with a progressively lengthening PR interval until a QRS is dropped, characteristic of Mobitz Type I (Wenckebach)."
+  },
+  {
+    "prompt": "Which two types of heart block have a constant PR interval?",
+    "choices": [
+      "First-degree and second-degree type Mobitz I",
+      "First degree and second degree Mobitz type II",
+      "Second-degree Mobitz type I and third degree",
+      "Second-degree Mobitz type II and third degree"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "In which ventricular dysrhythmia do three or more PVCs occur in a row with a ventricular rate greater than 100 bpm?",
+    "choices": [
+      "SVT",
+      "Accelerated idioventricular rhythm",
+      "Ventricular fibrillation",
+      "Ventricular tachycardia"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Why can't the atrial rate be determined in ventricular rhythms?",
+    "choices": [
+      "The P waves are buried in the QRS complexes.",
+      "The wide and bizarre QRS complex masks the P waves.",
+      "Atrial depolarization is absent.",
+      "The atrial rate is too irregular to be determined."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the function of a pacemaker?",
+    "choices": [
+      "To stimulate the heart to contract",
+      "To improve the heart's contractility",
+      "To increase the heart's stroke volume",
+      "To increase the force of cardiac contractions"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What does exercise electrocardiography evaluate?",
+    "choices": [
+      "How the heart and blood vessels respond to physical activity",
+      "The resting and exercise stroke volume of the ventricles",
+      "The capacity of the patient's heart and lungs",
+      "Changes in cardiac output due to exercise"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "For which of the following patients would the Naughton protocol for exercise electrocardiography most likely be used?",
+    "choices": [
+      "A 56-year-old man who has congestive heart failure",
+      "A 63-year-old woman who exercises regularly and is in good physical condition",
+      "A 42-year-old woman who has diabetes",
+      "A 36-year-old man who is undergoing routine screening"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "How many leads are attached to a patient's chest with ambulatory monitoring?",
+    "choices": [
+      "1 to 2 leads",
+      "3 to 5 leads",
+      "10 leads",
+      "12 leads"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which type of monitoring device can hold up to 96 hours of data and allows licensed practitioners to capture significant cardiac events even when the patient is not experiencing symptoms?",
+    "choices": [
+      "Loop recorder",
+      "MCOT device",
+      "Symptom event monitor",
+      "Holter monitor"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which patient will be asked to keep a diary?",
+    "choices": [
+      "Mr. Abram, who is complaining of chest discomfort and is having an ECG",
+      "Ms. Fisher, whose physician ordered Holter monitoring this morning",
+      "Mr. Evans, who is on telemetry",
+      "Mrs. Jones, who is scheduled for a stress test"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is one of the primary branches of the right coronary artery, providing blood to the posterior wall of the heart?",
+    "choices": [
+      "Circumflex artery",
+      "Posterior descending artery",
+      "Left anterior descending artery",
+      "Anterior interventricular artery"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Unstable angina is a warning sign that a patient's cardiac disease has",
+    "choices": [
+      "Worsened",
+      "Remained stable",
+      "Resulted in decreased cardiac output",
+      "Developed into a dysrhythmia"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is referred to as the \"classic MI\"?",
+    "choices": [
+      "Acute coronary syndrome MI",
+      "Non-STEMI",
+      "STEMI",
+      "Pathologic Q wave MI"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is Coumadin used for?",
+    "choices": [
+      "To increase the activity of vitamin K",
+      "To promote the growth of new collateral blood vessels",
+      "To prevent restenosis of a blood vessel",
+      "To reduce clot formation in the blood"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the broad term that refers to STEMI, NSTEMI, and unstable angina?",
+    "choices": [
+      "Thrombosis",
+      "Coronary plaque",
+      "Acute coronary syndrome",
+      "Chronic heart failure"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is a typical cause of NSTEMI?",
+    "choices": [
+      "An incomplete occlusion of a coronary artery",
+      "Sudden, complete blockage due to thrombosis",
+      "Chronic left ventricular failure",
+      "Bundle branch block"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "A standard 12-lead ECG focuses directly on which portion of the heart?",
+    "choices": [
+      "Right ventricle",
+      "Right atrium",
+      "Left ventricle",
+      "Left atrium"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which leads view the septal wall?",
+    "choices": [
+      "II, III, and aVF",
+      "V1 and V2",
+      "V3 and V4",
+      "I, aVL, V5, and V6"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which leads view the anterior wall of the left ventricle?",
+    "choices": [
+      "II, III, and aVF",
+      "V1 and V2",
+      "V3 and V4",
+      "I, aVL, V5, and V6"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which leads view the lateral wall of the left ventricle?",
+    "choices": [
+      "II, III, and aVF",
+      "V1 and V2",
+      "V3 and V4",
+      "I, aVL, V5, and V6"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Leads II, III, and aVF view which coronary artery and which branch?",
+    "choices": [
+      "Right coronary artery, marginal branch",
+      "Left coronary artery, septal branch",
+      "Left coronary artery, left anterior descending branch",
+      "Left coronary artery, left circumflex branch"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Leads V1 and V2 view which coronary artery and branch?",
+    "choices": [
+      "Left coronary artery, left circumflex branch",
+      "Left coronary artery, left anterior descending branch",
+      "Right coronary artery, marginal branch",
+      "Left coronary artery, septal branch"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Leads V3 and V4 view which coronary artery and branch?",
+    "choices": [
+      "Left coronary artery, left anterior descending branch",
+      "Left coronary artery, left circumflex branch",
+      "Left coronary artery, septal branch",
+      "Right coronary artery, marginal branch"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the term for two or more leads that look at the same part of the heart or numerically consecutive chest leads?",
+    "choices": [
+      "Artifact continuing leads",
+      "Anatomically contiguous leads",
+      "Anatomical contraction leads",
+      "Automatic continuing leads"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the term that describes the effect from a reduction or interruption in blood flow and oxygen to the myocardium that occurs for a short period of time?",
+    "choices": [
+      "Myocardial ischemia",
+      "Myocardial infarct",
+      "Myocardial injury",
+      "Myocardial interruption"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the term for a prolonged reduction or interruption of blood flow that causes the affected myocardial tissue to transition to a worse state?",
+    "choices": [
+      "Myocardial ischemia",
+      "Myocardial infarct",
+      "Myocardial injury",
+      "Myocardial interruption"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following are anatomically contiguous leads?",
+    "choices": [
+      "II, III, and aVF",
+      "I and aVF",
+      "V1, aVL, and aVF",
+      "I, II, and V3"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the term for a Q wave that is longer than 0.04 second in duration and is greater than or equal to one-third of the height of the R wave in a lead?",
+    "choices": [
+      "Premature Q wave",
+      "Physiologic Q wave",
+      "Pathologic Q wave",
+      "Positive Q wave"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What does a pathologic Q wave indicate?",
+    "choices": [
+      "Tissue death",
+      "Tissue injury",
+      "Tissue ischemia",
+      "Tissue atrophy"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following are indicators of myocardial ischemia?",
+    "choices": [
+      "Pathologic Q waves and ST segment elevation",
+      "ST segment depression and T wave inversion",
+      "Positively deflected T waves and physiologic Q waves",
+      "Wide QRS complex and absent P waves"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following are indicators of myocardial injury?",
+    "choices": [
+      "ST segment depression and physiologic Q wave",
+      "ST segment depression and T wave inversion",
+      "ST segment elevation",
+      "Wide QRS complex and absent P wave"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Electrical axis deviation refers to the changes that occur on the 12-lead ECG as a result of the",
+    "choices": [
+      "Patient's level of activity",
+      "Position of the heart within the chest",
+      "Patient's height and weight",
+      "Position of the ECG leads on the chest"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the term for an abnormal thickening of the ventricular wall due to chronic pressure overload that is often caused by hypertension?",
+    "choices": [
+      "Hyperpnea",
+      "Hypertension",
+      "Hyperkalemia",
+      "Hypertrophy"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which leads are used to determine the presence of axis deviation?",
+    "choices": [
+      "Leads II and aVR",
+      "Leads I and aVF",
+      "Leads I and aVR",
+      "Leads V1 and V2"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the electrical axis of the patient's heart if leads I and aVF are both predominantly positive?",
+    "choices": [
+      "A normal axis (no deviation)",
+      "Right axis deviation",
+      "Left axis deviation",
+      "Extreme right axis deviation"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the electrical axis of the patient's heart if lead I is predominantly positive and lead aVF is predominantly negative?",
+    "choices": [
+      "A normal axis (no deviation)",
+      "Right axis deviation",
+      "Left axis deviation",
+      "Extreme right axis deviation"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "In left ventricular hypertrophy, how does the QRS complex appear?",
+    "choices": [
+      "Normal",
+      "Positively deflected",
+      "Negatively deflected",
+      "Taller and deeper than normal"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is a characteristic of left bundle branch block?",
+    "choices": [
+      "The right ventricle depolarizes normally, but conduction through the left ventricle is slowed.",
+      "The left ventricle depolarizes normally, but the impulse is not spread to the right ventricle.",
+      "Neither ventricle depolarizes normally because the impulse is not conducted through the left bundle branch.",
+      "Neither ventricle depolarizes normally because the impulse is not conducted through the right bundle branch."
+    ],
+    "answer": 0,
+    "explanation": ""
+  }
+]
