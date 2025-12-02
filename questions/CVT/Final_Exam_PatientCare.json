@@ -1,0 +1,1146 @@
+[
+  {
+    "prompt": "Which of the following would be least helpful to cope with stress and anxiety?",
+    "choices": [
+      "Practice stress-reducing activities.",
+      "Recognize the symptoms.",
+      "Use pessimistic language.",
+      "Anticipate stress and be prepared."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Anxiety is fueled by all of the following mechanisms except:",
+    "choices": [
+      "Behavioral component",
+      "Mental component",
+      "Cognitive component",
+      "Physical component"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would be considered destructive behavior resulting from anxiety?",
+    "choices": [
+      "Getting work done ahead of time",
+      "Removing oneself from the situation to avoid negative outcomes",
+      "Confiding in a close friend for advice",
+      "Seeking professional help"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not true of stress?",
+    "choices": [
+      "Stress is abnormal.",
+      "Stress may make you work harder and achieve more.",
+      "Stress can be a motivator.",
+      "Stress increases anxiety."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would not serve as a relationship builder and a means of emotional stability and support while in sonography school?",
+    "choices": [
+      "Avoiding stress by avoiding those who cause stress in your life",
+      "Studying in seclusion",
+      "Involving your family and friends in your studies",
+      "Trying to obtain a job where you must work every weekend"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would not be considered a good way to manage your time while in sonography school?",
+    "choices": [
+      "Create your own academic calendar.",
+      "Keep up with social media throughout the day.",
+      "Plan your day and week.",
+      "Set your own deadlines for assignment due dates."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following coursework would be likely to strengthen the clinical skills required of a sonography student?",
+    "choices": [
+      "Public speaking courses",
+      "All of these",
+      "Computer courses",
+      "Medical terminology courses"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would be least likely to help preparing for tests?",
+    "choices": [
+      "Create study cards.",
+      "Watch television while you study.",
+      "Form a study group.",
+      "Read your textbook."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which test-taking practice is strictly prohibited by the American Registry of Diagnostic Medical Sonography on national certification examinations?",
+    "choices": [
+      "Study group preparation",
+      "Brain cramping",
+      "Brain dumping",
+      "Memorization"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Diagnostic ultrasound is:",
+    "choices": [
+      "Between 2 and 15 MHz",
+      "Between 2 and 20,000 Hz",
+      "Greater than 20,000 Hz",
+      "More than 2 Hz"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Ultrasound is considered to be:",
+    "choices": [
+      "Less than 40,000 Hz",
+      "Greater than 2 Hz",
+      "Greater than 20,000 MHz",
+      "Greater than 20,000 Hz"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following statements is true of scanning experience?",
+    "choices": [
+      "Learning how to scan is easy for most students.",
+      "Scanning experience is cumulative.",
+      "Scanning experience is obtained mostly in the classroom setting.",
+      "Scanning experience should only be obtained on small body habitus patients."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following statements is true regarding when a student should scan?",
+    "choices": [
+      "Students who have less experience prefer to scan before the sonographer scans.",
+      "Students who have more experience prefer to scan after the sonographer scans.",
+      "It is best to scan whenever you have the opportunity.",
+      "It is best to scan thin body habitus patients only."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not a true statement about a professional?",
+    "choices": [
+      "A professional must achieve certain educational criteria.",
+      "A professional must adhere to a specific dress code as prescribed by a national organization.",
+      "A professional must meet minimum standards to practice within the profession.",
+      "A professional must adhere to an established code of ethics and competency standards."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following represents HIPAA?",
+    "choices": [
+      "Health Insurance Portability and Acceptability Act",
+      "Health Insurance Protection Agency of America",
+      "Health Insurance Protection and Accountability Act",
+      "Health Insurance Portability and Accountability Act"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is considered the gold standard in breast imaging?",
+    "choices": [
+      "Radiography",
+      "Sonography",
+      "Mammography",
+      "Computed tomography"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not a responsibility of a quality assurance program?",
+    "choices": [
+      "Keep records of all equipment assessments",
+      "Maintain ultrasound equipment",
+      "Maintain certification of all sonographers",
+      "Provide repairs"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "ALARA stands for:",
+    "choices": [
+      "As Low as Radiation Alerts",
+      "As Low as Reasonably Achievable",
+      "As Long as Radiation Achievable",
+      "As Long as Reasonably Attainable"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A FAST exam is typically performed in the:",
+    "choices": [
+      "Emergency room",
+      "Sonography room",
+      "Outpatient department",
+      "Operating room"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Orthogonal planes refers to:",
+    "choices": [
+      "Contralateral planes",
+      "Ipsilateral planes",
+      "Parallel planes",
+      "Perpendicular planes"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following examinations would require special patient preparation?",
+    "choices": [
+      "Thyroid sonogram",
+      "Breast sonogram",
+      "Gallbladder sonogram",
+      "Scrotal sonogram"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would be a common first-trimester obstetric measurement of the fetus?",
+    "choices": [
+      "Biparietal diameter",
+      "Femur length",
+      "Head circumference",
+      "Crown rump length"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is performed with an endocavity transducer?",
+    "choices": [
+      "Thyroid sonogram",
+      "Breast sonogram",
+      "Scrotal sonogram",
+      "Sonohysterogram"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following techniques is not commonly used during a third-trimester sonogram to identify the cervix?",
+    "choices": [
+      "Transabdominal",
+      "Transvaginal",
+      "Transrectal",
+      "Transperineal"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is an organization that grants accreditation for sonography programs?",
+    "choices": [
+      "American Registry of Diagnostic Medical Sonography",
+      "Joint Review Committee on Education in Diagnostic Medical Sonography",
+      "American Registry of Radiologic Technologist",
+      "Commission on Accreditation of Allied Health Programs"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following does not provide certification for sonography specialties?",
+    "choices": [
+      "CCI",
+      "ARRT",
+      "SDMS",
+      "ARDMS"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is published by the SDMS?",
+    "choices": [
+      "Journal of American Society of Echocardiography",
+      "Journal of Diagnostic Medical Sonography",
+      "Journal of Vascular Ultrasound",
+      "Journal of Ultrasound in Medicine"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would not be considered a national specialty examination?",
+    "choices": [
+      "Nuchal translucency examination",
+      "RDMS OB/GYN examination",
+      "CCI vascular specialist examination",
+      "None of these"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which leadership style tends to dampen creativity in the workplace?",
+    "choices": [
+      "Servant leadership",
+      "Stewardship",
+      "Autocratic",
+      "Transactional"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which type of leader motivates followers to achieve organizational goals by offering inspiration?",
+    "choices": [
+      "Transformational",
+      "Autocratic",
+      "Servant",
+      "Transactional"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which type of leader provides followers with rewards and punishments to achieve goals?",
+    "choices": [
+      "Servant",
+      "Transformational",
+      "Transactional",
+      "Autocratic"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following leaders works collaboratively with employees to make the best decisions possible and places the needs of others before his or her own needs?",
+    "choices": [
+      "Autocratic",
+      "Transformational",
+      "Servant",
+      "Transactional"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following leadership styles emphasizes stewardship?",
+    "choices": [
+      "Transactional",
+      "Transformational",
+      "Servant",
+      "Autocratic"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The ARDMS currently allows students to take specialty examinations days before graduation from an accredited program.",
+    "choices": [
+      "60",
+      "90",
+      "45",
+      "30"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is true of national certification examinations?",
+    "choices": [
+      "The sooner you take the examination after or before graduation, the more likely you are to be successful.",
+      "Nearly 100% of applicants fail the examinations on the first attempt.",
+      "They are not required to become a registered sonographer.",
+      "Nearly 100% of applicants pass these examinations on the first attempt."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "How many years does a sonographer work before pain typically manifests?",
+    "choices": [
+      "1",
+      "23",
+      "5",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "WRMSDs can lead to all of the following except:",
+    "choices": [
+      "Inflammation",
+      "Tendon degeneration",
+      "Swelling",
+      "Spine enlargement"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not another name for repetitive strain injuries?",
+    "choices": [
+      "Overuse syndrome",
+      "Repetitive motion injuries",
+      "Ergonomic interventions",
+      "Cumulative trauma disorder"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following statements is true of repetitive strain injury?",
+    "choices": [
+      "Pain is always sharp in the area of damage.",
+      "Repeating the same procedure decreases the chances of a repetitive strain injury.",
+      "The damage to the joint or area from repetitive strain injuries is cumulative.",
+      "Repetitive strain injuries do not typically affect sonographers."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the second most common area affected by work-related injuries for the sonographer?",
+    "choices": [
+      "Neck",
+      "Wrist",
+      "Shoulder",
+      "Hand"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Where is the center of gravity for a person when he or she is standing?",
+    "choices": [
+      "Center of pelvis",
+      "Center of abdomen",
+      "Ankle level",
+      "Chest level"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not a risk factor that has been linked with the development of WRMSDs for the sonographer?",
+    "choices": [
+      "Job design",
+      "Force",
+      "Proper body mechanics",
+      "Equipment design"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "When standing, which of the following ensures correct posture?",
+    "choices": [
+      "Feet should be spread wide apart.",
+      "Knees should be locked.",
+      "Buttocks should be clinched.",
+      "Feet should be parallel."
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is true of lifting or moving a heavy object?",
+    "choices": [
+      "Bend ankles and use your back to lift.",
+      "Hold the object close to your body.",
+      "Pushing heavy objects is better than pulling them.",
+      "Bend at the waist."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The sonographer should position the patient:",
+    "choices": [
+      "As low as the stretcher can go",
+      "As far away as possible",
+      "As close as possible",
+      "Below the level of his or her chair"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following could counteract the issues associated with poor room design?",
+    "choices": [
+      "Sunglasses",
+      "Ambidextrous scanning",
+      "Wear a mask",
+      "Bright lights"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would not contribute to proper equipment design?",
+    "choices": [
+      "Modifiable stretchers",
+      "Keyboards and control panels that are adjustable",
+      "Touch key functions",
+      "Stationary chairs"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is also referred to as lateral epicondylitis?",
+    "choices": [
+      "Tennis elbow",
+      "Nerve entrapment",
+      "Thoracic outlet syndrome",
+      "Carpal tunnel"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is an example of nerve entrapment?",
+    "choices": [
+      "Trigger finger",
+      "Ganglion cyst",
+      "Cubital tunnel syndrome",
+      "Tinel sign"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Bursitis most often affects the sonographers':",
+    "choices": [
+      "Ankle",
+      "Neck",
+      "Shoulder",
+      "Buttocks"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What position should the nonscanning elbow be placed in while scanning?",
+    "choices": [
+      "90-degree angle",
+      "30-degree angle",
+      "45-degree angle",
+      "180-degree angle"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "In what position is the wrist the strongest?",
+    "choices": [
+      "Rearward position",
+      "Extension position",
+      "Flexion position",
+      "Routine handshake position"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is the best way to manage the transducer cord?",
+    "choices": [
+      "Drape it around your neck.",
+      "Wrap it around your leg.",
+      "Use a cable support brace.",
+      "Hold it with your leg against the stretcher."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would be the next step in the ethical decision-making process after defining the problem?",
+    "choices": [
+      "Analyze the possible course of action.",
+      "Know the principles, standards, and laws that relate to the problem.",
+      "Choose the best course of action.",
+      "Develop a possible course of action."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "To \"do no harm\" refers to:",
+    "choices": [
+      "Principle of beneficence",
+      "Principle of nonmaleficence",
+      "Principle of moral do good",
+      "Principle of paternalism"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "\"Do good\" refers to:",
+    "choices": [
+      "Principle of paternalism",
+      "Principle of nonmaleficence",
+      "Principle of moral do good",
+      "Principle of beneficence"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is an intentional tort?",
+    "choices": [
+      "Performing the wrong examination on a patient",
+      "Not providing reasonable care",
+      "Battery",
+      "Negligence"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would not be an example of an intentional tort?",
+    "choices": [
+      "Immobilization of a patient against his or her will",
+      "Falsely claiming that a patient has a disease when he or she does not",
+      "Not putting the rails up on a patient's bed and the patient falls",
+      "Causing extreme emotional distress resulting in illness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "A sonographer-patient relationship establishes:",
+    "choices": [
+      "Double-trouble",
+      "Duty",
+      "Derelict",
+      "Direct cause"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "An act directly caused damages or injury to the patient is:",
+    "choices": [
+      "Duty",
+      "Direct cause",
+      "Breach of duty",
+      "Damages"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Res ipsa loquitur is a doctrine of:",
+    "choices": [
+      "Liability",
+      "Honor",
+      "Duty",
+      "Negligence"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would be most likely help to prevent medical malpractice?",
+    "choices": [
+      "Obtain a chaperone when needed.",
+      "Offer minimal medical advice to patients.",
+      "Provide the patient with a preliminary diagnosis.",
+      "Discuss examination findings in front of other patients."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Respondeat superior is a doctrine of:",
+    "choices": [
+      "Negligence",
+      "Liability",
+      "Duty",
+      "Honor"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is also referred to as a healthcare proxy?",
+    "choices": [
+      "Durable power of attorney",
+      "Healthcare advance directive",
+      "Living will",
+      "Code blue"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would need to be completed if a patient were injured while in your care?",
+    "choices": [
+      "Informed consent",
+      "Incident report",
+      "Living will",
+      "Sonographer report"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following combines the power of attorney and a living will?",
+    "choices": [
+      "Code Blue",
+      "Advanced citation",
+      "Healthcare advance directive",
+      "Do not resuscitate"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Contralateral means:",
+    "choices": [
+      "On the opposite side of the body",
+      "Toward the origin of the body",
+      "Toward the feet or away from the head",
+      "On the same side of the body"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Toward the point of attachment of a structure refers to:",
+    "choices": [
+      "Lateral",
+      "Medial",
+      "Distal",
+      "Proximal"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Person in the reclined position with the feet raised higher than the head is in:",
+    "choices": [
+      "Semiprone",
+      "Semi-Fowler's",
+      "Fowlers",
+      "Trendelenburg"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would employ a Pedoff probe?",
+    "choices": [
+      "Pulsed-wave Doppler",
+      "Power Doppler",
+      "Continuous-wave Doppler",
+      "Color Doppler"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following uses a range gate for vessel sampling?",
+    "choices": [
+      "Continuous-wave Doppler",
+      "Pulsed-wave Doppler",
+      "Color Doppler",
+      "Power Doppler"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would allow the display of superficial structures only?",
+    "choices": [
+      "Increasing the depth",
+      "Increasing the TGC",
+      "Decreasing the TGC",
+      "Decreasing the depth"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would be used in the first-trimester obstetric sonogram to demonstrate fetal heart activity?",
+    "choices": [
+      "M-mode",
+      "Trace",
+      "Color Doppler",
+      "Ellipse"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What transducer would typically yield a rectangular-shaped image?",
+    "choices": [
+      "Curvilinear",
+      "Linear",
+      "Vector",
+      "Sector"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which type of transducer would require soaking in a decontamination solution after each use?",
+    "choices": [
+      "Transabdominal transducer",
+      "Linear thyroid transducer",
+      "Endovaginal transducer",
+      "Transthoracic transducer"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the third step in Maslow hierarchy of needs?",
+    "choices": [
+      "Love",
+      "Self-actualization",
+      "Self-esteem",
+      "Physiologic needs"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "At which phase in the grieving process would one become silent and possibly unresponsive?",
+    "choices": [
+      "Depression",
+      "Anger",
+      "Bargaining",
+      "Denial"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not an element of communication?",
+    "choices": [
+      "Feedback",
+      "Sender",
+      "Message",
+      "Contrast"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Kinesics refers to:",
+    "choices": [
+      "Physical contact",
+      "Personal space",
+      "Physical distance",
+      "Body language"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Proxemics refers to:",
+    "choices": [
+      "Personal space",
+      "Physical contact",
+      "Physical distance",
+      "Body language"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the first step of cultural competence?",
+    "choices": [
+      "Cultural awareness",
+      "Cultural desire",
+      "Cultural skill",
+      "Cultural knowledge"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The amount of blood flow ejected from the left ventricle of the heart during systole and the amount of resistance the blood meets is:",
+    "choices": [
+      "Pulse",
+      "Respiration",
+      "Blood pressure",
+      "Homeostasis"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which pulse is obtained at the antecubital fossa?",
+    "choices": [
+      "Brachial",
+      "Apical",
+      "Dorsalis pedis",
+      "None of these"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The most accurate blood pressure is acquired with the patient:",
+    "choices": [
+      "Standing",
+      "Sitting",
+      "Exercising",
+      "Asleep"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The arm that is used to obtain the blood pressure should be placed:",
+    "choices": [
+      "Above the heart",
+      "Below the heart",
+      "Above the head",
+      "At the level of the heart"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would not be a typical symptom of low blood pressure?",
+    "choices": [
+      "Tenderness",
+      "Confusion",
+      "Dizziness",
+      "Blurred vision"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What should you do first when transporting a patient on a stretcher from the emergency room to the sonography room?",
+    "choices": [
+      "Obtain the patient's chart if he or she has one.",
+      "Inform the patient's nurse that you will be transporting the patient.",
+      "Talk to the patient's doctor about the diagnosis.",
+      "Ask the patient to get off of the stretcher."
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The intravenous solution should be kept:",
+    "choices": [
+      "Below the patients buttocks",
+      "Above the infusion site",
+      "Above the knees",
+      "Below the feet"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Urinary catheter bags should be placed:",
+    "choices": [
+      "Below bladder level",
+      "On the patients lap",
+      "Above the heart",
+      "On the shoulder"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Before transferring a patient's oxygen line from a portable tank to the wall unit, you should:",
+    "choices": [
+      "Check to see what LPM is required for the patient",
+      "Turn the wall oxygen on 15 LPM",
+      "Disconnect the line",
+      "Turn off the oxygen tank"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What valve is located between the aorta and left ventricle?",
+    "choices": [
+      "Aortic valve",
+      "Bicuspid valve",
+      "Tricuspid valve",
+      "Antecubital valve"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "To obtain a pulse, one should use his or her:",
+    "choices": [
+      "Ear",
+      "Thumb",
+      "Middle and index finger",
+      "Index finger only"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the sonographer's first step in an emergency situation in the hospital setting?",
+    "choices": [
+      "Notify the emergency response team.",
+      "Perform CPR.",
+      "Yell \"emergency!\"",
+      "Call a code red."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not a step of the ACDU scale for sonographers?",
+    "choices": [
+      "Is the patient confused?",
+      "Is the patient alert?",
+      "Is the patient breathing?",
+      "Is the patient unresponsive?"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What is the second stage in the shock continuum?",
+    "choices": [
+      "Irreversible",
+      "Compensatory",
+      "Progressive",
+      "Hematological"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "What type of shock would result from trauma and internal bleeding?",
+    "choices": [
+      "Hypovolemic",
+      "Anaphylactic",
+      "Septic",
+      "Cardiogenic"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "What type of shock results from the inability of the heart to perfuse the body?",
+    "choices": [
+      "Hypovolemic",
+      "Septic",
+      "Anaphylactic",
+      "Cardiogenic"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not a form of distributive shock?",
+    "choices": [
+      "Septic",
+      "Neurogenic",
+      "Cardiopulmonic",
+      "Anaphylactic"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What type of shock could result from an allergy from intravenous contrast?",
+    "choices": [
+      "Neurogenic",
+      "Septic",
+      "Cardiopulmonic",
+      "Anaphylactic"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following would be considered a severe anaphylactic clinical symptom or sign?",
+    "choices": [
+      "Coughing",
+      "Itching",
+      "Dysphasia",
+      "Nasal congestion"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "What should you do if a pregnant patient begins to complain of dizziness and weakness while you are performing an obstetric sonogram?",
+    "choices": [
+      "Hold the patient's hand.",
+      "Speed up the examination.",
+      "Roll the patient onto her side.",
+      "Have the patient take in deep breaths."
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which of the following is not a typical clinical symptom of syncope?",
+    "choices": [
+      "Hyperpnea",
+      "Pallor",
+      "Dysphasia",
+      "Dizziness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "In response to shock, the patient should be placed in what position?",
+    "choices": [
+      "Left lateral decubitus",
+      "Trendelenburg",
+      "Semi-Fowler's",
+      "Prone"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Hypovolemic shock may lead to the discoloration of the skin, a condition known as:",
+    "choices": [
+      "Cyanosis",
+      "Diaphoresis",
+      "Syndactyly",
+      "Syncope"
+    ],
+    "answer": 0,
+    "explanation": ""
+  }
+]
