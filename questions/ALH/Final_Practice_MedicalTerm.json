@@ -1,0 +1,1298 @@
+[
+  {
+    "prompt": "A combining form is the:",
+    "choices": [
+      "word ending",
+      "root plus combining vowel",
+      "prefix",
+      "prefix plus combining vowel",
+      "root plus suffix"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The combining form meaning joint is:",
+    "choices": [
+      "aden/o",
+      "-itis",
+      "-algia",
+      "arthr/o",
+      "oste/o"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "A suffix meaning inflammation is:",
+    "choices": [
+      "-itis",
+      "-osis",
+      "-ac",
+      "-al",
+      "-tomy"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "A word part meaning below, less than normal",
+    "choices": [
+      "re-",
+      "hyper-",
+      "trans-",
+      "-emia",
+      "hypo-"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A suffix meaning study of is:",
+    "choices": [
+      "-pathy",
+      "-logy",
+      "-gram",
+      "-scopy",
+      "-osis"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A tumor of a gland is called:",
+    "choices": [
+      "arthrosis",
+      "arthroscope",
+      "adenoma",
+      "nephroma",
+      "hepatitis"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Visual examination of the urinary bladder is called:",
+    "choices": [
+      "cystoscopy",
+      "cytology",
+      "cystogram",
+      "nephroscopy",
+      "cystoscope"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Prediction about the outcome of an illness or treatment is called:",
+    "choices": [
+      "prognosis",
+      "psychosis",
+      "diagnosis",
+      "biopsy",
+      "pathology"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "(Condition of) nerve pain is called:",
+    "choices": [
+      "neural",
+      "arthralgia",
+      "cephalgia",
+      "neueralgia",
+      "neuralgia"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Ren/o and nephr/o both mean:",
+    "choices": [
+      "heart",
+      "liver",
+      "blood",
+      "kidney",
+      "intestine"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which term relates to the brain?",
+    "choices": [
+      "anemia",
+      "cerebral",
+      "rhinitis",
+      "thrombosis",
+      "gastrotomy"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A cancerous tumor is a(n);",
+    "choices": [
+      "hematoma",
+      "adenoma",
+      "oncology",
+      "gastralgia",
+      "carcinoma"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A red blood cell is a(n):",
+    "choices": [
+      "platelet",
+      "thrombocyte",
+      "erythrocyte",
+      "leukocyte",
+      "resection"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Abnormal condition of clot formation:",
+    "choices": [
+      "gastritis",
+      "osteitis",
+      "adenosis",
+      "dermatitis",
+      "thrombosis"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "An instrument to visually examine the urinary bladder is called a(n)",
+    "choices": [
+      "cystoscopy",
+      "cystoscope",
+      "gastroscope",
+      "arthroscopy",
+      "excision"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "An excessive (more than normal) amount of sugar in the blood is called:",
+    "choices": [
+      "hypothyroidism",
+      "hyperthyroidism",
+      "hyperglycemia",
+      "hypoglycemia",
+      "hypodermic"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "A gastrectomy is a(n):",
+    "choices": [
+      "gastric excision",
+      "gastroscopy",
+      "visual examination of the abdomen",
+      "incision of the stomach",
+      "incision of a gland"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Glands that secrete hormones are glands.",
+    "choices": [
+      "enteral",
+      "endocrine",
+      "exocrine",
+      "adenoma",
+      "neural"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Increase in cancerous white blood cells in blood and bone marrow:",
+    "choices": [
+      "leukemia",
+      "anemia",
+      "adenosis",
+      "leukocytosis",
+      "osteoma"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "A large incision across the abdomen is called:",
+    "choices": [
+      "laparoscopy",
+      "rhinotomy",
+      "laparotomy",
+      "gastrotomy",
+      "gastroscopy"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The body system that controls breathing is the system.",
+    "choices": [
+      "circulatory",
+      "digestive",
+      "nervous",
+      "endocrine",
+      "respiratory"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "The individual unit that each part of the body is composed of is called a(n):",
+    "choices": [
+      "organ",
+      "cell",
+      "tissue",
+      "system",
+      "gland"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The body system that supports the body and allows it to move is the:",
+    "choices": [
+      "skin and sense organs",
+      "nervous system",
+      "urinary system",
+      "musculoskeletal system",
+      "female reproductive system"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The voice box is the:",
+    "choices": [
+      "larynx",
+      "pharynx",
+      "trachea",
+      "esophagus",
+      "bronchial tube"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The tube leading from the bladder to the outside of the body is the:",
+    "choices": [
+      "urethra",
+      "uterus",
+      "large intestine",
+      "vagina",
+      "ureter"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The endocrine gland located at the base of the brain is the:",
+    "choices": [
+      "adrenal gland",
+      "prostate gland",
+      "pituitary gland",
+      "thyroid gland",
+      "pancreas"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Bundle of nerves that extends from the brain down the back:",
+    "choices": [
+      "vertebrae",
+      "spinal column",
+      "spinal cord",
+      "pelvis",
+      "brain"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The chest cavity is the cavity.",
+    "choices": [
+      "cranial",
+      "abdominal",
+      "spinal",
+      "pelvic",
+      "thoracic"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "The double membrane surrounding the organs in the abdomen is the:",
+    "choices": [
+      "peritoneum",
+      "pericardium",
+      "pleura",
+      "diaphragm",
+      "mediastinum"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The bones of the hip area:",
+    "choices": [
+      "trachea",
+      "carpals",
+      "cervix",
+      "pelvis",
+      "phalanges"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The space in the chest that contains the heart and other organs is the:",
+    "choices": [
+      "mediastinum",
+      "pleural cavity",
+      "cranial cavity",
+      "abdomen",
+      "spinal cavity"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "A backbone is a:",
+    "choices": [
+      "disc",
+      "vertebra",
+      "cartilage",
+      "vertebrae",
+      "spinal nerve"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The backbones in the region of the neck are the bones.",
+    "choices": [
+      "lumbar",
+      "cervical",
+      "coccygeal",
+      "thoracic",
+      "sacral"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Flexible connective tissue found between bones at joints is:",
+    "choices": [
+      "nervous tissue",
+      "muscle tissue",
+      "skin",
+      "cartilage",
+      "epithelial tissue"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The tailbone is the:",
+    "choices": [
+      "sacrum",
+      "coccyx",
+      "pharynx",
+      "larynx",
+      "cartilage"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Anterior means:",
+    "choices": [
+      "side",
+      "back",
+      "front",
+      "lateral",
+      "posterior"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The plane that divides the body into right and left sides is called the plane.",
+    "choices": [
+      "sagittal (lateral)",
+      "frontal (coronal)",
+      "transverse (axial)",
+      "cervical",
+      "sacral"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "A series of x-ray images that show the body in cross section is called:",
+    "choices": [
+      "MRI (magnetic resonance imaging)",
+      "chest x-rays",
+      "gastroscopy",
+      "laparoscopy",
+      "CT scan (computed tomography)"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A term meaning pertaining to skin cells or cells lining the inner part of internal organs is:",
+    "choices": [
+      "lumbar",
+      "vertebral",
+      "cervical",
+      "esophageal",
+      "epithelial"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Incision of the skull is called:",
+    "choices": [
+      "laparotomy",
+      "craniotomy",
+      "laryngectomy",
+      "rhinotomy",
+      "tracheotomy"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A term meaning pertaining to the throat is:",
+    "choices": [
+      "thoracic",
+      "esophageal",
+      "pharyngeal",
+      "tracheal",
+      "laryngeal"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Inflammation of the membrane surrounding the lungs is called:",
+    "choices": [
+      "pleuritis",
+      "bronchitis",
+      "pericarditis",
+      "pleural",
+      "rhinitis"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The suffix -osis means:",
+    "choices": [
+      "inflammation",
+      "tumor",
+      "pain",
+      "abnormal condition",
+      "visual examination"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Blood infection is called:",
+    "choices": [
+      "anemia",
+      "septicemia",
+      "meningitis",
+      "hematoma",
+      "hemorrhage"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Ear pain is called:",
+    "choices": [
+      "otitis",
+      "rhinalgia",
+      "myalgia",
+      "arthritis",
+      "otalgia"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A condition in which blood is held back from an organ is:",
+    "choices": [
+      "ischemia",
+      "uremia",
+      "hematuria",
+      "leukemia",
+      "menorrhea"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "A benign tumor of muscle is a(n)",
+    "choices": [
+      "adenoma",
+      "adenocarcinoma",
+      "myoma",
+      "myosarcoma",
+      "myocardial infarction"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Renal failure leads to an abnormal blood condition called:",
+    "choices": [
+      "vasculitis",
+      "leukemia",
+      "menorrhagia",
+      "thrombosis",
+      "uremia"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Enlargement of the liver is called:",
+    "choices": [
+      "hepatomegaly",
+      "nephritis",
+      "hepatitis",
+      "cardiomegaly",
+      "splenomegaly"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Inflammation of the membranes around the brain and spinal cord is called:",
+    "choices": [
+      "neuritis",
+      "encephalitis",
+      "pleuritis",
+      "meningitis",
+      "peritonitis"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The windpipe is called the:",
+    "choices": [
+      "larynx",
+      "pharynx",
+      "esophagus",
+      "trachea",
+      "colon"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Disease of heart muscle is called:",
+    "choices": [
+      "myopathy",
+      "arthropathy",
+      "cardiomyopathy",
+      "nephropathy",
+      "encephalopathy"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "A cancerous tumor of glandular (epithelial) cells is called a(n)",
+    "choices": [
+      "leukemia",
+      "adenopathy",
+      "adenoma",
+      "adenocarcinoma",
+      "sarcoma"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Normal discharge of blood during the menstrual period is called:",
+    "choices": [
+      "hemorrhage",
+      "menorrhea",
+      "rhinorrhea",
+      "anemia",
+      "hematuria"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A word part meaning a hardening is:",
+    "choices": [
+      "-centesis",
+      "-lysis",
+      "-pathy",
+      "-plasty",
+      "-sclerosis"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A term meaning pertaining to the groin is:",
+    "choices": [
+      "inguinal",
+      "renal",
+      "pelvic",
+      "peritoneal",
+      "cervical"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Abnormal condition of blood in the urine is called:",
+    "choices": [
+      "uremia",
+      "menorrhagia",
+      "hematuria",
+      "hematology",
+      "ischemia"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "A myocardial infarction is a(n):",
+    "choices": [
+      "stroke",
+      "heart attack",
+      "disease of the brain",
+      "enlargement of the liver",
+      "inflammation of a joint"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A condition that lasts for a long time is called:",
+    "choices": [
+      "acute",
+      "septic",
+      "lateral",
+      "coccygeal",
+      "chronic"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A suffix meaning removal or resection is:",
+    "choices": [
+      "-tomy",
+      "-plasty",
+      "-ectomy",
+      "-stomy",
+      "-therapy"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Removal of a fallopian tube is called:",
+    "choices": [
+      "hysterotomy",
+      "prostatectomy",
+      "thoracocentesis",
+      "salpingectomy",
+      "oophorectomy"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The condition of not being to breathe is called:",
+    "choices": [
+      "atrophy",
+      "tachypnea",
+      "dysplasia",
+      "dyspnea",
+      "apnea"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A term meaning before birth is:",
+    "choices": [
+      "antigen",
+      "antepartum",
+      "postpartum",
+      "postnatal",
+      "neonatal"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Deficiency in red blood cells or of the hemoglobin within the red cells is called:",
+    "choices": [
+      "aphasia",
+      "amenorrhea",
+      "anemia",
+      "apnea",
+      "dysplasia"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Excessive (more than normal) development, enlargement or overgrowth is called:",
+    "choices": [
+      "hypoplasia",
+      "dysplasia",
+      "atrophy",
+      "hypertrophy",
+      "neoplastic"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "A return of signs and symptoms of illness is called:",
+    "choices": [
+      "remission",
+      "resection",
+      "prolapse",
+      "prosthesis",
+      "relapse"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Difficult, painful urination is called:",
+    "choices": [
+      "urinalysis",
+      "dysuria",
+      "polyuria",
+      "hematuria",
+      "uremia"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A substance that work against germs made by white blood cells a(n):",
+    "choices": [
+      "antibody",
+      "antibiotic",
+      "antigen",
+      "hemoglobin",
+      "leukocyte"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "An irregularity that is present at birth is called:",
+    "choices": [
+      "intrauterine",
+      "neonatal",
+      "benign",
+      "congenital anomaly",
+      "ectopic pregnancy"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Slow heartbeat is called:",
+    "choices": [
+      "bradycardia",
+      "tachypnea",
+      "cardiomegaly",
+      "myocardial infarction",
+      "tachycardia"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Artificial substitute for a missing part of the body is called a(n):",
+    "choices": [
+      "metacarpal",
+      "epidermis",
+      "prosthesis",
+      "anomaly",
+      "intervertebral disc"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Term meaning pertaining to under the shoulder bone is:",
+    "choices": [
+      "subcostal",
+      "hypodermic",
+      "subdural",
+      "epidural",
+      "subscapular"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Term meaning pertaining to two (both) sides is:",
+    "choices": [
+      "unilateral",
+      "tricuspid",
+      "intravenous",
+      "sagittal",
+      "bilateral"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "The process of recording sound waves to make an image of organs in the body is called:",
+    "choices": [
+      "CT scan",
+      "ultrasonography",
+      "MRI",
+      "endoscopy",
+      "dialysis"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Endocrine glands that are near (above) each kidney are called glands.",
+    "choices": [
+      "adrenal",
+      "prostate",
+      "subcostal",
+      "parathyroid",
+      "transurethral"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The spread of a cancerous tumor to another organ away from the original location is termed:",
+    "choices": [
+      "subcutaneous",
+      "carcinoma",
+      "neoplastic",
+      "metastasis",
+      "benign"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Two prefixes that mean beyond are:",
+    "choices": [
+      "tachy- and brady-",
+      "pro- and pre-",
+      "dys- and mal-",
+      "re- and retro-",
+      "ultra- and meta-"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "A word that means complete separation and refers to the process of separating wastes from the blood is:",
+    "choices": [
+      "dialysis",
+      "diarrhea",
+      "urinalysis",
+      "syndrome",
+      "subcutaneous"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "A membrane that surrounds bone is:",
+    "choices": [
+      "pericardium",
+      "peritoneum",
+      "diaphragm",
+      "mediastinum",
+      "periosteum"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "The prefixes ante- and have the same meaning.",
+    "choices": [
+      "a-, an-",
+      "anti-",
+      "pro-",
+      "ad-",
+      "pan-"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Prefixes with similar meanings are poly- and:",
+    "choices": [
+      "re-",
+      "dys-",
+      "syn-",
+      "hyper-",
+      "hypo-"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "A set of signs and symptoms that occur together to indicate a disease condition is called a(n):",
+    "choices": [
+      "analysis",
+      "syndrome",
+      "dialysis",
+      "prognosis",
+      "remission"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Internal medicine is a specialty concerned with:",
+    "choices": [
+      "diagnosis of disease using x-rays",
+      "care of patients who require sudden and immediate action",
+      "diagnosis and treatment of children's disorders",
+      "diagnosis and treatment of disorders of the mind",
+      "diagnosis and treatment of usually complex, nonsurgical disorders in adults"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Clinical means:",
+    "choices": [
+      "pertaining to time",
+      "pertaining to the lung",
+      "pertaining to patient care",
+      "pertaining to skin disorders",
+      "pertaining to laboratory research"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which doctor specializes in treating older patients?",
+    "choices": [
+      "family medicine specialist",
+      "geriatrician",
+      "rheumatologist",
+      "pediatrician",
+      "obstetrician"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "An opening from the kidney to the outside of the body is a:",
+    "choices": [
+      "thoracotomy",
+      "tracheostomy",
+      "laparotomy",
+      "colostomy",
+      "nephrostomy"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Enlargement of the heart is called:",
+    "choices": [
+      "hepatomegaly",
+      "nephromegaly",
+      "gastromegaly",
+      "myocardial infarction",
+      "cardiomegaly"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Instrument to view the eye is a(n):",
+    "choices": [
+      "otoscopy",
+      "otoscope",
+      "ophthalmoscope",
+      "laparoscope",
+      "ophthalmoscopy"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Discharge of fluid from the nose is called:",
+    "choices": [
+      "rhinotomy",
+      "rhinorrhea",
+      "menorrhea",
+      "dysmenorrhea",
+      "rhinitis"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Medical doctor who specializes in treating bone disorders:",
+    "choices": [
+      "pathologist",
+      "oncologist",
+      "physical medicine and rehabilitation specialist",
+      "orthopedist",
+      "rheumatologist"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Inflammation of the kidney is called:",
+    "choices": [
+      "enteritis",
+      "colitis",
+      "nephritis",
+      "otitis",
+      "hepatitis"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Doctor who specializes in treatment of blood disorders:",
+    "choices": [
+      "hematologist",
+      "psychiatrist",
+      "thoracic surgeon",
+      "dermatologist",
+      "cardiologist"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which term is not spelled correctly?",
+    "choices": [
+      "laryngeal",
+      "pulmonery",
+      "vasculitis",
+      "neuralgia",
+      "gastroenterology"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "The combining form iatr/o means:",
+    "choices": [
+      "sensation",
+      "disease",
+      "treatment",
+      "tumor",
+      "mind"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "The combining form onc/o means:",
+    "choices": [
+      "treatment",
+      "intestines",
+      "ear",
+      "old age",
+      "tumor"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "The combining form rect/o means:",
+    "choices": [
+      "rectum",
+      "nose",
+      "chest",
+      "flow, fluid",
+      "treatment"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "prompt": "The combining form pulmon/o means:",
+    "choices": [
+      "mind",
+      "kidney",
+      "blood",
+      "lung",
+      "ear"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "The combining form col/o means:",
+    "choices": [
+      "x-rays",
+      "sensation",
+      "intestines",
+      "rectum",
+      "colon (large intestine)"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "The combining form ger/o means:",
+    "choices": [
+      "child",
+      "old age",
+      "disease",
+      "treatment",
+      "sensation"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A combining form meaning voice box is:",
+    "choices": [
+      "thorac/o",
+      "laryng/o",
+      "rhin/o",
+      "ot/o",
+      "lymph/o"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "A combining form meaning mind is:",
+    "choices": [
+      "crani/o",
+      "optic/o",
+      "path/o",
+      "enter/o",
+      "psych/o"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which condition would an otolaryngologist treat?",
+    "choices": [
+      "cervical dysplasia",
+      "sickle cell anemia",
+      "vocal cord polyps, cancer",
+      "hyperthyroidism",
+      "cystitis"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which condition or procedure would a cardiologist manage?",
+    "choices": [
+      "pneumonectomy",
+      "arthroscopy",
+      "resection of a brain tumor",
+      "drug treatment of breast cancer",
+      "arrhythmia"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which condition would a hematologist treat?",
+    "choices": [
+      "cervical dysplasia",
+      "sickle cell anemia",
+      "vocal cord polyps, cancer",
+      "hyperthyroidism",
+      "cystitis"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which condition would an endocrinologist treat?",
+    "choices": [
+      "cervical dysplasia",
+      "sickle cell anemia",
+      "vocal cord polyps, cancer",
+      "hyperthyroidism",
+      "cystitis"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "prompt": "Which condition would a urologist treat?",
+    "choices": [
+      "cervical dysplasia",
+      "sickle cell anemia",
+      "vocal cord polyps, cancer",
+      "hyperthyroidism",
+      "cystitis"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "The combining form for lung is:",
+    "choices": [
+      "esthesi/o",
+      "iatr/o",
+      "vascul/o",
+      "ger/o",
+      "pulmon/o"
+    ],
+    "answer": 4,
+    "explanation": ""
+  },
+  {
+    "prompt": "The combining form for mind is:",
+    "choices": [
+      "gastr/o",
+      "lymph/o",
+      "pulmon/o",
+      "psych/o",
+      "ped/o"
+    ],
+    "answer": 3,
+    "explanation": ""
+  }
+]
