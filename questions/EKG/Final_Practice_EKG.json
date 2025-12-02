@@ -645,7 +645,7 @@
       "80 bpm",
       "20 bpm"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "1500 divided by 25 (small boxes) equals 60."
   },
   {
@@ -722,7 +722,7 @@
       "Alternating current interference",
       "Baseline shift"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": ""
   },
   {
@@ -744,7 +744,7 @@
       "Wandering baseline",
       "Involuntary movement"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": ""
   },
   {
@@ -755,7 +755,7 @@
       "Wandering baseline",
       "Involuntary movement"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": ""
   },
   {
@@ -777,7 +777,7 @@
       "Placement of the electrodes is different.",
       "The recording speed is different."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": ""
   },
   {
